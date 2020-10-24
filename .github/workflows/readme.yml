@@ -3,6 +3,7 @@ name: Generate README
 on:
   schedule:
     - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -19,8 +20,6 @@ jobs:
           node ./.github/scripts/index.js ${{ secrets.TOKEN }}
       - name: Commit files
         run: |
-          rm -rf .git
-          git init
           git config --local user.email "songjp1996@gmail.com"
           git config --local user.name "songjp"
           git add .
@@ -30,4 +29,3 @@ jobs:
         with:
           branch: master
           github_token: ${{ secrets.TOKEN }}
-          force: true
