@@ -16,7 +16,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong>
-		&nbsp;Update At 10/25/2020, 5:55:21 PM
+		&nbsp;Update At 10/25/2020, 9:59:44 AM
   </summary>
   <br>
 
@@ -26,13 +26,11 @@ Code For Fun
 | [screenshot-service](https://github.com/yes1am/screenshot-service) | 基于 https://github.com/alvarcarto/url-to-pdf-api 改进的 node 截图服务 | 3 |
 | [essay-outline](https://github.com/yes1am/essay-outline) | :link: a chrome extension, generate essay-outline on all sites , inspired by https://github.com/dbkaplun/github-markdown-outline-extension | 1 |
 | [stand-up-comedy](https://github.com/yes1am/stand-up-comedy) | :microphone: 单口喜剧 | 1 |
-| [crontab-script](https://github.com/ToBeTheLifeHacker/crontab-script) | 一些定时脚本 | - |
-| [automator](https://github.com/yes1am/automator) | Do something automatically with puppeteer | - |
-| [babel-workshop](https://github.com/yes1am/babel-workshop) | babel 工作坊 | - |
-| [chrome-extension-star](https://github.com/yes1am/chrome-extension-star) | A chrome extension, `star` page and save in github issue. | - |
+| [magic-pocket](https://github.com/yes1am/magic-pocket) | 用于存放demo,包括实践某个API、实现某个功能 | - |
 | [chrome-extension-starter](https://github.com/yes1am/chrome-extension-starter) | :seedling: A boilerplate for Chrome Extensions | - |
 | [dadao](https://github.com/yes1am/dadao) | 豆瓣大島的动态收集 https://yes1am.github.io/dadao/ | - |
 | [douban-movie-calendar](https://github.com/yes1am/douban-movie-calendar) | 豆瓣电影日历 https://yes1am.github.io/douban-movie-calendar/ | - |
+| [babel-workshop](https://github.com/yes1am/babel-workshop) | babel 工作坊 | - |
 | [express-react-boilerplate](https://github.com/yes1am/express-react-boilerplate) | :seedling: 基于express与react的开发模板 | - |
 | [express-vue-boilerplate](https://github.com/yes1am/express-vue-boilerplate) | 基于 express 的 Vue 开发环境 | - |
 | [fe-lib](https://github.com/yes1am/fe-lib) | fe-lib | - |
@@ -41,7 +39,7 @@ Code For Fun
 | [jsbox](https://github.com/yes1am/jsbox) | :game_die: 个人 jsbox 脚本集 | - |
 | [lazy-dev](https://github.com/yes1am/lazy-dev) | :hammer: 快速搭建项目开发环境 | - |
 | [learn-typescript](https://github.com/yes1am/learn-typescript) | 学习 TypeScript | - |
-| [magic-pocket](https://github.com/yes1am/magic-pocket) | 用于存放demo,包括实践某个API、实现某个功能 | - |
+| [automator](https://github.com/yes1am/automator) | Do something automatically with puppeteer | - |
 | [mobile-workshop](https://github.com/yes1am/mobile-workshop) | 移动端开发 工作坊 | - |
 | [oauth-demo](https://github.com/yes1am/oauth-demo) | oauth-demo | - |
 | [oh-my-github](https://github.com/yes1am/oh-my-github) | do some interesting things by using github api | - |
@@ -51,8 +49,10 @@ Code For Fun
 | [react-ts-workshop](https://github.com/yes1am/react-ts-workshop) | 支持 TypeScript 的 React 工作坊 | - |
 | [redux-demo](https://github.com/yes1am/redux-demo) | 简单的 redux demo | - |
 | [RNworkshop](https://github.com/yes1am/RNworkshop) | 基于 create-react-native-app 的 RN 开发环境，用于本地调试 RN 组件 | - |
+| [crontab-script](https://github.com/ToBeTheLifeHacker/crontab-script) | 一些定时脚本 | - |
 | [sheldon](https://github.com/yes1am/sheldon) | A React Native app, which tries to fulfill all my needs on mobile. | - |
 | [simple-explorer](https://github.com/yes1am/simple-explorer) | Only view the directories or files you care about. | - |
+| [chrome-extension-star](https://github.com/yes1am/chrome-extension-star) | A chrome extension, `star` page and save in github issue. | - |
 | [static](https://github.com/yes1am/static) | 一些静态网页 | - |
 | [vue-assistive-touch](https://github.com/yes1am/vue-assistive-touch) | Vue version of Assistive Touch, Inspired by and copy code from https://github.com/abhishekkhandait/react-assistivetouch-menu | - |
 | [wechat-dev](https://github.com/yes1am/wechat-dev) | 微信公众号开发, Node 示例 | - |

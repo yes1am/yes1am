@@ -24,27 +24,9 @@
     "star": 1
   },
   {
-    "name": "crontab-script",
-    "description": "一些定时脚本",
-    "link": "https://github.com/ToBeTheLifeHacker/crontab-script",
-    "star": "-"
-  },
-  {
-    "name": "automator",
-    "description": "Do something automatically with puppeteer",
-    "link": "https://github.com/yes1am/automator",
-    "star": "-"
-  },
-  {
-    "name": "babel-workshop",
-    "description": "babel 工作坊",
-    "link": "https://github.com/yes1am/babel-workshop",
-    "star": "-"
-  },
-  {
-    "name": "chrome-extension-star",
-    "description": "A chrome extension, `star` page and save in github issue.",
-    "link": "https://github.com/yes1am/chrome-extension-star",
+    "name": "magic-pocket",
+    "description": "用于存放demo,包括实践某个API、实现某个功能",
+    "link": "https://github.com/yes1am/magic-pocket",
     "star": "-"
   },
   {
@@ -63,6 +45,12 @@
     "name": "douban-movie-calendar",
     "description": "豆瓣电影日历 https://yes1am.github.io/douban-movie-calendar/",
     "link": "https://github.com/yes1am/douban-movie-calendar",
+    "star": "-"
+  },
+  {
+    "name": "babel-workshop",
+    "description": "babel 工作坊",
+    "link": "https://github.com/yes1am/babel-workshop",
     "star": "-"
   },
   {
@@ -114,9 +102,9 @@
     "star": "-"
   },
   {
-    "name": "magic-pocket",
-    "description": "用于存放demo,包括实践某个API、实现某个功能",
-    "link": "https://github.com/yes1am/magic-pocket",
+    "name": "automator",
+    "description": "Do something automatically with puppeteer",
+    "link": "https://github.com/yes1am/automator",
     "star": "-"
   },
   {
@@ -174,6 +162,12 @@
     "star": "-"
   },
   {
+    "name": "crontab-script",
+    "description": "一些定时脚本",
+    "link": "https://github.com/ToBeTheLifeHacker/crontab-script",
+    "star": "-"
+  },
+  {
     "name": "sheldon",
     "description": "A React Native app, which tries to fulfill all my needs on mobile.",
     "link": "https://github.com/yes1am/sheldon",
@@ -183,6 +177,12 @@
     "name": "simple-explorer",
     "description": "Only view the directories or files you care about.",
     "link": "https://github.com/yes1am/simple-explorer",
+    "star": "-"
+  },
+  {
+    "name": "chrome-extension-star",
+    "description": "A chrome extension, `star` page and save in github issue.",
+    "link": "https://github.com/yes1am/chrome-extension-star",
     "star": "-"
   },
   {
