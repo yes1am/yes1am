@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "art-template": "^4.13.2",
+    "cheerio": "^1.0.0-rc.3",
     "request": "^2.88.2",
     "request-promise": "^4.2.6"
   },
