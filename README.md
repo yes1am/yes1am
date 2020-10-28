@@ -16,7 +16,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong>
-		&nbsp;Update At 10/27/2020, 12:10:39 AM
+		&nbsp;Update At 10/28/2020, 12:11:11 AM
   </summary>
   <br>
 
@@ -45,7 +45,7 @@ Code For Fun
 | [oh-my-github](https://github.com/yes1am/oh-my-github) | do some interesting things by using github api | - |
 | [PicBed](https://github.com/yes1am/PicBed) | PicGo Github 图床 | - |
 | [PiggyBank](https://github.com/yes1am/PiggyBank) | &#34;存钱罐&#34; - 用于收集星星 | - |
-| [react-story-book](https://github.com/yes1am/react-story-book) | storybook of react-component. | - |
+| [react-story-book](https://github.com/yes1am/react-story-book) | React 组件库 | - |
 | [react-ts-workshop](https://github.com/yes1am/react-ts-workshop) | 支持 TypeScript 的 React 工作坊 | - |
 | [redux-demo](https://github.com/yes1am/redux-demo) | 简单的 redux demo | - |
 | [RNworkshop](https://github.com/yes1am/RNworkshop) | 基于 create-react-native-app 的 RN 开发环境，用于本地调试 RN 组件 | - |
