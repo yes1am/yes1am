@@ -16,7 +16,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong>
-		&nbsp;Update At 10/28/2020, 12:11:11 AM
+		&nbsp;Update At 10/29/2020, 12:10:56 AM
   </summary>
   <br>
 
@@ -67,6 +67,7 @@ Code For Fun
 
 | repository  |
 | --- | 
+| [ckeditor4](https://github.com/ckeditor/ckeditor4): The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins. |
 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge): 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It&#39;s not easy to buy a own house, so I hope that it would be useful to everyone. |
 | [just-react](https://github.com/BetaSu/just-react): 「React技术揭秘」  一本自顶向下，从理念到代码的源码分析书 |
 | [tree-cli](https://github.com/MrRaindrop/tree-cli): 🌴List contents of directories in tree-like format. |

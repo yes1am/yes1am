@@ -1,5 +1,23 @@
 [
   {
+    "userName": "kpdecker",
+    "repoName": "jsdiff",
+    "description": "A javascript text differencing implementation.",
+    "link": "https://github.com/kpdecker/jsdiff"
+  },
+  {
+    "userName": "praneshr",
+    "repoName": "react-diff-viewer",
+    "description": "A simple and beautiful text diff viewer component made with Diff and React.",
+    "link": "https://github.com/praneshr/react-diff-viewer"
+  },
+  {
+    "userName": "quilljs",
+    "repoName": "quill",
+    "description": "Quill is a modern WYSIWYG editor built for compatibility and extensibility.",
+    "link": "https://github.com/quilljs/quill"
+  },
+  {
     "userName": "ckeditor",
     "repoName": "ckeditor4",
     "description": "The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins.",

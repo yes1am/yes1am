@@ -1,5 +1,40 @@
 [
   {
+    "nickName": "瓶子君",
+    "userName": "sisterAn",
+    "bio": "up, up, up!",
+    "link": "/sisterAn",
+    "pinnedRepos": {
+      "followCount": "336",
+      "repos": [
+        {
+          "desc": "瓶博：每日更新，前端前进",
+          "title": "blog",
+          "link": "/sisterAn/blog",
+          "star": "719"
+        },
+        {
+          "desc": "小型 JavaScript 打包器",
+          "title": "minipack",
+          "link": "/sisterAn/minipack",
+          "star": "22"
+        },
+        {
+          "desc": "基础理论+JS框架应用+实践，从0到1构建整个前端算法体系",
+          "title": "JavaScript-Algorithms",
+          "link": "/sisterAn/JavaScript-Algorithms",
+          "star": "1.5k"
+        },
+        {
+          "desc": "前端工程化",
+          "title": "front-end-engineering",
+          "link": "/sisterAn/front-end-engineering",
+          "star": ""
+        }
+      ]
+    }
+  },
+  {
     "nickName": "卡颂",
     "userName": "BetaSu",
     "bio": "吹灭读书灯，一身都是月",
