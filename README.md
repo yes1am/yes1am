@@ -16,7 +16,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong>
-		&nbsp;Update At 10/29/2020, 12:10:56 AM
+		&nbsp;Update At 10/30/2020, 12:07:54 AM
   </summary>
   <br>
 
@@ -67,6 +67,9 @@ Code For Fun
 
 | repository  |
 | --- | 
+| [jsdiff](https://github.com/kpdecker/jsdiff): A javascript text differencing implementation. |
+| [react-diff-viewer](https://github.com/praneshr/react-diff-viewer): A simple and beautiful text diff viewer component made with Diff and React. |
+| [quill](https://github.com/quilljs/quill): Quill is a modern WYSIWYG editor built for compatibility and extensibility. |
 | [ckeditor4](https://github.com/ckeditor/ckeditor4): The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins. |
 | [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge): 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It&#39;s not easy to buy a own house, so I hope that it would be useful to everyone. |
 | [just-react](https://github.com/BetaSu/just-react): 「React技术揭秘」  一本自顶向下，从理念到代码的源码分析书 |
@@ -314,6 +317,7 @@ Code For Fun
 
 | Following  |
 | --- | 
+| [sisterAn](https://github.com/sisterAn)<ul><li>[blog](https://github.com/sisterAn/blog): 瓶博：每日更新，前端前进</li><li>[minipack](https://github.com/sisterAn/minipack): 小型 JavaScript 打包器</li><li>[JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms): 基础理论+JS框架应用+实践，从0到1构建整个前端算法体系</li><li>[front-end-engineering](https://github.com/sisterAn/front-end-engineering): 前端工程化</li><ul>|
 | [BetaSu](https://github.com/BetaSu)<ul><li>[just-react](https://github.com/BetaSu/just-react): 「React技术揭秘」 一本自顶向下，从理念到代码的源码分析书</li><li>[react-on-the-way](https://github.com/BetaSu/react-on-the-way): 基于V16.13.1，从0实现React</li><li>[react](https://github.com/facebook/react): A declarative, efficient, and flexible JavaScript library for building user interfaces.</li><li>[my-vue-editor](https://github.com/BetaSu/my-vue-editor): a rich text editor for Vue 2.x</li><li>[anu](https://github.com/lizheming/anu): the React16-compat library with hooks</li><ul>|
 | [chencl1986](https://github.com/chencl1986)<ul><li>[Blog](https://github.com/chencl1986/Blog): Welcome to lee&#39;s blog.</li><li>[react-router4-training](https://github.com/chencl1986/react-router4-training): React Router 4.0入门（Web Only）</li><li>[vue-tutorial](https://github.com/chencl1986/vue-tutorial): A tutorial for beginners in Vue 2.x.</li><li>[css3-review](https://github.com/chencl1986/css3-review): Review the key points of CSS3.</li><li>[koa2-tutorial](https://github.com/chencl1986/koa2-tutorial): A tutorial for beginners in Koa2.</li><li>[typescript-tutorial](https://github.com/chencl1986/typescript-tutorial): A tutorial for beginners in TypeScript.</li><ul>|
 | [sorrycc](https://github.com/sorrycc)<ul><li>[umi](https://github.com/umijs/umi): 🌋 Pluggable enterprise-level react application framework.</li><li>[dva](https://github.com/dvajs/dva): 🌱 React and redux based, lightweight and elm-style framework. (Inspired by elm and choo)</li><li>[blog](https://github.com/sorrycc/blog): 💡</li><li>[roadhog](https://github.com/sorrycc/roadhog): 🐷 Cli tool for creating react apps, configurable version of create-react-app.</li><li>[babel-plugin-import](https://github.com/ant-design/babel-plugin-import): Modularly import plugin for babel.</li><li>[awesome-javascript](https://github.com/sorrycc/awesome-javascript): 🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.</li><ul>|

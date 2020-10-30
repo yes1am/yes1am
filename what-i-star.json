@@ -1,5 +1,11 @@
 [
   {
+    "userName": "dfoverdx",
+    "repoName": "htmldiff-js",
+    "description": "JavaScript port of htmldiff.net (http://github.com/Rohland/htmldiff.net)",
+    "link": "https://github.com/dfoverdx/htmldiff-js"
+  },
+  {
     "userName": "kpdecker",
     "repoName": "jsdiff",
     "description": "A javascript text differencing implementation.",
