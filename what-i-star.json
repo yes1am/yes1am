@@ -1,5 +1,17 @@
 [
   {
+    "userName": "vuejs",
+    "repoName": "vue-hackernews-2.0",
+    "description": "HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering",
+    "link": "https://github.com/vuejs/vue-hackernews-2.0"
+  },
+  {
+    "userName": "Neveryu",
+    "repoName": "vue-ssr-lessons",
+    "description": "包教会的 vue 服务端渲染课程",
+    "link": "https://github.com/Neveryu/vue-ssr-lessons"
+  },
+  {
     "userName": "dfoverdx",
     "repoName": "htmldiff-js",
     "description": "JavaScript port of htmldiff.net (http://github.com/Rohland/htmldiff.net)",

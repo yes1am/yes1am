@@ -16,7 +16,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong>
-		&nbsp;Update At 10/30/2020, 12:07:54 AM
+		&nbsp;Update At 10/31/2020, 12:05:57 AM
   </summary>
   <br>
 
@@ -67,6 +67,7 @@ Code For Fun
 
 | repository  |
 | --- | 
+| [htmldiff-js](https://github.com/dfoverdx/htmldiff-js): JavaScript port of htmldiff.net (http://github.com/Rohland/htmldiff.net) |
 | [jsdiff](https://github.com/kpdecker/jsdiff): A javascript text differencing implementation. |
 | [react-diff-viewer](https://github.com/praneshr/react-diff-viewer): A simple and beautiful text diff viewer component made with Diff and React. |
 | [quill](https://github.com/quilljs/quill): Quill is a modern WYSIWYG editor built for compatibility and extensibility. |
