@@ -16,7 +16,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong>
-		&nbsp;Update At 10/31/2020, 12:05:57 AM
+		&nbsp;Update At 11/1/2020, 12:06:59 AM
   </summary>
   <br>
 
@@ -67,6 +67,8 @@ Code For Fun
 
 | repository  |
 | --- | 
+| [vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0): HackerNews clone built with Vue 2.0, vue-router &#38; vuex, with server-side rendering |
+| [vue-ssr-lessons](https://github.com/Neveryu/vue-ssr-lessons): 包教会的 vue 服务端渲染课程 |
 | [htmldiff-js](https://github.com/dfoverdx/htmldiff-js): JavaScript port of htmldiff.net (http://github.com/Rohland/htmldiff.net) |
 | [jsdiff](https://github.com/kpdecker/jsdiff): A javascript text differencing implementation. |
 | [react-diff-viewer](https://github.com/praneshr/react-diff-viewer): A simple and beautiful text diff viewer component made with Diff and React. |
