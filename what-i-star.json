@@ -1,5 +1,11 @@
 [
   {
+    "userName": "typicode",
+    "repoName": "husky",
+    "description": "Git hooks made easy 🐶 woof!",
+    "link": "https://github.com/typicode/husky"
+  },
+  {
     "userName": "vuejs",
     "repoName": "vue-hackernews-2.0",
     "description": "HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering",
