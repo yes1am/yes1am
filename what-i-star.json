@@ -1,6 +1,18 @@
 [
   {
     "userName": "typicode",
+    "repoName": "json-server",
+    "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
+    "link": "https://github.com/typicode/json-server"
+  },
+  {
+    "userName": "react-component",
+    "repoName": "dialog",
+    "description": "React Dialog",
+    "link": "https://github.com/react-component/dialog"
+  },
+  {
+    "userName": "typicode",
     "repoName": "husky",
     "description": "Git hooks made easy 🐶 woof!",
     "link": "https://github.com/typicode/husky"

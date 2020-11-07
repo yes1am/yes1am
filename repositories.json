@@ -42,6 +42,12 @@
     "star": "-"
   },
   {
+    "name": "dont-commit-me",
+    "description": "Prevent from committing sensitive words",
+    "link": "https://github.com/yes1am/dont-commit-me",
+    "star": "-"
+  },
+  {
     "name": "douban-movie-calendar",
     "description": "豆瓣电影日历 https://yes1am.github.io/douban-movie-calendar/",
     "link": "https://github.com/yes1am/douban-movie-calendar",
