@@ -16,7 +16,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong>
-		&nbsp;Update At 11/7/2020, 12:07:18 AM
+		&nbsp;Update At 11/8/2020, 12:07:32 AM
   </summary>
   <br>
 
@@ -68,6 +68,8 @@ Code For Fun
 
 | repository  |
 | --- | 
+| [json-server](https://github.com/typicode/json-server): Get a full fake REST API with zero coding in less than 30 seconds (seriously) |
+| [dialog](https://github.com/react-component/dialog): React Dialog |
 | [husky](https://github.com/typicode/husky): Git hooks made easy 🐶 woof! |
 | [vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0): HackerNews clone built with Vue 2.0, vue-router &#38; vuex, with server-side rendering |
 | [vue-ssr-lessons](https://github.com/Neveryu/vue-ssr-lessons): 包教会的 vue 服务端渲染课程 |
