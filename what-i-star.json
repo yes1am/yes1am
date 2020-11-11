@@ -1,5 +1,11 @@
 [
   {
+    "userName": "thzt",
+    "repoName": "fe-sibi-guide",
+    "description": "前端撕逼指南",
+    "link": "https://github.com/thzt/fe-sibi-guide"
+  },
+  {
     "userName": "typicode",
     "repoName": "json-server",
     "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
