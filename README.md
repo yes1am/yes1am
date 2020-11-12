@@ -16,7 +16,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong>
-		&nbsp;Update At 11/11/2020, 12:05:29 AM
+		&nbsp;Update At 11/12/2020, 12:06:37 AM
   </summary>
   <br>
 
@@ -68,6 +68,7 @@ Code For Fun
 
 | repository  |
 | --- | 
+| [fe-sibi-guide](https://github.com/thzt/fe-sibi-guide): 前端撕逼指南 |
 | [json-server](https://github.com/typicode/json-server): Get a full fake REST API with zero coding in less than 30 seconds (seriously) |
 | [dialog](https://github.com/react-component/dialog): React Dialog |
 | [husky](https://github.com/typicode/husky): Git hooks made easy 🐶 woof! |
