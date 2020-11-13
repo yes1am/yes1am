@@ -1,5 +1,17 @@
 [
   {
+    "userName": "johnmpotter",
+    "repoName": "npm-trends",
+    "description": "NPM package comparison",
+    "link": "https://github.com/johnmpotter/npm-trends"
+  },
+  {
+    "userName": "wangeditor-team",
+    "repoName": "wangEditor",
+    "description": "wangEditor —— 轻量级web富文本框",
+    "link": "https://github.com/wangeditor-team/wangEditor"
+  },
+  {
     "userName": "thzt",
     "repoName": "fe-sibi-guide",
     "description": "前端撕逼指南",
