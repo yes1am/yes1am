@@ -1,5 +1,52 @@
 [
   {
+    "nickName": "Jun Han",
+    "userName": "formulahendry",
+    "bio": "《Visual Studio Code 权威指南》 作者，公众号“HJ说”",
+    "link": "/formulahendry",
+    "pinnedRepos": {
+      "followCount": "1.6k",
+      "repos": [
+        {
+          "desc": "Code Runner for Visual Studio Code",
+          "title": "vscode-code-runner",
+          "link": "/formulahendry/vscode-code-runner",
+          "star": "1.2k"
+        },
+        {
+          "desc": "955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)",
+          "title": "955.WLB",
+          "link": "/formulahendry/955.WLB",
+          "star": "22.8k"
+        },
+        {
+          "desc": "中文版 Awesome VS Code",
+          "title": "awesome-vscode-cn",
+          "link": "/formulahendry/awesome-vscode-cn",
+          "star": "681"
+        },
+        {
+          "desc": "Auto Close Tag for Visual Studio Code",
+          "title": "vscode-auto-close-tag",
+          "link": "/formulahendry/vscode-auto-close-tag",
+          "star": "121"
+        },
+        {
+          "desc": "MySQL management tool for Visual Studio Code",
+          "title": "vscode-mysql",
+          "link": "/formulahendry/vscode-mysql",
+          "star": "155"
+        },
+        {
+          "desc": ".NET Core Test Explorer for Visual Studio Code",
+          "title": "vscode-dotnet-test-explorer",
+          "link": "/formulahendry/vscode-dotnet-test-explorer",
+          "star": "139"
+        }
+      ]
+    }
+  },
+  {
     "nickName": "瓶子君",
     "userName": "sisterAn",
     "bio": "up, up, up!",

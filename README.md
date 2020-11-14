@@ -16,7 +16,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong>
-		&nbsp;Update At 11/13/2020, 12:06:59 AM
+		&nbsp;Update At 11/14/2020, 12:06:53 AM
   </summary>
   <br>
 
@@ -68,6 +68,8 @@ Code For Fun
 
 | repository  |
 | --- | 
+| [npm-trends](https://github.com/johnmpotter/npm-trends): NPM package comparison |
+| [wangEditor](https://github.com/wangeditor-team/wangEditor): wangEditor —— 轻量级web富文本框 |
 | [fe-sibi-guide](https://github.com/thzt/fe-sibi-guide): 前端撕逼指南 |
 | [json-server](https://github.com/typicode/json-server): Get a full fake REST API with zero coding in less than 30 seconds (seriously) |
 | [dialog](https://github.com/react-component/dialog): React Dialog |
