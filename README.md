@@ -16,7 +16,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong>
-		&nbsp;Update At 11/14/2020, 12:06:53 AM
+		&nbsp;Update At 11/15/2020, 12:07:12 AM
   </summary>
   <br>
 
@@ -327,6 +327,7 @@ Code For Fun
 
 | Following  |
 | --- | 
+| [formulahendry](https://github.com/formulahendry)<ul><li>[vscode-code-runner](https://github.com/formulahendry/vscode-code-runner): Code Runner for Visual Studio Code</li><li>[955.WLB](https://github.com/formulahendry/955.WLB): 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)</li><li>[awesome-vscode-cn](https://github.com/formulahendry/awesome-vscode-cn): 中文版 Awesome VS Code</li><li>[vscode-auto-close-tag](https://github.com/formulahendry/vscode-auto-close-tag): Auto Close Tag for Visual Studio Code</li><li>[vscode-mysql](https://github.com/formulahendry/vscode-mysql): MySQL management tool for Visual Studio Code</li><li>[vscode-dotnet-test-explorer](https://github.com/formulahendry/vscode-dotnet-test-explorer): .NET Core Test Explorer for Visual Studio Code</li><ul>|
 | [sisterAn](https://github.com/sisterAn)<ul><li>[blog](https://github.com/sisterAn/blog): 瓶博：每日更新，前端前进</li><li>[minipack](https://github.com/sisterAn/minipack): 小型 JavaScript 打包器</li><li>[JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms): 基础理论+JS框架应用+实践，从0到1构建整个前端算法体系</li><li>[front-end-engineering](https://github.com/sisterAn/front-end-engineering): 前端工程化</li><ul>|
 | [BetaSu](https://github.com/BetaSu)<ul><li>[just-react](https://github.com/BetaSu/just-react): 「React技术揭秘」 一本自顶向下，从理念到代码的源码分析书</li><li>[react-on-the-way](https://github.com/BetaSu/react-on-the-way): 基于V16.13.1，从0实现React</li><li>[react](https://github.com/facebook/react): A declarative, efficient, and flexible JavaScript library for building user interfaces.</li><li>[my-vue-editor](https://github.com/BetaSu/my-vue-editor): a rich text editor for Vue 2.x</li><li>[anu](https://github.com/lizheming/anu): the React16-compat library with hooks</li><ul>|
 | [chencl1986](https://github.com/chencl1986)<ul><li>[Blog](https://github.com/chencl1986/Blog): Welcome to lee&#39;s blog.</li><li>[react-router4-training](https://github.com/chencl1986/react-router4-training): React Router 4.0入门（Web Only）</li><li>[vue-tutorial](https://github.com/chencl1986/vue-tutorial): A tutorial for beginners in Vue 2.x.</li><li>[css3-review](https://github.com/chencl1986/css3-review): Review the key points of CSS3.</li><li>[koa2-tutorial](https://github.com/chencl1986/koa2-tutorial): A tutorial for beginners in Koa2.</li><li>[typescript-tutorial](https://github.com/chencl1986/typescript-tutorial): A tutorial for beginners in TypeScript.</li><ul>|
