@@ -43,7 +43,7 @@
   },
   {
     "name": "dont-commit-me",
-    "description": "Prevent from committing sensitive words",
+    "description": "Prevent from committing sensitive words, Git hooks for husky.",
     "link": "https://github.com/yes1am/dont-commit-me",
     "star": "-"
   },

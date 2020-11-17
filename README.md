@@ -16,7 +16,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong>
-		&nbsp;Update At 11/16/2020, 12:07:12 AM
+		&nbsp;Update At 11/17/2020, 12:07:12 AM
   </summary>
   <br>
 
@@ -29,7 +29,7 @@ Code For Fun
 | [magic-pocket](https://github.com/yes1am/magic-pocket) | 用于存放demo,包括实践某个API、实现某个功能 | - |
 | [chrome-extension-starter](https://github.com/yes1am/chrome-extension-starter) | :seedling: A boilerplate for Chrome Extensions | - |
 | [dadao](https://github.com/yes1am/dadao) | 豆瓣大島的动态收集 https://yes1am.github.io/dadao/ | - |
-| [dont-commit-me](https://github.com/yes1am/dont-commit-me) | Prevent from committing sensitive words | - |
+| [dont-commit-me](https://github.com/yes1am/dont-commit-me) | Prevent from committing sensitive words, Git hooks for husky. | - |
 | [douban-movie-calendar](https://github.com/yes1am/douban-movie-calendar) | 豆瓣电影日历 https://yes1am.github.io/douban-movie-calendar/ | - |
 | [babel-workshop](https://github.com/yes1am/babel-workshop) | babel 工作坊 | - |
 | [express-react-boilerplate](https://github.com/yes1am/express-react-boilerplate) | :seedling: 基于express与react的开发模板 | - |
