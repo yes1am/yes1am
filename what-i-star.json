@@ -1,5 +1,11 @@
 [
   {
+    "userName": "quilljs",
+    "repoName": "awesome-quill",
+    "description": "A curated list of awesome things related to Quill",
+    "link": "https://github.com/quilljs/awesome-quill"
+  },
+  {
     "userName": "a1029563229",
     "repoName": "blogs",
     "description": "博客文章收录",

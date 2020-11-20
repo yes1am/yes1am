@@ -204,6 +204,12 @@
     "star": "-"
   },
   {
+    "name": "webpack-workshop",
+    "description": "练习 webpack 的地方",
+    "link": "https://github.com/yes1am/webpack-workshop",
+    "star": "-"
+  },
+  {
     "name": "wechat-dev",
     "description": "微信公众号开发, Node 示例",
     "link": "https://github.com/yes1am/wechat-dev",

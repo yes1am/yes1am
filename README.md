@@ -16,7 +16,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong>
-		&nbsp;Update At 11/19/2020, 12:07:16 AM
+		&nbsp;Update At 11/20/2020, 12:07:26 AM
   </summary>
   <br>
 
@@ -56,6 +56,7 @@ Code For Fun
 | [chrome-extension-star](https://github.com/yes1am/chrome-extension-star) | A chrome extension, `star` page and save in github issue. | - |
 | [static](https://github.com/yes1am/static) | 一些静态网页 | - |
 | [vue-assistive-touch](https://github.com/yes1am/vue-assistive-touch) | Vue version of Assistive Touch, Inspired by and copy code from https://github.com/abhishekkhandait/react-assistivetouch-menu | - |
+| [webpack-workshop](https://github.com/yes1am/webpack-workshop) | 练习 webpack 的地方 | - |
 | [wechat-dev](https://github.com/yes1am/wechat-dev) | 微信公众号开发, Node 示例 | - |
 | [yes1am](https://github.com/yes1am/yes1am) |  | - |
 </details>
@@ -68,6 +69,8 @@ Code For Fun
 
 | repository  |
 | --- | 
+| [blogs](https://github.com/a1029563229/blogs): 博客文章收录 |
+| [element-react](https://github.com/ElemeFE/element-react): Element UI |
 | [npm-trends](https://github.com/johnmpotter/npm-trends): NPM package comparison |
 | [wangEditor](https://github.com/wangeditor-team/wangEditor): wangEditor —— 轻量级web富文本框 |
 | [fe-sibi-guide](https://github.com/thzt/fe-sibi-guide): 前端撕逼指南 |
@@ -327,6 +330,7 @@ Code For Fun
 
 | Following  |
 | --- | 
+| [dwb1994](https://github.com/dwb1994)<ul><li>[yapi](https://github.com/YMFE/yapi): YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台</li><li>[ydoc](https://github.com/YMFE/ydoc): 🐶YDoc 是一个更懂你的文档站构建工具，基于 markdown 轻松生成完整静态站点</li><li>[style-design-builder](https://github.com/dwb1994/style-design-builder): style guide builder</li><li>[lightordark](https://github.com/dwb1994/lightordark): 判断某个颜色是浅色还是暗色：支持调节最小对比度、支持前景色半透明</li><li>[ydoc-theme-dark](https://github.com/dwb1994/ydoc-theme-dark): YDoc 暗色主题 基于 PM2 文档 的样式改编。</li><li>[node-cors](https://github.com/dwb1994/node-cors): node cors demo</li><ul>|
 | [formulahendry](https://github.com/formulahendry)<ul><li>[vscode-code-runner](https://github.com/formulahendry/vscode-code-runner): Code Runner for Visual Studio Code</li><li>[955.WLB](https://github.com/formulahendry/955.WLB): 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)</li><li>[awesome-vscode-cn](https://github.com/formulahendry/awesome-vscode-cn): 中文版 Awesome VS Code</li><li>[vscode-auto-close-tag](https://github.com/formulahendry/vscode-auto-close-tag): Auto Close Tag for Visual Studio Code</li><li>[vscode-mysql](https://github.com/formulahendry/vscode-mysql): MySQL management tool for Visual Studio Code</li><li>[vscode-dotnet-test-explorer](https://github.com/formulahendry/vscode-dotnet-test-explorer): .NET Core Test Explorer for Visual Studio Code</li><ul>|
 | [sisterAn](https://github.com/sisterAn)<ul><li>[blog](https://github.com/sisterAn/blog): 瓶博：每日更新，前端前进</li><li>[minipack](https://github.com/sisterAn/minipack): 小型 JavaScript 打包器</li><li>[JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms): 基础理论+JS框架应用+实践，从0到1构建整个前端算法体系</li><li>[front-end-engineering](https://github.com/sisterAn/front-end-engineering): 前端工程化</li><ul>|
 | [BetaSu](https://github.com/BetaSu)<ul><li>[just-react](https://github.com/BetaSu/just-react): 「React技术揭秘」 一本自顶向下，从理念到代码的源码分析书</li><li>[react-on-the-way](https://github.com/BetaSu/react-on-the-way): 基于V16.13.1，从0实现React</li><li>[react](https://github.com/facebook/react): A declarative, efficient, and flexible JavaScript library for building user interfaces.</li><li>[my-vue-editor](https://github.com/BetaSu/my-vue-editor): a rich text editor for Vue 2.x</li><li>[anu](https://github.com/lizheming/anu): the React16-compat library with hooks</li><ul>|
