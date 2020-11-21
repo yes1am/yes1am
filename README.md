@@ -16,7 +16,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong>
-		&nbsp;Update At 11/20/2020, 12:07:26 AM
+		&nbsp;Update At 11/21/2020, 12:07:33 AM
   </summary>
   <br>
 
@@ -69,6 +69,7 @@ Code For Fun
 
 | repository  |
 | --- | 
+| [awesome-quill](https://github.com/quilljs/awesome-quill): A curated list of awesome things related to Quill |
 | [blogs](https://github.com/a1029563229/blogs): 博客文章收录 |
 | [element-react](https://github.com/ElemeFE/element-react): Element UI |
 | [npm-trends](https://github.com/johnmpotter/npm-trends): NPM package comparison |
