@@ -1,5 +1,11 @@
 [
   {
+    "userName": "im3x",
+    "repoName": "Scriptables",
+    "description": "iOS14桌面组件神器（Scriptable）开发框架、教程、精美脚本分享",
+    "link": "https://github.com/im3x/Scriptables"
+  },
+  {
     "userName": "quilljs",
     "repoName": "awesome-quill",
     "description": "A curated list of awesome things related to Quill",
