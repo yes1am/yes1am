@@ -16,7 +16,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong>
-		&nbsp;Update At 11/23/2020, 12:07:33 AM
+		&nbsp;Update At 11/24/2020, 12:07:38 AM
   </summary>
   <br>
 
@@ -69,6 +69,7 @@ Code For Fun
 
 | repository  |
 | --- | 
+| [Scriptables](https://github.com/im3x/Scriptables): iOS14桌面组件神器（Scriptable）开发框架、教程、精美脚本分享 |
 | [awesome-quill](https://github.com/quilljs/awesome-quill): A curated list of awesome things related to Quill |
 | [blogs](https://github.com/a1029563229/blogs): 博客文章收录 |
 | [element-react](https://github.com/ElemeFE/element-react): Element UI |
