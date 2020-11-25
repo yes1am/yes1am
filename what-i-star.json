@@ -1,5 +1,11 @@
 [
   {
+    "userName": "react-cosmos",
+    "repoName": "react-cosmos",
+    "description": "Dev environment for building scalable, high-quality user interfaces",
+    "link": "https://github.com/react-cosmos/react-cosmos"
+  },
+  {
     "userName": "im3x",
     "repoName": "Scriptables",
     "description": "iOS14桌面组件神器（Scriptable）开发框架、教程、精美脚本分享",
