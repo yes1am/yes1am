@@ -1,5 +1,11 @@
 [
   {
+    "userName": "denandz",
+    "repoName": "sourcemapper",
+    "description": "Extract JavaScript source trees from Sourcemap files",
+    "link": "https://github.com/denandz/sourcemapper"
+  },
+  {
     "userName": "react-cosmos",
     "repoName": "react-cosmos",
     "description": "Dev environment for building scalable, high-quality user interfaces",
