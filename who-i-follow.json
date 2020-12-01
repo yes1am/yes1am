@@ -1,5 +1,52 @@
 [
   {
+    "nickName": "言川",
+    "userName": "lihongxun945",
+    "bio": "阿里巴巴前端",
+    "link": "/lihongxun945",
+    "pinnedRepos": {
+      "followCount": "1.4k",
+      "repos": [
+        {
+          "desc": "言川的博客-前端精华博客",
+          "title": "myblog",
+          "link": "/lihongxun945/myblog",
+          "star": "1.1k"
+        },
+        {
+          "desc": "UI lib for build hybrid wechat web app",
+          "title": "jquery-weui",
+          "link": "/lihongxun945/jquery-weui",
+          "star": "4.5k"
+        },
+        {
+          "desc": "An UI Framework build with Vue.js for mobile webapp",
+          "title": "vum",
+          "link": "/vum-team/vum",
+          "star": "1.6k"
+        },
+        {
+          "desc": "javascript gobang AI，可能是github上最受欢迎的五子棋AI",
+          "title": "gobang",
+          "link": "/lihongxun945/gobang",
+          "star": "990"
+        },
+        {
+          "desc": "Deadly simple implement of Vuejs",
+          "title": "tiny-vue",
+          "link": "/lihongxun945/tiny-vue",
+          "star": "236"
+        },
+        {
+          "desc": "webpack 源码解析系列",
+          "title": "diving-into-webpack",
+          "link": "/lihongxun945/diving-into-webpack",
+          "star": "649"
+        }
+      ]
+    }
+  },
+  {
     "nickName": "董文博",
     "userName": "dwb1994",
     "bio": "智者务其实 愚者争虚名",
