@@ -1,5 +1,11 @@
 [
   {
+    "userName": "LinDaiDai",
+    "repoName": "niubility-coding-js",
+    "description": "📒  霖呆呆的个人博客汇总",
+    "link": "https://github.com/LinDaiDai/niubility-coding-js"
+  },
+  {
     "userName": "denandz",
     "repoName": "sourcemapper",
     "description": "Extract JavaScript source trees from Sourcemap files",

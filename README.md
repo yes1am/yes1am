@@ -16,7 +16,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong>
-		&nbsp;Update At 12/1/2020, 12:08:37 AM
+		&nbsp;Update At 12/2/2020, 12:08:32 AM
   </summary>
   <br>
 
@@ -334,6 +334,7 @@ Code For Fun
 
 | Following  |
 | --- | 
+| [lihongxun945](https://github.com/lihongxun945)<ul><li>[myblog](https://github.com/lihongxun945/myblog): 言川的博客-前端精华博客</li><li>[jquery-weui](https://github.com/lihongxun945/jquery-weui): UI lib for build hybrid wechat web app</li><li>[vum](https://github.com/vum-team/vum): An UI Framework build with Vue.js for mobile webapp</li><li>[gobang](https://github.com/lihongxun945/gobang): javascript gobang AI，可能是github上最受欢迎的五子棋AI</li><li>[tiny-vue](https://github.com/lihongxun945/tiny-vue): Deadly simple implement of Vuejs</li><li>[diving-into-webpack](https://github.com/lihongxun945/diving-into-webpack): webpack 源码解析系列</li><ul>|
 | [dwb1994](https://github.com/dwb1994)<ul><li>[yapi](https://github.com/YMFE/yapi): YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台</li><li>[ydoc](https://github.com/YMFE/ydoc): 🐶YDoc 是一个更懂你的文档站构建工具，基于 markdown 轻松生成完整静态站点</li><li>[style-design-builder](https://github.com/dwb1994/style-design-builder): style guide builder</li><li>[lightordark](https://github.com/dwb1994/lightordark): 判断某个颜色是浅色还是暗色：支持调节最小对比度、支持前景色半透明</li><li>[ydoc-theme-dark](https://github.com/dwb1994/ydoc-theme-dark): YDoc 暗色主题 基于 PM2 文档 的样式改编。</li><li>[node-cors](https://github.com/dwb1994/node-cors): node cors demo</li><ul>|
 | [formulahendry](https://github.com/formulahendry)<ul><li>[vscode-code-runner](https://github.com/formulahendry/vscode-code-runner): Code Runner for Visual Studio Code</li><li>[955.WLB](https://github.com/formulahendry/955.WLB): 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)</li><li>[awesome-vscode-cn](https://github.com/formulahendry/awesome-vscode-cn): 中文版 Awesome VS Code</li><li>[vscode-auto-close-tag](https://github.com/formulahendry/vscode-auto-close-tag): Auto Close Tag for Visual Studio Code</li><li>[vscode-mysql](https://github.com/formulahendry/vscode-mysql): MySQL management tool for Visual Studio Code</li><li>[vscode-dotnet-test-explorer](https://github.com/formulahendry/vscode-dotnet-test-explorer): .NET Core Test Explorer for Visual Studio Code</li><ul>|
 | [sisterAn](https://github.com/sisterAn)<ul><li>[blog](https://github.com/sisterAn/blog): 瓶博：每日更新，前端前进</li><li>[minipack](https://github.com/sisterAn/minipack): 小型 JavaScript 打包器</li><li>[JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms): 基础理论+JS框架应用+实践，从0到1构建整个前端算法体系</li><li>[front-end-engineering](https://github.com/sisterAn/front-end-engineering): 前端工程化</li><ul>|
