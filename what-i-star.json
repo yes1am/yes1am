@@ -1,5 +1,17 @@
 [
   {
+    "userName": "gwuhaolin",
+    "repoName": "dive-into-webpack",
+    "description": "全面的Webpack教程《深入浅出Webpack》电子书",
+    "link": "https://github.com/gwuhaolin/dive-into-webpack"
+  },
+  {
+    "userName": "NSFI",
+    "repoName": "ppfish-components",
+    "description": "Fish Design: 面向B端设计的企业级UI组件库",
+    "link": "https://github.com/NSFI/ppfish-components"
+  },
+  {
     "userName": "LinDaiDai",
     "repoName": "niubility-coding-js",
     "description": "📒  霖呆呆的个人博客汇总",
