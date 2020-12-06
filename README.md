@@ -16,7 +16,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong>
-		&nbsp;Update At 12/5/2020, 12:08:49 AM
+		&nbsp;Update At 12/6/2020, 12:09:21 AM
   </summary>
   <br>
 
@@ -69,6 +69,8 @@ Code For Fun
 
 | repository  |
 | --- | 
+| [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack): 全面的Webpack教程《深入浅出Webpack》电子书 |
+| [ppfish-components](https://github.com/NSFI/ppfish-components): Fish Design: 面向B端设计的企业级UI组件库 |
 | [niubility-coding-js](https://github.com/LinDaiDai/niubility-coding-js): 📒  霖呆呆的个人博客汇总 |
 | [sourcemapper](https://github.com/denandz/sourcemapper): Extract JavaScript source trees from Sourcemap files |
 | [react-cosmos](https://github.com/react-cosmos/react-cosmos): Dev environment for building scalable, high-quality user interfaces |
