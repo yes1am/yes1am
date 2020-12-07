@@ -1,5 +1,40 @@
 [
   {
+    "nickName": "唐霜",
+    "userName": "tangshuang",
+    "bio": "Frontend Engineer",
+    "link": "/tangshuang",
+    "pinnedRepos": {
+      "followCount": "236",
+      "repos": [
+        {
+          "desc": "Nauti.js is a javascript framework for building cross-platform applications based on React.",
+          "title": "nautil",
+          "link": "/tangshuang/nautil",
+          "star": "13"
+        },
+        {
+          "desc": "A javascript runtime data type checking system and morden reactive state management model.",
+          "title": "tyshemo",
+          "link": "/tangshuang/tyshemo",
+          "star": "24"
+        },
+        {
+          "desc": "Maybe the best way to understand and use indexedDB. 😄😄😄",
+          "title": "indb",
+          "link": "/tangshuang/indb",
+          "star": "33"
+        },
+        {
+          "desc": "A JS image uploader, auto upload, process bar, preview before/during upload",
+          "title": "HHuploadify",
+          "link": "/tangshuang/HHuploadify",
+          "star": "50"
+        }
+      ]
+    }
+  },
+  {
     "nickName": "言川",
     "userName": "lihongxun945",
     "bio": "阿里巴巴前端",
