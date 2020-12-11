@@ -12,6 +12,12 @@
     "star": 3
   },
   {
+    "name": "dadao",
+    "description": "豆瓣大島的动态收集 https://yes1am.github.io/dadao/",
+    "link": "https://github.com/yes1am/dadao",
+    "star": 1
+  },
+  {
     "name": "essay-outline",
     "description": ":link: a chrome extension, generate essay-outline on all sites , inspired by https://github.com/dbkaplun/github-markdown-outline-extension",
     "link": "https://github.com/yes1am/essay-outline",
@@ -30,15 +36,9 @@
     "star": "-"
   },
   {
-    "name": "chrome-extension-starter",
-    "description": ":seedling: A boilerplate for Chrome Extensions",
-    "link": "https://github.com/yes1am/chrome-extension-starter",
-    "star": "-"
-  },
-  {
-    "name": "dadao",
-    "description": "豆瓣大島的动态收集 https://yes1am.github.io/dadao/",
-    "link": "https://github.com/yes1am/dadao",
+    "name": "babel-workshop",
+    "description": "babel 工作坊",
+    "link": "https://github.com/yes1am/babel-workshop",
     "star": "-"
   },
   {
@@ -54,9 +54,9 @@
     "star": "-"
   },
   {
-    "name": "babel-workshop",
-    "description": "babel 工作坊",
-    "link": "https://github.com/yes1am/babel-workshop",
+    "name": "crontab-script",
+    "description": "一些定时脚本",
+    "link": "https://github.com/ToBeTheLifeHacker/crontab-script",
     "star": "-"
   },
   {
@@ -168,9 +168,9 @@
     "star": "-"
   },
   {
-    "name": "crontab-script",
-    "description": "一些定时脚本",
-    "link": "https://github.com/ToBeTheLifeHacker/crontab-script",
+    "name": "chrome-extension-star",
+    "description": "A chrome extension, `star` page and save in github issue.",
+    "link": "https://github.com/yes1am/chrome-extension-star",
     "star": "-"
   },
   {
@@ -186,9 +186,9 @@
     "star": "-"
   },
   {
-    "name": "chrome-extension-star",
-    "description": "A chrome extension, `star` page and save in github issue.",
-    "link": "https://github.com/yes1am/chrome-extension-star",
+    "name": "chrome-extension-starter",
+    "description": ":seedling: A boilerplate for Chrome Extensions",
+    "link": "https://github.com/yes1am/chrome-extension-starter",
     "star": "-"
   },
   {
