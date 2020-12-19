@@ -16,7 +16,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong>
-		&nbsp;Update At 12/18/2020, 12:10:45 AM
+		&nbsp;Update At 12/19/2020, 12:10:30 AM
   </summary>
   <br>
 
@@ -24,7 +24,7 @@ Code For Fun
 | --- | --- | --- |
 | [blog](https://github.com/yes1am/blog) | :camera: 个人博客 https://yes-1-am.gitbook.io/blog/ | 5 |
 | [screenshot-service](https://github.com/yes1am/screenshot-service) | 基于 https://github.com/alvarcarto/url-to-pdf-api 改进的 node 截图服务 | 3 |
-| [dadao](https://github.com/yes1am/dadao) | 豆瓣大島的动态收集 https://yes1am.github.io/dadao/ | 1 |
+| [dadao](https://github.com/yes1am/dadao) | 豆瓣大島的动态收集 https://yes1am.github.io/dadao/ | 2 |
 | [essay-outline](https://github.com/yes1am/essay-outline) | :link: a chrome extension, generate essay-outline on all sites , inspired by https://github.com/dbkaplun/github-markdown-outline-extension | 1 |
 | [stand-up-comedy](https://github.com/yes1am/stand-up-comedy) | :microphone: 单口喜剧 | 1 |
 | [magic-pocket](https://github.com/yes1am/magic-pocket) | 用于存放demo,包括实践某个API、实现某个功能 | - |
