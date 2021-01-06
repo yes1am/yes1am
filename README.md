@@ -16,7 +16,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong>
-		&nbsp;Update At 1/5/2021, 12:21:14 AM
+		&nbsp;Update At 1/6/2021, 12:22:17 AM
   </summary>
   <br>
 
@@ -69,6 +69,7 @@ Code For Fun
 
 | repository  |
 | --- | 
+| [blog](https://github.com/MuYunyun/blog): Life is a moment :notebook_with_decorative_cover: |
 | [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack): 全面的Webpack教程《深入浅出Webpack》电子书 |
 | [ppfish-components](https://github.com/NSFI/ppfish-components): Fish Design: 面向B端设计的企业级UI组件库 |
 | [niubility-coding-js](https://github.com/LinDaiDai/niubility-coding-js): 📒  霖呆呆的个人博客汇总 |
