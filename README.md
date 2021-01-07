@@ -16,7 +16,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong>
-		&nbsp;Update At 1/6/2021, 12:22:17 AM
+		&nbsp;Update At 1/7/2021, 12:25:05 AM
   </summary>
   <br>
 
