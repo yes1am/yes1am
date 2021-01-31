@@ -1,5 +1,93 @@
 [
   {
+    "nickName": "Sheen",
+    "userName": "yinguangyao",
+    "bio": "FE",
+    "link": "/yinguangyao",
+    "pinnedRepos": {
+      "followCount": "68",
+      "repos": [
+        {
+          "desc": "关于 JavaScript 前端开发、工作经验的一点点总结。",
+          "title": "blog",
+          "link": "/yinguangyao/blog",
+          "star": "23"
+        },
+        {
+          "desc": "the resume built by react and redux",
+          "title": "react-resume",
+          "link": "/yinguangyao/react-resume",
+          "star": "26"
+        },
+        {
+          "desc": "a fantastic theme for hexo",
+          "title": "hexo-theme-cuna",
+          "link": "/learnitwell/hexo-theme-cuna",
+          "star": "2"
+        },
+        {
+          "desc": "一个简单的 react-redux 实现",
+          "title": "simple-react-redux",
+          "link": "/yinguangyao/simple-react-redux",
+          "star": "1"
+        },
+        {
+          "desc": "一个简单的 Mobx 实现",
+          "title": "simple-mobx",
+          "link": "/yinguangyao/simple-mobx",
+          "star": ""
+        },
+        {
+          "desc": "MonoRepo React Application",
+          "title": "tinger",
+          "link": "/yinguangyao/tinger",
+          "star": "2"
+        }
+      ]
+    }
+  },
+  {
+    "nickName": "wsm",
+    "userName": "Geronimomiao",
+    "bio": "",
+    "link": "/Geronimomiao",
+    "pinnedRepos": {
+      "followCount": "40",
+      "repos": [
+        {
+          "desc": "",
+          "title": "TJPU",
+          "link": "/Geronimomiao/TJPU",
+          "star": "3"
+        },
+        {
+          "desc": "",
+          "title": "zhihuWordCloud",
+          "link": "/Geronimomiao/zhihuWordCloud",
+          "star": "2"
+        },
+        {
+          "desc": "一些笔记 一些想法",
+          "title": "myblog",
+          "link": "/Geronimomiao/myblog",
+          "star": "2"
+        },
+        {
+          "desc": "基于上一代 版本对代码进行重构",
+          "title": "szt-2.0",
+          "link": "/Geronimomiao/szt-2.0",
+          "star": ""
+        },
+        {
+          "desc": "",
+          "title": "restful-api",
+          "link": "/Geronimomiao/restful-api",
+          "star": ""
+        }
+      ]
+    }
+  },
+  {
     "nickName": "唐霜",
     "userName": "tangshuang",
     "bio": "Frontend Engineer",
