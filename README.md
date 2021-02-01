@@ -16,7 +16,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong>
-		&nbsp;Update At 1/31/2021, 12:13:21 AM
+		&nbsp;Update At 2/1/2021, 12:13:09 AM
   </summary>
   <br>
 
@@ -69,6 +69,7 @@ Code For Fun
 
 | repository  |
 | --- | 
+| [myblog](https://github.com/Geronimomiao/myblog): 一些笔记 一些想法 |
 | [blog](https://github.com/MuYunyun/blog): Life is a moment :notebook_with_decorative_cover: |
 | [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack): 全面的Webpack教程《深入浅出Webpack》电子书 |
 | [ppfish-components](https://github.com/NSFI/ppfish-components): Fish Design: 面向B端设计的企业级UI组件库 |
@@ -338,6 +339,8 @@ Code For Fun
 
 | Following  |
 | --- | 
+| [yinguangyao](https://github.com/yinguangyao)<ul><li>[blog](https://github.com/yinguangyao/blog): 关于 JavaScript 前端开发、工作经验的一点点总结。</li><li>[react-resume](https://github.com/yinguangyao/react-resume): the resume built by react and redux</li><li>[hexo-theme-cuna](https://github.com/learnitwell/hexo-theme-cuna): a fantastic theme for hexo</li><li>[simple-react-redux](https://github.com/yinguangyao/simple-react-redux): 一个简单的 react-redux 实现</li><li>[simple-mobx](https://github.com/yinguangyao/simple-mobx): 一个简单的 Mobx 实现</li><li>[tinger](https://github.com/yinguangyao/tinger): MonoRepo React Application</li><ul>|
+| [Geronimomiao](https://github.com/Geronimomiao)<ul><li>[TJPU](https://github.com/Geronimomiao/TJPU): </li><li>[zhihuWordCloud](https://github.com/Geronimomiao/zhihuWordCloud): </li><li>[myblog](https://github.com/Geronimomiao/myblog): 一些笔记 一些想法</li><li>[szt-2.0](https://github.com/Geronimomiao/szt-2.0): 基于上一代 版本对代码进行重构</li><li>[restful-api](https://github.com/Geronimomiao/restful-api): </li><ul>|
 | [tangshuang](https://github.com/tangshuang)<ul><li>[nautil](https://github.com/tangshuang/nautil): Nauti.js is a javascript framework for building cross-platform applications based on React.</li><li>[tyshemo](https://github.com/tangshuang/tyshemo): A javascript runtime data type checking system and morden reactive state management model.</li><li>[indb](https://github.com/tangshuang/indb): Maybe the best way to understand and use indexedDB. 😄😄😄</li><li>[HHuploadify](https://github.com/tangshuang/HHuploadify): A JS image uploader, auto upload, process bar, preview before/during upload</li><ul>|
 | [lihongxun945](https://github.com/lihongxun945)<ul><li>[myblog](https://github.com/lihongxun945/myblog): 言川的博客-前端精华博客</li><li>[jquery-weui](https://github.com/lihongxun945/jquery-weui): UI lib for build hybrid wechat web app</li><li>[vum](https://github.com/vum-team/vum): An UI Framework build with Vue.js for mobile webapp</li><li>[gobang](https://github.com/lihongxun945/gobang): javascript gobang AI，可能是github上最受欢迎的五子棋AI</li><li>[tiny-vue](https://github.com/lihongxun945/tiny-vue): Deadly simple implement of Vuejs</li><li>[diving-into-webpack](https://github.com/lihongxun945/diving-into-webpack): webpack 源码解析系列</li><ul>|
 | [dwb1994](https://github.com/dwb1994)<ul><li>[yapi](https://github.com/YMFE/yapi): YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台</li><li>[ydoc](https://github.com/YMFE/ydoc): 🐶YDoc 是一个更懂你的文档站构建工具，基于 markdown 轻松生成完整静态站点</li><li>[style-design-builder](https://github.com/dwb1994/style-design-builder): style guide builder</li><li>[lightordark](https://github.com/dwb1994/lightordark): 判断某个颜色是浅色还是暗色：支持调节最小对比度、支持前景色半透明</li><li>[ydoc-theme-dark](https://github.com/dwb1994/ydoc-theme-dark): YDoc 暗色主题 基于 PM2 文档 的样式改编。</li><li>[node-cors](https://github.com/dwb1994/node-cors): node cors demo</li><ul>|
