@@ -1,5 +1,11 @@
 [
   {
+    "userName": "sindresorhus",
+    "repoName": "ora",
+    "description": "Elegant terminal spinner",
+    "link": "https://github.com/sindresorhus/ora"
+  },
+  {
     "userName": "Geronimomiao",
     "repoName": "myblog",
     "description": "一些笔记 一些想法",
