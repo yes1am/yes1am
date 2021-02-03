@@ -16,7 +16,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong>
-		&nbsp;Update At 2/2/2021, 12:12:19 AM
+		&nbsp;Update At 2/3/2021, 12:09:38 AM
   </summary>
   <br>
 
@@ -69,6 +69,7 @@ Code For Fun
 
 | repository  |
 | --- | 
+| [ora](https://github.com/sindresorhus/ora): Elegant terminal spinner |
 | [myblog](https://github.com/Geronimomiao/myblog): 一些笔记 一些想法 |
 | [blog](https://github.com/MuYunyun/blog): Life is a moment :notebook_with_decorative_cover: |
 | [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack): 全面的Webpack教程《深入浅出Webpack》电子书 |
