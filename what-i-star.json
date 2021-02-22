@@ -1,5 +1,11 @@
 [
   {
+    "userName": "facebook",
+    "repoName": "docusaurus",
+    "description": "Easy to maintain open source documentation websites.",
+    "link": "https://github.com/facebook/docusaurus"
+  },
+  {
     "userName": "sindresorhus",
     "repoName": "ora",
     "description": "Elegant terminal spinner",
