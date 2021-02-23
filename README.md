@@ -16,7 +16,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong>
-		&nbsp;Update At 2/22/2021, 12:08:24 AM
+		&nbsp;Update At 2/23/2021, 12:08:12 AM
   </summary>
   <br>
 
@@ -69,6 +69,7 @@ Code For Fun
 
 | repository  |
 | --- | 
+| [docusaurus](https://github.com/facebook/docusaurus): Easy to maintain open source documentation websites. |
 | [ora](https://github.com/sindresorhus/ora): Elegant terminal spinner |
 | [myblog](https://github.com/Geronimomiao/myblog): 一些笔记 一些想法 |
 | [blog](https://github.com/MuYunyun/blog): Life is a moment :notebook_with_decorative_cover: |
