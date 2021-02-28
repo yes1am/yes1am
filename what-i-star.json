@@ -1,5 +1,11 @@
 [
   {
+    "userName": "PanJiaChen",
+    "repoName": "awesome-bookmarks",
+    "description": ":sparkling_heart: A curated list of awesome things ",
+    "link": "https://github.com/PanJiaChen/awesome-bookmarks"
+  },
+  {
     "userName": "facebook",
     "repoName": "docusaurus",
     "description": "Easy to maintain open source documentation websites.",
