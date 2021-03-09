@@ -8,14 +8,15 @@ const {
   whatIStarPath,
   myReposPath
 } = require('../constant')
+const { readJSONContent } = require('./util')
 
 /**
  * 生成 README.md
  */
 module.exports = async function generateREADME () {
-  const myFollowing = require(whoIFollowPath)
-  const myRepos = require(myReposPath)
-  const myStars = require(whatIStarPath)
+  const myFollowing = readJSONContent(whoIFollowPath)
+  const myRepos = readJSONContent(myReposPath)
+  const myStars = readJSONContent(whatIStarPath)
 
   const { total: myFollowingTotal, users: myFollowingUsers } = myFollowing
   let { visibleTotal: myReposTotal, repos } = myRepos
@@ -36,6 +37,9 @@ module.exports = async function generateREADME () {
       i.stargazerCount = '-'
     }
   })
+
+  // 逆转顺序，按 star 时间从现在到过去排序
+  myStarsRepos.reverse()
 
   const date = new Date().toLocaleString()
   const outputMarkdown = template.render(templateStr, {

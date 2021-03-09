@@ -4,13 +4,13 @@ const { sleep, makeSureJSONFileExist } = require('./util')
 const { getToken } = require('./token')
 const { myReposPath } = require('../constant')
 
-// FIXME: 个人 repos 数量不多，一个请求就够了，因此不检查更新，每次全量。且由于 repos 返回值顺序和创建顺序无关，无法增量更新
-// 后续看接口能否支持按创建顺序返回，再优化
+// NOTE: repos 变化可能比较大，比如不定期会新增或删除，不方便增量更新。
+// 并且本身 repos 数量不会太大因此采取全量更新的方式
 
 async function getRepos () {
-  let { repos = [], lastCursor = '' } = require(myReposPath)
+  let repos = []
   let hasNext = true
-  let cursor = lastCursor || ''
+  let cursor = ''
   let total = 0
   const pageSize = 10
   let i = 1
@@ -23,9 +23,10 @@ async function getRepos () {
       uri: 'https://api.github.com/graphql',
       json: true,
       body: {
-        query: `query { viewer { repositories( first: ${pageSize}, ${afterStr} orderBy: { direction: DESC field: CREATED_AT }) { totalCount, pageInfo { hasNextPage endCursor }, nodes { name description, isPrivate, isFork, stargazerCount, url } } }}`
+        query: `query { viewer { repositories( first: ${pageSize}, ${afterStr} orderBy: { direction: ASC field: CREATED_AT }) { totalCount, pageInfo { hasNextPage endCursor }, nodes { name description isPrivate isFork stargazerCount url createdAt  } } }}`
       },
       headers: {
+        // NOTE: User Agent 必须
         'User-Agent': 'https://github.com/yes1am',
         Authorization: `bearer ${getToken()}`
       }
@@ -48,13 +49,14 @@ async function getRepos () {
       hasNext = hasNextPage
 
       // 如果没有返回 endCursor，则以上次的为准
-      cursor = endCursor || lastCursor
+      cursor = endCursor
       total = totalCount
 
       // 过滤私有仓库
       nodes = nodes.filter(item => !item.isPrivate)
       // 过滤 fork 仓库
       nodes = nodes.filter(item => !item.isFork)
+
       repos = repos.concat(nodes)
     } else if (response.error) {
       console.log('[getRepos] error', response.error)
@@ -62,8 +64,7 @@ async function getRepos () {
   }
   return {
     total,
-    repos,
-    cursor: cursor || ''
+    repos
   }
 }
 
@@ -72,14 +73,13 @@ async function getRepos () {
  */
 module.exports = async () => {
   makeSureJSONFileExist(myReposPath)
-  const { total, repos, cursor: lastCursor } = await getRepos()
+  const { total, repos } = await getRepos()
 
   // 写入文件
   fs.writeFileSync(myReposPath, JSON.stringify({
     realTotal: total,
     visibleTotal: repos.length,
-    repos,
-    lastCursor
+    repos
   }, null, 2))
   console.log(`写入 my-repositories 信息成功, 共 ${repos.length} 条数据`)
 }

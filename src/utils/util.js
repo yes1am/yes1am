@@ -31,7 +31,25 @@ const makeSureJSONFileExist = (filePath) => {
   }
 }
 
+/**
+ * 读取 json 文件内容, 因为使用 require 会存在缓存
+ * @param {*} filePath
+ * @returns
+ */
+const readJSONContent = (filePath) => {
+  let result = {}
+  try {
+    result = JSON.parse(fs.readFileSync(filePath, {
+      encoding: 'utf-8'
+    }))
+  } catch (error) {
+    console.log(['[readJSONContent] error:', filePath])
+  }
+  return result
+}
+
 module.exports = {
   sleep,
-  makeSureJSONFileExist
+  makeSureJSONFileExist,
+  readJSONContent
 }

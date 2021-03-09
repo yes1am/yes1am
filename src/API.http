@@ -11,25 +11,23 @@ query {
     repositories(
       first: 10
       orderBy: {
-      # 按星星数量，倒序
-        direction: DESC
-      	field: CREATED_AT
-    }) {
-      # edges {
-      #   cursor
-      #   node {
-      #     id
-      #   }
-      # }
+        direction: ASC
+        field: CREATED_AT
+      }
+    ) {
       totalCount
       pageInfo {
         hasNextPage
         endCursor
       }
-  		nodes {
+      nodes {
         name
         description
+        isPrivate
+        isFork
+        stargazerCount
         url
+        createdAt
       }
     }
   }
@@ -44,13 +42,13 @@ Authorization: bearer 【填入 token】
 Content-Type: application/json
 X-REQUEST-TYPE: GraphQL
 
-query { 
+query {
   viewer {
     starredRepositories(
       first: 10
       orderBy: {
-        field: STARRED_AT,
-        direction: DESC
+        field: STARRED_AT
+        direction: ASC
       }
     ) {
       totalCount
@@ -58,18 +56,16 @@ query {
         hasNextPage
         endCursor
       }
+      edges {
+        starredAt
+        cursor
+      }
       nodes {
-        # 仓库名称
         name
-        # 仓库地址
         url
-        # 仓库描述
         description
-        # 仓库的 owner
         owner {
-          # 用户名称
           login
-          # 用户首页地址
           url
         }
       }
@@ -86,7 +82,7 @@ Authorization: bearer 【填入 token】
 Content-Type: application/json
 X-REQUEST-TYPE: GraphQL
 
-query { 
+query {
   viewer {
     following(
       first: 10
@@ -97,11 +93,8 @@ query {
         endCursor
       }
       nodes {
-				# 个性签名
         bio
-        # 昵称         
         name
-        # 出现在 url 上的名称
         login
         url
         itemShowcase {

@@ -2,11 +2,11 @@ const fs = require('fs')
 const rp = require('request-promise')
 const { getToken } = require('./token')
 
-const { makeSureJSONFileExist, sleep } = require('./util')
+const { makeSureJSONFileExist, sleep, readJSONContent } = require('./util')
 const { whatIStarPath } = require('../constant')
 
 async function getStarsRepos () {
-  let { repos = [], lastCursor = '' } = require(whatIStarPath)
+  let { repos = [], lastCursor = '' } = readJSONContent(whatIStarPath)
   let hasNext = true
   let cursor = lastCursor || ''
   let total = 0
@@ -21,7 +21,7 @@ async function getStarsRepos () {
       uri: 'https://api.github.com/graphql',
       json: true,
       body: {
-        query: `query { viewer { starredRepositories( first: ${pageSize} ${afterStr} orderBy: { field: STARRED_AT, direction: DESC } ) { totalCount pageInfo { hasNextPage endCursor } nodes { name url description owner { login url } } } }}`
+        query: `query { viewer { starredRepositories( first: ${pageSize} ${afterStr} orderBy: { field: STARRED_AT, direction: ASC } ) { totalCount pageInfo { hasNextPage endCursor } edges { starredAt cursor } nodes { name url description owner { login url } } } }}`
       },
       headers: {
         'User-Agent': 'https://github.com/yes1am',
@@ -38,7 +38,8 @@ async function getStarsRepos () {
                 endCursor
               },
               totalCount,
-              nodes
+              nodes,
+              edges
             }
           }
         }
@@ -48,6 +49,13 @@ async function getStarsRepos () {
       // 如果没有返回 endCursor，则以上次的为准
       cursor = endCursor || lastCursor
       total = totalCount
+
+      // 新增 star 时间
+      nodes.forEach((node, index) => {
+        node.starredAt = edges[index].starredAt
+        node.cursor = edges[index].cursor
+      })
+
       repos = repos.concat(nodes)
     } else if (response.error) {
       console.log('[getStarsRepos] error', response.error)
