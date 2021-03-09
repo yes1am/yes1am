@@ -1,5 +1,5 @@
 {
-  "total": 263,
+  "total": 264,
   "repos": [
     {
       "name": "canvasfilters",
@@ -2893,7 +2893,18 @@
       },
       "starredAt": "2021-02-28T09:03:12Z",
       "cursor": "Y3Vyc29yOnYyOpLOYDvM0M4PsG3J"
+    },
+    {
+      "name": "tailwindcss",
+      "url": "https://github.com/tailwindlabs/tailwindcss",
+      "description": "A utility-first CSS framework for rapid UI development.",
+      "owner": {
+        "login": "tailwindlabs",
+        "url": "https://github.com/tailwindlabs"
+      },
+      "starredAt": "2021-03-09T14:56:09Z",
+      "cursor": "Y3Vyc29yOnYyOpLOYEf9Cc4Px8bb"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMS0wMi0yOFQxNzowMzoxMiswODowMM4PsG3J"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMS0wMy0wOVQyMjo1NjowOSswODowMM4Px8bb"
 }

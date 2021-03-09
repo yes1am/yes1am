@@ -16,7 +16,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (36)
-		&nbsp;Update At 3/9/2021, 10:43:01 PM 
+		&nbsp;Update At 3/9/2021, 3:15:46 PM 
   </summary>
   <br>
 
@@ -27,24 +27,24 @@ Code For Fun
 | [dadao](https://github.com/yes1am/dadao) | 豆瓣大島的动态收集 https://yes1am.github.io/dadao/ | 2 |
 | [essay-outline](https://github.com/yes1am/essay-outline) | :link: a chrome extension, generate essay-outline on all sites , inspired by https://github.com/dbkaplun/github-markdown-outline-extension | 1 |
 | [stand-up-comedy](https://github.com/yes1am/stand-up-comedy) | :microphone: 单口喜剧 | 1 |
-| [express-react-boilerplate](https://github.com/yes1am/express-react-boilerplate) | :seedling: 基于express与react的开发模板 | - |
-| [magic-pocket](https://github.com/yes1am/magic-pocket) | 用于存放demo,包括实践某个API、实现某个功能 | - |
-| [react-story-book](https://github.com/yes1am/react-story-book) | React 组件库 | - |
 | [fe-lib](https://github.com/yes1am/fe-lib) | fe-lib | - |
 | [js-leetcode](https://github.com/yes1am/js-leetcode) | solve and analyze leetcode | - |
+| [webpack-workshop](https://github.com/yes1am/webpack-workshop) | 练习 webpack 的地方 | - |
 | [vue-assistive-touch](https://github.com/yes1am/vue-assistive-touch) | Vue version of Assistive Touch, Inspired by and copy code from https://github.com/abhishekkhandait/react-assistivetouch-menu | - |
 | [PicBed](https://github.com/yes1am/PicBed) | PicGo Github 图床 | - |
 | [chrome-extension-starter](https://github.com/yes1am/chrome-extension-starter) | :seedling: A boilerplate for Chrome Extensions | - |
 | [lazy-dev](https://github.com/yes1am/lazy-dev) | :hammer: 快速搭建项目开发环境 | - |
+| [magic-pocket](https://github.com/yes1am/magic-pocket) | 用于存放demo,包括实践某个API、实现某个功能 | - |
 | [sheldon](https://github.com/yes1am/sheldon) | A React Native app, which tries to fulfill all my needs on mobile. | - |
 | [chrome-extension-star](https://github.com/yes1am/chrome-extension-star) | A chrome extension, `star` page and save in github issue. | - |
 | [PiggyBank](https://github.com/yes1am/PiggyBank) | &#34;存钱罐&#34; - 用于收集星星 | - |
 | [redux-demo](https://github.com/yes1am/redux-demo) | 简单的 redux demo | - |
 | [automator](https://github.com/yes1am/automator) | Do something automatically with puppeteer | - |
-| [oh-my-github](https://github.com/yes1am/oh-my-github) | do some interesting things by using github api | - |
+| [express-react-boilerplate](https://github.com/yes1am/express-react-boilerplate) | :seedling: 基于express与react的开发模板 | - |
 | [RNworkshop](https://github.com/yes1am/RNworkshop) | 基于 create-react-native-app 的 RN 开发环境，用于本地调试 RN 组件 | - |
 | [learn-typescript](https://github.com/yes1am/learn-typescript) | 学习 TypeScript | - |
 | [express-vue-boilerplate](https://github.com/yes1am/express-vue-boilerplate) | 基于 express 的 Vue 开发环境 | - |
+| [react-story-book](https://github.com/yes1am/react-story-book) | React 组件库 | - |
 | [yes1am](https://github.com/yes1am/yes1am) |  | - |
 | [jsbox](https://github.com/yes1am/jsbox) | :game_die: 个人 jsbox 脚本集 | - |
 | [react-ts-workshop](https://github.com/yes1am/react-ts-workshop) | 支持 TypeScript 的 React 工作坊 | - |
@@ -57,17 +57,18 @@ Code For Fun
 | [gitlab-webhooks-notification](https://github.com/yes1am/gitlab-webhooks-notification) | Gitlab Webhooks 的提醒服务 | - |
 | [douban-movie-calendar](https://github.com/yes1am/douban-movie-calendar) | 豆瓣电影日历 https://yes1am.github.io/douban-movie-calendar/ | - |
 | [dont-commit-me](https://github.com/yes1am/dont-commit-me) | Prevent from committing sensitive words, Git hooks for husky. | - |
-| [webpack-workshop](https://github.com/yes1am/webpack-workshop) | 练习 webpack 的地方 | - |
+| [oh-my-github](https://github.com/yes1am/oh-my-github) | do some interesting things by using github api | - |
 </details>
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (263)
+    <strong>👆 👉 What I Star. 👇<strong> (264)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [tailwindlabs](https://github.com/tailwindlabs)/[tailwindcss](https://github.com/tailwindlabs/tailwindcss): A utility-first CSS framework for rapid UI development. |
 | [PanJiaChen](https://github.com/PanJiaChen)/[awesome-bookmarks](https://github.com/PanJiaChen/awesome-bookmarks): :sparkling_heart: A curated list of awesome things  |
 | [facebook](https://github.com/facebook)/[docusaurus](https://github.com/facebook/docusaurus): Easy to maintain open source documentation websites. |
 | [sindresorhus](https://github.com/sindresorhus)/[ora](https://github.com/sindresorhus/ora): Elegant terminal spinner |
@@ -335,12 +336,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 Who I Follow. 👇<strong> (136)
+    <strong>👆 👉 Who I Follow. 👇<strong> (137)
   </summary>
   <br>
 
 | Following  |
 | --- | 
+| [AllMoneyMoneyGoMyHome](https://github.com/AllMoneyMoneyGoMyHome)<ul><ul>|
 | [shaodahong](https://github.com/shaodahong)<ul><li>[jd-happy](https://github.com/shaodahong/jd-happy): [DEPRECATED]Node 爬虫，监控京东商品到货，并实现下单服务</li><li>[dahong](https://github.com/shaodahong/dahong): 个人技术随笔</li><li>[vuejs-modal](https://github.com/shaodahong/vuejs-modal): A simple、highly customizable vue modal plugin.</li><li>[theme-bear](https://github.com/shaodahong/theme-bear): 🐻 A VSCode dark theme 🐻</li><li>[web-topic](https://github.com/shaodahong/web-topic): 前端面试题目合集</li><li>[webpack-more](https://github.com/shaodahong/webpack-more): webpack多页面配置</li><ul>|
 | [bestony](https://github.com/bestony)<ul><li>[logoly](https://github.com/bestony/logoly): A Pornhub Flavour Logo Generator</li><li>[neshouse](https://github.com/bestony/neshouse): NESHouse.com —— An open source implementation of ClubHouse</li><li>[EasyWordPressBook](https://github.com/bestony/EasyWordPressBook): 人人都能学会的 WordPress 实战课</li><li>[Grank](https://github.com/LCTT/Grank): Github 项目活跃度分析工具</li><li>[miniprogram-foodmap](https://github.com/CloudKits/miniprogram-foodmap): 微信小程序 · 美食地图模板</li><li>[wx-subscribe](https://github.com/bestony/wx-subscribe): 微信支付 · 付费订阅插件</li><ul>|
 | [yinguangyao](https://github.com/yinguangyao)<ul><li>[blog](https://github.com/yinguangyao/blog): 关于 JavaScript 前端开发、工作经验的一点点总结。</li><li>[hexo-theme-cuna](https://github.com/learnitwell/hexo-theme-cuna): a fantastic theme for hexo</li><li>[simple-react-redux](https://github.com/yinguangyao/simple-react-redux): 一个简单的 react-redux 实现</li><li>[simple-mobx](https://github.com/yinguangyao/simple-mobx): 一个简单的 Mobx 实现</li><li>[tinger](https://github.com/yinguangyao/tinger): MonoRepo React Application</li><ul>|
