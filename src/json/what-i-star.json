@@ -1,5 +1,5 @@
 {
-  "total": 264,
+  "total": 265,
   "repos": [
     {
       "name": "canvasfilters",
@@ -2904,7 +2904,18 @@
       },
       "starredAt": "2021-03-09T14:56:09Z",
       "cursor": "Y3Vyc29yOnYyOpLOYEf9Cc4Px8bb"
+    },
+    {
+      "name": "javascript-datastructures-algorithms",
+      "url": "https://github.com/loiane/javascript-datastructures-algorithms",
+      "description": ":books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book",
+      "owner": {
+        "login": "loiane",
+        "url": "https://github.com/loiane"
+      },
+      "starredAt": "2021-03-12T15:38:12Z",
+      "cursor": "Y3Vyc29yOnYyOpLOYEv7ZM4Pz5W2"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMS0wMy0wOVQyMjo1NjowOSswODowMM4Px8bb"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMS0wMy0xMlQyMzozODoxMiswODowMM4Pz5W2"
 }

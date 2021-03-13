@@ -20,7 +20,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (36)
-		&nbsp;Update At 3/12/2021, 12:08:47 AM 
+		&nbsp;Update At 3/13/2021, 12:08:45 AM 
   </summary>
   <br>
 
@@ -66,12 +66,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (264)
+    <strong>👆 👉 What I Star. 👇<strong> (265)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [loiane](https://github.com/loiane)/[javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms): :books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book |
 | [tailwindlabs](https://github.com/tailwindlabs)/[tailwindcss](https://github.com/tailwindlabs/tailwindcss): A utility-first CSS framework for rapid UI development. |
 | [PanJiaChen](https://github.com/PanJiaChen)/[awesome-bookmarks](https://github.com/PanJiaChen/awesome-bookmarks): :sparkling_heart: A curated list of awesome things  |
 | [facebook](https://github.com/facebook)/[docusaurus](https://github.com/facebook/docusaurus): Easy to maintain open source documentation websites. |
