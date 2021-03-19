@@ -19,8 +19,8 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 GitHub repositories. 👇<strong> (36)
-		&nbsp;Update At 3/19/2021, 12:08:56 AM 
+    <strong>👆 👉 GitHub repositories. 👇<strong> (37)
+		&nbsp;Update At 3/19/2021, 7:56:38 AM 
   </summary>
   <br>
 
@@ -33,7 +33,7 @@ Code For Fun
 | [stand-up-comedy](https://github.com/yes1am/stand-up-comedy) | :microphone: 单口喜剧 | 1 |
 | [fe-lib](https://github.com/yes1am/fe-lib) | fe-lib | - |
 | [js-leetcode](https://github.com/yes1am/js-leetcode) | solve and analyze leetcode | - |
-| [webpack-workshop](https://github.com/yes1am/webpack-workshop) | 练习 webpack 的地方 | - |
+| [javascript-datastructures-algorithms](https://github.com/yes1am/javascript-datastructures-algorithms) | 学习 JavaScript 数据结构与算法(第三版) 学习笔记 | - |
 | [vue-assistive-touch](https://github.com/yes1am/vue-assistive-touch) | Vue version of Assistive Touch, Inspired by and copy code from https://github.com/abhishekkhandait/react-assistivetouch-menu | - |
 | [PicBed](https://github.com/yes1am/PicBed) | PicGo Github 图床 | - |
 | [chrome-extension-starter](https://github.com/yes1am/chrome-extension-starter) | :seedling: A boilerplate for Chrome Extensions | - |
@@ -61,6 +61,7 @@ Code For Fun
 | [gitlab-webhooks-notification](https://github.com/yes1am/gitlab-webhooks-notification) | Gitlab Webhooks 的提醒服务 | - |
 | [douban-movie-calendar](https://github.com/yes1am/douban-movie-calendar) | 豆瓣电影日历 https://yes1am.github.io/douban-movie-calendar/ | - |
 | [dont-commit-me](https://github.com/yes1am/dont-commit-me) | Prevent from committing sensitive words, Git hooks for husky. | - |
+| [webpack-workshop](https://github.com/yes1am/webpack-workshop) | 练习 webpack 的地方 | - |
 | [oh-my-github](https://github.com/yes1am/oh-my-github) | do some interesting things by using github api | - |
 </details>
 
