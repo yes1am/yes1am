@@ -1,6 +1,6 @@
 {
-  "realTotal": 43,
-  "visibleTotal": 38,
+  "realTotal": 42,
+  "visibleTotal": 37,
   "repos": [
     {
       "name": "blog",
@@ -334,15 +334,6 @@
       "stargazerCount": 0,
       "url": "https://github.com/yes1am/javascript-datastructures-algorithms",
       "createdAt": "2021-03-19T07:42:26Z"
-    },
-    {
-      "name": "generate-readme-action",
-      "description": "Github action to generate README",
-      "isPrivate": false,
-      "isFork": false,
-      "stargazerCount": 0,
-      "url": "https://github.com/yes1am/generate-readme-action",
-      "createdAt": "2021-03-19T14:39:52Z"
     }
   ]
 }

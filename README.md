@@ -19,8 +19,8 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 GitHub repositories. 👇<strong> (38)
-		&nbsp;Update At 3/20/2021, 12:09:22 AM 
+    <strong>👆 👉 GitHub repositories. 👇<strong> (37)
+		&nbsp;Update At 3/21/2021, 12:11:58 AM 
   </summary>
   <br>
 
@@ -33,7 +33,7 @@ Code For Fun
 | [stand-up-comedy](https://github.com/yes1am/stand-up-comedy) | :microphone: 单口喜剧 | 1 |
 | [fe-lib](https://github.com/yes1am/fe-lib) | fe-lib | - |
 | [js-leetcode](https://github.com/yes1am/js-leetcode) | solve and analyze leetcode | - |
-| [generate-readme-action](https://github.com/yes1am/generate-readme-action) | Github action to generate README | - |
+| [javascript-datastructures-algorithms](https://github.com/yes1am/javascript-datastructures-algorithms) | 学习 JavaScript 数据结构与算法(第三版) 学习笔记 | - |
 | [vue-assistive-touch](https://github.com/yes1am/vue-assistive-touch) | Vue version of Assistive Touch, Inspired by and copy code from https://github.com/abhishekkhandait/react-assistivetouch-menu | - |
 | [PicBed](https://github.com/yes1am/PicBed) | PicGo Github 图床 | - |
 | [chrome-extension-starter](https://github.com/yes1am/chrome-extension-starter) | :seedling: A boilerplate for Chrome Extensions | - |
@@ -44,8 +44,8 @@ Code For Fun
 | [PiggyBank](https://github.com/yes1am/PiggyBank) | &#34;存钱罐&#34; - 用于收集星星 | - |
 | [redux-demo](https://github.com/yes1am/redux-demo) | 简单的 redux demo | - |
 | [automator](https://github.com/yes1am/automator) | Do something automatically with puppeteer | - |
-| [oh-my-github](https://github.com/yes1am/oh-my-github) | do some interesting things by using github api | - |
 | [express-react-boilerplate](https://github.com/yes1am/express-react-boilerplate) | :seedling: 基于express与react的开发模板 | - |
+| [RNworkshop](https://github.com/yes1am/RNworkshop) | 基于 create-react-native-app 的 RN 开发环境，用于本地调试 RN 组件 | - |
 | [learn-typescript](https://github.com/yes1am/learn-typescript) | 学习 TypeScript | - |
 | [express-vue-boilerplate](https://github.com/yes1am/express-vue-boilerplate) | 基于 express 的 Vue 开发环境 | - |
 | [react-story-book](https://github.com/yes1am/react-story-book) | React 组件库 | - |
@@ -62,8 +62,7 @@ Code For Fun
 | [douban-movie-calendar](https://github.com/yes1am/douban-movie-calendar) | 豆瓣电影日历 https://yes1am.github.io/douban-movie-calendar/ | - |
 | [dont-commit-me](https://github.com/yes1am/dont-commit-me) | Prevent from committing sensitive words, Git hooks for husky. | - |
 | [webpack-workshop](https://github.com/yes1am/webpack-workshop) | 练习 webpack 的地方 | - |
-| [javascript-datastructures-algorithms](https://github.com/yes1am/javascript-datastructures-algorithms) | 学习 JavaScript 数据结构与算法(第三版) 学习笔记 | - |
-| [RNworkshop](https://github.com/yes1am/RNworkshop) | 基于 create-react-native-app 的 RN 开发环境，用于本地调试 RN 组件 | - |
+| [oh-my-github](https://github.com/yes1am/oh-my-github) | do some interesting things by using github api | - |
 </details>
 
 <details>
