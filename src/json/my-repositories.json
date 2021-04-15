@@ -4,7 +4,7 @@
   "repos": [
     {
       "name": "blog",
-      "description": ":camera: 个人博客 https://yes-1-am.gitbook.io/blog/",
+      "description": ":camera: 个人博客",
       "isPrivate": false,
       "isFork": false,
       "stargazerCount": 5,
