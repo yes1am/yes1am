@@ -1,6 +1,55 @@
 {
-  "total": 137,
+  "total": 138,
   "users": [
+    {
+      "bio": "立志成为一名顶级程序员的前端",
+      "name": "谭光志",
+      "login": "woai3c",
+      "url": "https://github.com/woai3c",
+      "itemShowcase": {
+        "items": {
+          "totalCount": 6,
+          "nodes": [
+            {
+              "description": "一本小书《带你入门前端工程》",
+              "name": "introduction-to-front-end-engineering",
+              "url": "https://github.com/woai3c/introduction-to-front-end-engineering",
+              "stargazerCount": 424
+            },
+            {
+              "description": "计算机系统要素-从零开始构建现代计算机",
+              "name": "nand2tetris",
+              "url": "https://github.com/woai3c/nand2tetris",
+              "stargazerCount": 864
+            },
+            {
+              "description": "可视化拖拽组件库 DEMO",
+              "name": "visual-drag-demo",
+              "url": "https://github.com/woai3c/visual-drag-demo",
+              "stargazerCount": 1108
+            },
+            {
+              "description": "Vue 轻量级后台管理系统基础模板",
+              "name": "vue-admin-template",
+              "url": "https://github.com/woai3c/vue-admin-template",
+              "stargazerCount": 530
+            },
+            {
+              "description": "前端知识点、面试题",
+              "name": "Front-end-basic-knowledge",
+              "url": "https://github.com/woai3c/Front-end-basic-knowledge",
+              "stargazerCount": 630
+            },
+            {
+              "description": "分享我的编程经验和学习心得，订阅请点 watch。",
+              "name": "Front-end-articles",
+              "url": "https://github.com/woai3c/Front-end-articles",
+              "stargazerCount": 319
+            }
+          ]
+        }
+      }
+    },
     {
       "bio": null,
       "name": null,
