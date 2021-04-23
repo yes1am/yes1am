@@ -345,12 +345,12 @@
       "createdAt": "2021-04-12T13:02:08Z"
     },
     {
-      "name": "mie",
+      "name": "mie-ui",
       "description": "React UI Library",
       "isPrivate": false,
       "isFork": false,
       "stargazerCount": 0,
-      "url": "https://github.com/yes1am/mie",
+      "url": "https://github.com/yes1am/mie-ui",
       "createdAt": "2021-04-21T23:34:03Z"
     }
   ]
