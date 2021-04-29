@@ -1,6 +1,55 @@
 {
-  "total": 138,
+  "total": 139,
   "users": [
+    {
+      "bio": "Apache ECharts VP;\r\nPassionate Dataviz Developer & Creative Designer",
+      "name": "Wenli Zhang",
+      "login": "Ovilia",
+      "url": "https://github.com/Ovilia",
+      "itemShowcase": {
+        "items": {
+          "totalCount": 6,
+          "nodes": [
+            {
+              "description": "Ovilia's personal site",
+              "name": "ovilia.github.io",
+              "url": "https://github.com/Ovilia/ovilia.github.io",
+              "stargazerCount": 834
+            },
+            {
+              "description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser",
+              "name": "echarts",
+              "url": "https://github.com/apache/echarts",
+              "stargazerCount": 46163
+            },
+            {
+              "description": "口红颜色可视化 - 为什么你的女神总缺一支口红",
+              "name": "lipstick",
+              "url": "https://github.com/Ovilia/lipstick",
+              "stargazerCount": 2214
+            },
+            {
+              "description": "Low-Poly Image and Video Processing",
+              "name": "Polyvia",
+              "url": "https://github.com/Ovilia/Polyvia",
+              "stargazerCount": 991
+            },
+            {
+              "description": "Convert image into a given color palette",
+              "name": "sunglass",
+              "url": "https://github.com/Ovilia/sunglass",
+              "stargazerCount": 56
+            },
+            {
+              "description": "《Three.js 入门指南》书例代码",
+              "name": "ThreeExample.js",
+              "url": "https://github.com/Ovilia/ThreeExample.js",
+              "stargazerCount": 1200
+            }
+          ]
+        }
+      }
+    },
     {
       "bio": "立志成为一名顶级程序员的前端",
       "name": "谭光志",

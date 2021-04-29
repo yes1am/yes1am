@@ -1,6 +1,6 @@
 {
-  "realTotal": 44,
-  "visibleTotal": 39,
+  "realTotal": 43,
+  "visibleTotal": 38,
   "repos": [
     {
       "name": "blog",
@@ -228,15 +228,6 @@
       "createdAt": "2020-08-08T13:44:26Z"
     },
     {
-      "name": "react-ts-workshop",
-      "description": "支持 TypeScript 的 React 工作坊",
-      "isPrivate": false,
-      "isFork": false,
-      "stargazerCount": 0,
-      "url": "https://github.com/yes1am/react-ts-workshop",
-      "createdAt": "2020-08-22T16:32:21Z"
-    },
-    {
       "name": "static",
       "description": "一些静态网页",
       "isPrivate": false,
@@ -244,15 +235,6 @@
       "stargazerCount": 0,
       "url": "https://github.com/yes1am/static",
       "createdAt": "2020-08-28T05:56:34Z"
-    },
-    {
-      "name": "babel-workshop",
-      "description": "babel 工作坊",
-      "isPrivate": false,
-      "isFork": false,
-      "stargazerCount": 0,
-      "url": "https://github.com/yes1am/babel-workshop",
-      "createdAt": "2020-08-28T15:25:58Z"
     },
     {
       "name": "mobile-workshop",
@@ -352,6 +334,15 @@
       "stargazerCount": 0,
       "url": "https://github.com/yes1am/mie-ui",
       "createdAt": "2021-04-21T23:34:03Z"
+    },
+    {
+      "name": "workshop",
+      "description": "A place to write demos and learn various technologies",
+      "isPrivate": false,
+      "isFork": false,
+      "stargazerCount": 0,
+      "url": "https://github.com/yes1am/workshop",
+      "createdAt": "2021-04-28T06:25:25Z"
     }
   ]
 }
