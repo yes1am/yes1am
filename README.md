@@ -20,13 +20,13 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (38)
-		&nbsp;Update At 5/5/2021, 12:09:51 AM 
+		&nbsp;Update At 5/6/2021, 12:10:08 AM 
   </summary>
   <br>
 
 | repository | description | stars |
 | --- | --- | --- |
-| [blog](https://github.com/yes1am/blog) | :camera: 个人博客 | 5 |
+| [blog](https://github.com/yes1am/blog) | :camera: 个人博客 | 6 |
 | [screenshot-service](https://github.com/yes1am/screenshot-service) | 基于 https://github.com/alvarcarto/url-to-pdf-api 改进的 node 截图服务 | 3 |
 | [dadao](https://github.com/yes1am/dadao) | 豆瓣大島的动态收集 https://yes1am.github.io/dadao/ | 2 |
 | [essay-outline](https://github.com/yes1am/essay-outline) | :link: a chrome extension, generate essay-outline on all sites , inspired by https://github.com/dbkaplun/github-markdown-outline-extension | 1 |
