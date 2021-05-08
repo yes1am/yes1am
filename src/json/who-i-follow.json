@@ -1,6 +1,55 @@
 {
-  "total": 139,
+  "total": 140,
   "users": [
+    {
+      "bio": "高级全栈前端开发者，擅长基于CSS/JS开发各种Web应用和Node应用，欢迎关注公众号『IQ前端』",
+      "name": "JowayYoung",
+      "login": "JowayYoung",
+      "url": "https://github.com/JowayYoung",
+      "itemShowcase": {
+        "items": {
+          "totalCount": 15,
+          "nodes": [
+            {
+              "description": "A React/Vue application automation build scaffold with zero configuration out of the box",
+              "name": "bruce-cli",
+              "url": "https://github.com/JowayYoung/bruce-cli",
+              "stargazerCount": 294
+            },
+            {
+              "description": "移动端坑位指南",
+              "name": "mobile-devpit",
+              "url": "https://github.com/JowayYoung/mobile-devpit",
+              "stargazerCount": 182
+            },
+            {
+              "description": "基于纯CSS开发的创意CSS特效应用",
+              "name": "idea-css",
+              "url": "https://github.com/JowayYoung/idea-css",
+              "stargazerCount": 119
+            },
+            {
+              "description": "掘金文章示例代码",
+              "name": "juejin-code",
+              "url": "https://github.com/JowayYoung/juejin-code",
+              "stargazerCount": 55
+            },
+            {
+              "description": "A webpack plugin for compressing image",
+              "name": "tinyimg-webpack-plugin",
+              "url": "https://github.com/JowayYoung/tinyimg-webpack-plugin",
+              "stargazerCount": 44
+            },
+            {
+              "description": "An image batch processing tool with multifunctional and unlimited",
+              "name": "img-master",
+              "url": "https://github.com/JowayYoung/img-master",
+              "stargazerCount": 35
+            }
+          ]
+        }
+      }
+    },
     {
       "bio": "Apache ECharts VP;\r\nPassionate Dataviz Developer & Creative Designer",
       "name": "Wenli Zhang",

@@ -20,7 +20,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (38)
-		&nbsp;Update At 5/7/2021, 12:10:10 AM 
+		&nbsp;Update At 5/8/2021, 12:10:29 AM 
   </summary>
   <br>
 
@@ -68,12 +68,14 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (269)
+    <strong>👆 👉 What I Star. 👇<strong> (271)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [slidevjs](https://github.com/slidevjs)/[slidev](https://github.com/slidevjs/slidev): Presentation Slides for Developers (Public Beta 🎉) |
+| [JowayYoung](https://github.com/JowayYoung)/[mobile-devpit](https://github.com/JowayYoung/mobile-devpit): 移动端坑位指南 |
 | [tsayen](https://github.com/tsayen)/[dom-to-image](https://github.com/tsayen/dom-to-image): Generates an image from a DOM node using HTML5 canvas |
 | [umijs](https://github.com/umijs)/[father](https://github.com/umijs/father): Library toolkit based on rollup and babel. |
 | [umijs](https://github.com/umijs)/[dumi](https://github.com/umijs/dumi): 📖 Documentation Generator of React Component |
@@ -347,12 +349,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 Who I Follow. 👇<strong> (139)
+    <strong>👆 👉 Who I Follow. 👇<strong> (140)
   </summary>
   <br>
 
 | Following  |
 | --- | 
+| [JowayYoung](https://github.com/JowayYoung)<ul><li>[bruce-cli](https://github.com/JowayYoung/bruce-cli): A React/Vue application automation build scaffold with zero configuration out of the box</li><li>[mobile-devpit](https://github.com/JowayYoung/mobile-devpit): 移动端坑位指南</li><li>[idea-css](https://github.com/JowayYoung/idea-css): 基于纯CSS开发的创意CSS特效应用</li><li>[juejin-code](https://github.com/JowayYoung/juejin-code): 掘金文章示例代码</li><li>[tinyimg-webpack-plugin](https://github.com/JowayYoung/tinyimg-webpack-plugin): A webpack plugin for compressing image</li><li>[img-master](https://github.com/JowayYoung/img-master): An image batch processing tool with multifunctional and unlimited</li><ul>|
 | [Ovilia](https://github.com/Ovilia)<ul><li>[ovilia.github.io](https://github.com/Ovilia/ovilia.github.io): Ovilia&#39;s personal site</li><li>[echarts](https://github.com/apache/echarts): Apache ECharts is a powerful, interactive charting and data visualization library for browser</li><li>[lipstick](https://github.com/Ovilia/lipstick): 口红颜色可视化 - 为什么你的女神总缺一支口红</li><li>[Polyvia](https://github.com/Ovilia/Polyvia): Low-Poly Image and Video Processing</li><li>[sunglass](https://github.com/Ovilia/sunglass): Convert image into a given color palette</li><li>[ThreeExample.js](https://github.com/Ovilia/ThreeExample.js): 《Three.js 入门指南》书例代码</li><ul>|
 | [woai3c](https://github.com/woai3c)<ul><li>[introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering): 一本小书《带你入门前端工程》</li><li>[nand2tetris](https://github.com/woai3c/nand2tetris): 计算机系统要素-从零开始构建现代计算机</li><li>[visual-drag-demo](https://github.com/woai3c/visual-drag-demo): 可视化拖拽组件库 DEMO</li><li>[vue-admin-template](https://github.com/woai3c/vue-admin-template): Vue 轻量级后台管理系统基础模板</li><li>[Front-end-basic-knowledge](https://github.com/woai3c/Front-end-basic-knowledge): 前端知识点、面试题</li><li>[Front-end-articles](https://github.com/woai3c/Front-end-articles): 分享我的编程经验和学习心得，订阅请点 watch。</li><ul>|
 | [AllMoneyMoneyGoMyHome](https://github.com/AllMoneyMoneyGoMyHome)<ul><ul>|
