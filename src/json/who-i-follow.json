@@ -1,6 +1,55 @@
 {
-  "total": 140,
+  "total": 141,
   "users": [
+    {
+      "bio": "💪天道酬勤，勤能补拙。博观而约取，厚积而薄发。Gopher / Rustacean / iOS Dev. / Machine Learning / Retired acmer / Math / Philosophy / Technical Writer.",
+      "name": "halfrost",
+      "login": "halfrost",
+      "url": "https://github.com/halfrost",
+      "itemShowcase": {
+        "items": {
+          "totalCount": 6,
+          "nodes": [
+            {
+              "description": "🔥 Use Vue.js to develop a cross-platform full stack application / 用 Vue.js 开发的跨三端应用",
+              "name": "vue-objccn",
+              "url": "https://github.com/halfrost/vue-objccn",
+              "stargazerCount": 1976
+            },
+            {
+              "description": "🏆 Deep Reinforcement Learning for the Threes! game.",
+              "name": "threes-ai",
+              "url": "https://github.com/halfrost/threes-ai",
+              "stargazerCount": 106
+            },
+            {
+              "description": "✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地",
+              "name": "Halfrost-Field",
+              "url": "https://github.com/halfrost/Halfrost-Field",
+              "stargazerCount": 8842
+            },
+            {
+              "description": "✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",
+              "name": "LeetCode-Go",
+              "url": "https://github.com/halfrost/LeetCode-Go",
+              "stargazerCount": 17565
+            },
+            {
+              "description": "🌈 A Clean And Modern Ghost Theme with Progressive Web Apps (PWA)",
+              "name": "Prometheus",
+              "url": "https://github.com/halfrost/Prometheus",
+              "stargazerCount": 66
+            },
+            {
+              "description": "S2 geometry library in Go | experiment version",
+              "name": "S2",
+              "url": "https://github.com/halfrost/S2",
+              "stargazerCount": 14
+            }
+          ]
+        }
+      }
+    },
     {
       "bio": "高级全栈前端开发者，擅长基于CSS/JS开发各种Web应用和Node应用，欢迎关注公众号『IQ前端』",
       "name": "JowayYoung",

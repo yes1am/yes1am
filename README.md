@@ -19,8 +19,8 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 GitHub repositories. 👇<strong> (38)
-		&nbsp;Update At 5/9/2021, 12:12:05 AM 
+    <strong>👆 👉 GitHub repositories. 👇<strong> (39)
+		&nbsp;Update At 5/10/2021, 12:11:00 AM 
   </summary>
   <br>
 
@@ -33,7 +33,7 @@ Code For Fun
 | [stand-up-comedy](https://github.com/yes1am/stand-up-comedy) | :microphone: 单口喜剧 | 1 |
 | [dry](https://github.com/yes1am/dry) | Don&#39;t Repeat Yourself | 1 |
 | [js-leetcode](https://github.com/yes1am/js-leetcode) | solve and analyze leetcode | - |
-| [react-ui-webpack](https://github.com/yes1am/react-ui-webpack) | React ui library, bundled by webpack | - |
+| [fe-knowledge](https://github.com/yes1am/fe-knowledge) | 前端知识库，为面试而准备 ~ | - |
 | [vue-assistive-touch](https://github.com/yes1am/vue-assistive-touch) | Vue version of Assistive Touch, Inspired by and copy code from https://github.com/abhishekkhandait/react-assistivetouch-menu | - |
 | [PicBed](https://github.com/yes1am/PicBed) | PicGo Github 图床 | - |
 | [chrome-extension-starter](https://github.com/yes1am/chrome-extension-starter) | :seedling: A boilerplate for Chrome Extensions | - |
@@ -63,6 +63,7 @@ Code For Fun
 | [fe-lib](https://github.com/yes1am/fe-lib) | fe-lib | - |
 | [mie-ui](https://github.com/yes1am/mie-ui) | React ui library, bundled by rollup | - |
 | [workshop](https://github.com/yes1am/workshop) | A place to write demos and learn various technologies | - |
+| [react-ui-webpack](https://github.com/yes1am/react-ui-webpack) | React ui library, bundled by webpack | - |
 | [RNworkshop](https://github.com/yes1am/RNworkshop) | 基于 create-react-native-app 的 RN 开发环境，用于本地调试 RN 组件 | - |
 </details>
 
@@ -349,12 +350,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 Who I Follow. 👇<strong> (140)
+    <strong>👆 👉 Who I Follow. 👇<strong> (141)
   </summary>
   <br>
 
 | Following  |
 | --- | 
+| [halfrost](https://github.com/halfrost)<ul><li>[vue-objccn](https://github.com/halfrost/vue-objccn): 🔥 Use Vue.js to develop a cross-platform full stack application / 用 Vue.js 开发的跨三端应用</li><li>[threes-ai](https://github.com/halfrost/threes-ai): 🏆 Deep Reinforcement Learning for the Threes! game.</li><li>[Halfrost-Field](https://github.com/halfrost/Halfrost-Field): ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地</li><li>[LeetCode-Go](https://github.com/halfrost/LeetCode-Go): ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解</li><li>[Prometheus](https://github.com/halfrost/Prometheus): 🌈 A Clean And Modern Ghost Theme with Progressive Web Apps (PWA)</li><li>[S2](https://github.com/halfrost/S2): S2 geometry library in Go | experiment version</li><ul>|
 | [JowayYoung](https://github.com/JowayYoung)<ul><li>[bruce-cli](https://github.com/JowayYoung/bruce-cli): A React/Vue application automation build scaffold with zero configuration out of the box</li><li>[mobile-devpit](https://github.com/JowayYoung/mobile-devpit): 移动端坑位指南</li><li>[idea-css](https://github.com/JowayYoung/idea-css): 基于纯CSS开发的创意CSS特效应用</li><li>[juejin-code](https://github.com/JowayYoung/juejin-code): 掘金文章示例代码</li><li>[tinyimg-webpack-plugin](https://github.com/JowayYoung/tinyimg-webpack-plugin): A webpack plugin for compressing image</li><li>[img-master](https://github.com/JowayYoung/img-master): An image batch processing tool with multifunctional and unlimited</li><ul>|
 | [Ovilia](https://github.com/Ovilia)<ul><li>[ovilia.github.io](https://github.com/Ovilia/ovilia.github.io): Ovilia&#39;s personal site</li><li>[echarts](https://github.com/apache/echarts): Apache ECharts is a powerful, interactive charting and data visualization library for browser</li><li>[lipstick](https://github.com/Ovilia/lipstick): 口红颜色可视化 - 为什么你的女神总缺一支口红</li><li>[Polyvia](https://github.com/Ovilia/Polyvia): Low-Poly Image and Video Processing</li><li>[sunglass](https://github.com/Ovilia/sunglass): Convert image into a given color palette</li><li>[ThreeExample.js](https://github.com/Ovilia/ThreeExample.js): 《Three.js 入门指南》书例代码</li><ul>|
 | [woai3c](https://github.com/woai3c)<ul><li>[introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering): 一本小书《带你入门前端工程》</li><li>[nand2tetris](https://github.com/woai3c/nand2tetris): 计算机系统要素-从零开始构建现代计算机</li><li>[visual-drag-demo](https://github.com/woai3c/visual-drag-demo): 可视化拖拽组件库 DEMO</li><li>[vue-admin-template](https://github.com/woai3c/vue-admin-template): Vue 轻量级后台管理系统基础模板</li><li>[Front-end-basic-knowledge](https://github.com/woai3c/Front-end-basic-knowledge): 前端知识点、面试题</li><li>[Front-end-articles](https://github.com/woai3c/Front-end-articles): 分享我的编程经验和学习心得，订阅请点 watch。</li><ul>|
