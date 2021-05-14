@@ -19,8 +19,8 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 GitHub repositories. 👇<strong> (39)
-		&nbsp;Update At 5/13/2021, 12:21:30 AM 
+    <strong>👆 👉 GitHub repositories. 👇<strong> (40)
+		&nbsp;Update At 5/14/2021, 12:22:22 AM 
   </summary>
   <br>
 
@@ -33,7 +33,7 @@ Code For Fun
 | [stand-up-comedy](https://github.com/yes1am/stand-up-comedy) | :microphone: 单口喜剧 | 1 |
 | [dry](https://github.com/yes1am/dry) | Don&#39;t Repeat Yourself | 1 |
 | [mie-ui](https://github.com/yes1am/mie-ui) | React ui library, bundled by rollup | 1 |
-| [fe-knowledge](https://github.com/yes1am/fe-knowledge) | 前端知识库，为面试而准备 ~ | - |
+| [chat-now](https://github.com/yes1am/chat-now) |  | - |
 | [vue-assistive-touch](https://github.com/yes1am/vue-assistive-touch) | Vue version of Assistive Touch, Inspired by and copy code from https://github.com/abhishekkhandait/react-assistivetouch-menu | - |
 | [PicBed](https://github.com/yes1am/PicBed) | PicGo Github 图床 | - |
 | [chrome-extension-starter](https://github.com/yes1am/chrome-extension-starter) | :seedling: A boilerplate for Chrome Extensions | - |
@@ -45,8 +45,8 @@ Code For Fun
 | [redux-demo](https://github.com/yes1am/redux-demo) | 简单的 redux demo | - |
 | [automator](https://github.com/yes1am/automator) | Do something automatically with puppeteer | - |
 | [oh-my-github](https://github.com/yes1am/oh-my-github) | do some interesting things by using github api | - |
+| [RNworkshop](https://github.com/yes1am/RNworkshop) | 基于 create-react-native-app 的 RN 开发环境，用于本地调试 RN 组件 | - |
 | [express-react-boilerplate](https://github.com/yes1am/express-react-boilerplate) | :seedling: 基于express与react的开发模板 | - |
-| [learn-typescript](https://github.com/yes1am/learn-typescript) | 学习 TypeScript | - |
 | [express-vue-boilerplate](https://github.com/yes1am/express-vue-boilerplate) | 基于 express 的 Vue 开发环境 | - |
 | [react-story-book](https://github.com/yes1am/react-story-book) | React 组件库 | - |
 | [yes1am](https://github.com/yes1am/yes1am) |  | - |
@@ -64,7 +64,8 @@ Code For Fun
 | [js-leetcode](https://github.com/yes1am/js-leetcode) | solve and analyze leetcode | - |
 | [workshop](https://github.com/yes1am/workshop) | A place to write demos and learn various technologies | - |
 | [react-ui-webpack](https://github.com/yes1am/react-ui-webpack) | React ui library, bundled by webpack | - |
-| [RNworkshop](https://github.com/yes1am/RNworkshop) | 基于 create-react-native-app 的 RN 开发环境，用于本地调试 RN 组件 | - |
+| [fe-knowledge](https://github.com/yes1am/fe-knowledge) | 前端知识库，为面试而准备 ~ | - |
+| [learn-typescript](https://github.com/yes1am/learn-typescript) | 学习 TypeScript | - |
 </details>
 
 <details>
