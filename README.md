@@ -20,7 +20,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (40)
-		&nbsp;Update At 5/15/2021, 12:21:02 AM 
+		&nbsp;Update At 5/16/2021, 12:23:11 AM 
   </summary>
   <br>
 
@@ -33,7 +33,7 @@ Code For Fun
 | [stand-up-comedy](https://github.com/yes1am/stand-up-comedy) | :microphone: 单口喜剧 | 1 |
 | [dry](https://github.com/yes1am/dry) | Don&#39;t Repeat Yourself | 1 |
 | [mie-ui](https://github.com/yes1am/mie-ui) | React ui library, bundled by rollup | 1 |
-| [chat-now](https://github.com/yes1am/chat-now) |  | - |
+| [fe-knowledge](https://github.com/yes1am/fe-knowledge) | 前端知识库，为面试而准备 ~ | 1 |
 | [vue-assistive-touch](https://github.com/yes1am/vue-assistive-touch) | Vue version of Assistive Touch, Inspired by and copy code from https://github.com/abhishekkhandait/react-assistivetouch-menu | - |
 | [PicBed](https://github.com/yes1am/PicBed) | PicGo Github 图床 | - |
 | [chrome-extension-starter](https://github.com/yes1am/chrome-extension-starter) | :seedling: A boilerplate for Chrome Extensions | - |
@@ -64,7 +64,7 @@ Code For Fun
 | [js-leetcode](https://github.com/yes1am/js-leetcode) | solve and analyze leetcode | - |
 | [workshop](https://github.com/yes1am/workshop) | A place to write demos and learn various technologies | - |
 | [react-ui-webpack](https://github.com/yes1am/react-ui-webpack) | React ui library, bundled by webpack | - |
-| [fe-knowledge](https://github.com/yes1am/fe-knowledge) | 前端知识库，为面试而准备 ~ | - |
+| [chat-now](https://github.com/yes1am/chat-now) |  | - |
 | [learn-typescript](https://github.com/yes1am/learn-typescript) | 学习 TypeScript | - |
 </details>
 
