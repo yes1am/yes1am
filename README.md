@@ -20,7 +20,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (40)
-		&nbsp;Update At 5/18/2021, 12:23:40 AM 
+		&nbsp;Update At 5/19/2021, 12:20:59 AM 
   </summary>
   <br>
 
@@ -33,7 +33,7 @@ Code For Fun
 | [stand-up-comedy](https://github.com/yes1am/stand-up-comedy) | :microphone: 单口喜剧 | 1 |
 | [dry](https://github.com/yes1am/dry) | Don&#39;t Repeat Yourself | 1 |
 | [mie-ui](https://github.com/yes1am/mie-ui) | React ui library, bundled by rollup | 1 |
-| [fe-knowledge](https://github.com/yes1am/fe-knowledge) | 前端知识库，为面试而准备 ~ | 1 |
+| [fe-knowledge](https://github.com/yes1am/fe-knowledge) | 前端知识库 | 1 |
 | [vue-assistive-touch](https://github.com/yes1am/vue-assistive-touch) | Vue version of Assistive Touch, Inspired by and copy code from https://github.com/abhishekkhandait/react-assistivetouch-menu | - |
 | [PicBed](https://github.com/yes1am/PicBed) | PicGo Github 图床 | - |
 | [chrome-extension-starter](https://github.com/yes1am/chrome-extension-starter) | :seedling: A boilerplate for Chrome Extensions | - |
@@ -70,12 +70,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (272)
+    <strong>👆 👉 What I Star. 👇<strong> (273)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [FrankKai](https://github.com/FrankKai)/[FrankKai.github.io](https://github.com/FrankKai/FrankKai.github.io): 趁你还年轻的技术博客，主要包括前端，node，运维和随想，文章在issues。目前主要从事前端开发工作。 |
 | [ant-design](https://github.com/ant-design)/[ant-design](https://github.com/ant-design/ant-design): 🌈  A UI Design Language and React UI library |
 | [slidevjs](https://github.com/slidevjs)/[slidev](https://github.com/slidevjs/slidev): Presentation Slides for Developers (Public Beta 🎉) |
 | [JowayYoung](https://github.com/JowayYoung)/[mobile-devpit](https://github.com/JowayYoung/mobile-devpit): 移动端坑位指南 |

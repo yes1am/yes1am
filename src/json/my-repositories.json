@@ -346,7 +346,7 @@
     },
     {
       "name": "fe-knowledge",
-      "description": "前端知识库，为面试而准备 ~",
+      "description": "前端知识库",
       "isPrivate": false,
       "isFork": false,
       "stargazerCount": 1,
