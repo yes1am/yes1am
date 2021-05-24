@@ -20,7 +20,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (40)
-		&nbsp;Update At 5/23/2021, 12:24:49 AM 
+		&nbsp;Update At 5/24/2021, 12:22:41 AM 
   </summary>
   <br>
 
@@ -70,12 +70,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (274)
+    <strong>👆 👉 What I Star. 👇<strong> (275)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [bailichen](https://github.com/bailichen)/[vue-weixin](https://github.com/bailichen/vue-weixin): Vue2 全家桶仿 微信App 项目，支持多人在线聊天和机器人聊天 |
 | [lgwebdream](https://github.com/lgwebdream)/[FE-Interview](https://github.com/lgwebdream/FE-Interview): 🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器 |
 | [FrankKai](https://github.com/FrankKai)/[FrankKai.github.io](https://github.com/FrankKai/FrankKai.github.io): 趁你还年轻的技术博客，主要包括前端，node，运维和随想，文章在issues。目前主要从事前端开发工作。 |
 | [ant-design](https://github.com/ant-design)/[ant-design](https://github.com/ant-design/ant-design): 🌈  A UI Design Language and React UI library |
