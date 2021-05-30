@@ -328,7 +328,7 @@
     },
     {
       "name": "workshop",
-      "description": "A place to write demos and learn various technologies",
+      "description": "一个用来写 demo 和学习各种技术的地方, 拥有诸多的技术栈开发环境，不用操心繁琐的配置，随时可用.",
       "isPrivate": false,
       "isFork": false,
       "stargazerCount": 0,
