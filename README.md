@@ -20,7 +20,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (40)
-		&nbsp;Update At 5/30/2021, 12:48:59 AM 
+		&nbsp;Update At 5/31/2021, 12:56:40 AM 
   </summary>
   <br>
 
