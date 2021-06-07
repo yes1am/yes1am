@@ -1,6 +1,55 @@
 {
-  "total": 141,
+  "total": 142,
   "users": [
+    {
+      "bio": "野生钢铁侠本侠。",
+      "name": "稚晖",
+      "login": "peng-zhihui",
+      "url": "https://github.com/peng-zhihui",
+      "itemShowcase": {
+        "items": {
+          "totalCount": 41,
+          "nodes": [
+            {
+              "description": "Smart NFC & ink-Display Card",
+              "name": "L-ink_Card",
+              "url": "https://github.com/peng-zhihui/L-ink_Card",
+              "stargazerCount": 5127
+            },
+            {
+              "description": "带充电宝功能的便携显示器",
+              "name": "PocketLCD",
+              "url": "https://github.com/peng-zhihui/PocketLCD",
+              "stargazerCount": 3701
+            },
+            {
+              "description": "我设计的一个HDMI转MIPI模块，可以用于驱动各种手机屏幕当显示器用。",
+              "name": "HDMI-PI",
+              "url": "https://github.com/peng-zhihui/HDMI-PI",
+              "stargazerCount": 3483
+            },
+            {
+              "description": "带网络功能的伪全息透明显示桌面站",
+              "name": "HoloCubic",
+              "url": "https://github.com/peng-zhihui/HoloCubic",
+              "stargazerCount": 1895
+            },
+            {
+              "description": "超迷你模块化卡片电脑计划",
+              "name": "Project-Quantum",
+              "url": "https://github.com/peng-zhihui/Project-Quantum",
+              "stargazerCount": 1573
+            },
+            {
+              "description": "在我很多项目中用到的CV算法推理框架应用。",
+              "name": "DeepVision",
+              "url": "https://github.com/peng-zhihui/DeepVision",
+              "stargazerCount": 1312
+            }
+          ]
+        }
+      }
+    },
     {
       "bio": "💪天道酬勤，勤能补拙。博观而约取，厚积而薄发。Gopher / Rustacean / iOS Dev. / Machine Learning / Retired acmer / Math / Philosophy / Technical Writer.",
       "name": "halfrost",
