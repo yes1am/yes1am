@@ -1,5 +1,5 @@
 {
-  "total": 276,
+  "total": 277,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3036,7 +3036,18 @@
       },
       "starredAt": "2021-05-26T13:05:14Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMS0wNS0yNlQyMTowNToxNCswODowMM4Qhg_Y"
+    },
+    {
+      "name": "shields",
+      "url": "https://github.com/badges/shields",
+      "description": "Concise, consistent, and legible badges in SVG and raster format",
+      "owner": {
+        "login": "badges",
+        "url": "https://github.com/badges"
+      },
+      "starredAt": "2021-06-14T04:36:36Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMS0wNi0xNFQxMjozNjozNiswODowMM4QshDx"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMS0wNS0yNlQyMTowNToxNCswODowMM4Qhg_Y"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMS0wNi0xNFQxMjozNjozNiswODowMM4QshDx"
 }
