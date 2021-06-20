@@ -1,6 +1,55 @@
 {
-  "total": 142,
+  "total": 143,
   "users": [
+    {
+      "bio": "front end engineer",
+      "name": "chenjigeng",
+      "login": "chenjigeng",
+      "url": "https://github.com/chenjigeng",
+      "itemShowcase": {
+        "items": {
+          "totalCount": 6,
+          "nodes": [
+            {
+              "description": "Visual Studio Code",
+              "name": "vscode",
+              "url": "https://github.com/microsoft/vscode",
+              "stargazerCount": 117451
+            },
+            {
+              "description": "个人博客",
+              "name": "blog",
+              "url": "https://github.com/chenjigeng/blog",
+              "stargazerCount": 253
+            },
+            {
+              "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+              "name": "TypeScript",
+              "url": "https://github.com/microsoft/TypeScript",
+              "stargazerCount": 72157
+            },
+            {
+              "description": "一个购票网站",
+              "name": "filmshopping",
+              "url": "https://github.com/chenjigeng/filmshopping",
+              "stargazerCount": 121
+            },
+            {
+              "description": "一个中山大学的抢课脚本，用python3写的",
+              "name": "sysu_select",
+              "url": "https://github.com/chenjigeng/sysu_select",
+              "stargazerCount": 19
+            },
+            {
+              "description": "requestDecorator",
+              "name": "requestDecorator",
+              "url": "https://github.com/chenjigeng/requestDecorator",
+              "stargazerCount": 18
+            }
+          ]
+        }
+      }
+    },
     {
       "bio": "野生钢铁侠本侠。",
       "name": "稚晖",

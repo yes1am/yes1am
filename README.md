@@ -20,7 +20,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (41)
-		&nbsp;Update At 6/19/2021, 12:17:55 AM 
+		&nbsp;Update At 6/20/2021, 12:18:59 AM 
   </summary>
   <br>
 
@@ -358,12 +358,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 Who I Follow. 👇<strong> (142)
+    <strong>👆 👉 Who I Follow. 👇<strong> (143)
   </summary>
   <br>
 
 | Following  |
 | --- | 
+| [chenjigeng](https://github.com/chenjigeng)<ul><li>[vscode](https://github.com/microsoft/vscode): Visual Studio Code</li><li>[blog](https://github.com/chenjigeng/blog): 个人博客</li><li>[TypeScript](https://github.com/microsoft/TypeScript): TypeScript is a superset of JavaScript that compiles to clean JavaScript output.</li><li>[filmshopping](https://github.com/chenjigeng/filmshopping): 一个购票网站</li><li>[sysu_select](https://github.com/chenjigeng/sysu_select): 一个中山大学的抢课脚本，用python3写的</li><li>[requestDecorator](https://github.com/chenjigeng/requestDecorator): requestDecorator</li><ul>|
 | [peng-zhihui](https://github.com/peng-zhihui)<ul><li>[L-ink_Card](https://github.com/peng-zhihui/L-ink_Card): Smart NFC &#38; ink-Display Card</li><li>[PocketLCD](https://github.com/peng-zhihui/PocketLCD): 带充电宝功能的便携显示器</li><li>[HDMI-PI](https://github.com/peng-zhihui/HDMI-PI): 我设计的一个HDMI转MIPI模块，可以用于驱动各种手机屏幕当显示器用。</li><li>[HoloCubic](https://github.com/peng-zhihui/HoloCubic): 带网络功能的伪全息透明显示桌面站</li><li>[Project-Quantum](https://github.com/peng-zhihui/Project-Quantum): 超迷你模块化卡片电脑计划</li><li>[DeepVision](https://github.com/peng-zhihui/DeepVision): 在我很多项目中用到的CV算法推理框架应用。</li><ul>|
 | [halfrost](https://github.com/halfrost)<ul><li>[vue-objccn](https://github.com/halfrost/vue-objccn): 🔥 Use Vue.js to develop a cross-platform full stack application / 用 Vue.js 开发的跨三端应用</li><li>[threes-ai](https://github.com/halfrost/threes-ai): 🏆 Deep Reinforcement Learning for the Threes! game.</li><li>[Halfrost-Field](https://github.com/halfrost/Halfrost-Field): ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地</li><li>[LeetCode-Go](https://github.com/halfrost/LeetCode-Go): ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解</li><li>[Prometheus](https://github.com/halfrost/Prometheus): 🌈 A Clean And Modern Ghost Theme with Progressive Web Apps (PWA)</li><li>[S2](https://github.com/halfrost/S2): S2 geometry library in Go | experiment version</li><ul>|
 | [JowayYoung](https://github.com/JowayYoung)<ul><li>[bruce-cli](https://github.com/JowayYoung/bruce-cli): A React/Vue application automation build scaffold with zero configuration out of the box</li><li>[mobile-devpit](https://github.com/JowayYoung/mobile-devpit): 移动端坑位指南</li><li>[idea-css](https://github.com/JowayYoung/idea-css): 基于纯CSS开发的创意CSS特效应用</li><li>[juejin-code](https://github.com/JowayYoung/juejin-code): 掘金文章示例代码</li><li>[tinyimg-webpack-plugin](https://github.com/JowayYoung/tinyimg-webpack-plugin): A webpack plugin for compressing image</li><li>[img-master](https://github.com/JowayYoung/img-master): An image batch processing tool with multifunctional and unlimited</li><ul>|
