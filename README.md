@@ -19,8 +19,8 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 GitHub repositories. 👇<strong> (41)
-		&nbsp;Update At 6/22/2021, 12:17:35 AM 
+    <strong>👆 👉 GitHub repositories. 👇<strong> (42)
+		&nbsp;Update At 6/23/2021, 12:17:36 AM 
   </summary>
   <br>
 
@@ -36,9 +36,9 @@ Code For Fun
 | [dry](https://github.com/yes1am/dry) | Don&#39;t Repeat Yourself | 1 |
 | [mie-ui](https://github.com/yes1am/mie-ui) | React ui library, bundled by rollup | 1 |
 | [fe-knowledge](https://github.com/yes1am/fe-knowledge) | 前端知识库 | 1 |
-| [react-story-book](https://github.com/yes1am/react-story-book) | React 组件库 | - |
+| [magic-pocket](https://github.com/yes1am/magic-pocket) | 用于存放demo,包括实践某个API、实现某个功能 | - |
 | [lazy-dev](https://github.com/yes1am/lazy-dev) | :hammer: 快速搭建项目开发环境 | - |
-| [fe-lib](https://github.com/yes1am/fe-lib) | fe-lib | - |
+| [react-story-book](https://github.com/yes1am/react-story-book) | React 组件库 | - |
 | [sheldon](https://github.com/yes1am/sheldon) | A React Native app, which tries to fulfill all my needs on mobile. | - |
 | [chrome-extension-star](https://github.com/yes1am/chrome-extension-star) | A chrome extension, `star` page and save in github issue. | - |
 | [PiggyBank](https://github.com/yes1am/PiggyBank) | &#34;存钱罐&#34; - 用于收集星星 | - |
@@ -46,9 +46,9 @@ Code For Fun
 | [automator](https://github.com/yes1am/automator) | Do something automatically with puppeteer | - |
 | [oh-my-github](https://github.com/yes1am/oh-my-github) | do some interesting things by using github api | - |
 | [RNworkshop](https://github.com/yes1am/RNworkshop) | 基于 create-react-native-app 的 RN 开发环境，用于本地调试 RN 组件 | - |
+| [learn-typescript](https://github.com/yes1am/learn-typescript) | 学习 TypeScript | - |
 | [express-react-boilerplate](https://github.com/yes1am/express-react-boilerplate) | :seedling: 基于express与react的开发模板 | - |
-| [magic-pocket](https://github.com/yes1am/magic-pocket) | 用于存放demo,包括实践某个API、实现某个功能 | - |
-| [js-leetcode](https://github.com/yes1am/js-leetcode) | solve and analyze leetcode | - |
+| [fe-lib](https://github.com/yes1am/fe-lib) | fe-lib | - |
 | [yes1am](https://github.com/yes1am/yes1am) |  | - |
 | [jsbox](https://github.com/yes1am/jsbox) | :game_die: 个人 jsbox 脚本集 | - |
 | [static](https://github.com/yes1am/static) | 一些静态网页 | - |
@@ -60,12 +60,13 @@ Code For Fun
 | [douban-movie-calendar](https://github.com/yes1am/douban-movie-calendar) | 豆瓣电影日历 https://yes1am.github.io/douban-movie-calendar/ | - |
 | [dont-commit-me](https://github.com/yes1am/dont-commit-me) | Prevent from committing sensitive words, Git hooks for husky. | - |
 | [javascript-datastructures-algorithms](https://github.com/yes1am/javascript-datastructures-algorithms) | 学习 JavaScript 数据结构与算法(第三版) 学习笔记 | - |
-| [learn-typescript](https://github.com/yes1am/learn-typescript) | 学习 TypeScript | - |
-| [vue-assistive-touch](https://github.com/yes1am/vue-assistive-touch) | Vue version of Assistive Touch, Inspired by and copy code from https://github.com/abhishekkhandait/react-assistivetouch-menu | - |
+| [js-leetcode](https://github.com/yes1am/js-leetcode) | solve and analyze leetcode | - |
+| [office-worker-helper](https://github.com/yes1am/office-worker-helper) | 打工人助手 | - |
 | [workshop](https://github.com/yes1am/workshop) | 一个用来写 demo 和学习各种技术的地方, 拥有诸多的技术栈开发环境，不用操心繁琐的配置，随时可用. | - |
 | [react-ui-webpack](https://github.com/yes1am/react-ui-webpack) | React ui library, bundled by webpack | - |
-| [PicBed](https://github.com/yes1am/PicBed) | PicGo Github 图床 | - |
+| [vue-assistive-touch](https://github.com/yes1am/vue-assistive-touch) | Vue version of Assistive Touch, Inspired by and copy code from https://github.com/abhishekkhandait/react-assistivetouch-menu | - |
 | [chat-now](https://github.com/yes1am/chat-now) |  | - |
+| [PicBed](https://github.com/yes1am/PicBed) | PicGo Github 图床 | - |
 | [express-vue-boilerplate](https://github.com/yes1am/express-vue-boilerplate) | 基于 express 的 Vue 开发环境 | - |
 </details>
 
