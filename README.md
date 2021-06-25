@@ -20,7 +20,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (42)
-		&nbsp;Update At 6/24/2021, 12:14:02 AM 
+		&nbsp;Update At 6/25/2021, 12:19:26 AM 
   </summary>
   <br>
 
@@ -72,12 +72,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (277)
+    <strong>👆 👉 What I Star. 👇<strong> (278)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [sisterAn](https://github.com/sisterAn)/[JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms): 基础理论+JS框架应用+实践，从0到1构建整个前端算法体系 |
 | [badges](https://github.com/badges)/[shields](https://github.com/badges/shields): Concise, consistent, and legible badges in SVG and raster format |
 | [harttle](https://github.com/harttle)/[harttle.github.io](https://github.com/harttle/harttle.github.io): Harttle Land 的源码和文章 |
 | [bailichen](https://github.com/bailichen)/[vue-weixin](https://github.com/bailichen/vue-weixin): Vue2 全家桶仿 微信App 项目，支持多人在线聊天和机器人聊天 |

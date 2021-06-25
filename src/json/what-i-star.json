@@ -1,5 +1,5 @@
 {
-  "total": 277,
+  "total": 278,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3047,7 +3047,18 @@
       },
       "starredAt": "2021-06-14T04:36:36Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMS0wNi0xNFQxMjozNjozNiswODowMM4QshDx"
+    },
+    {
+      "name": "JavaScript-Algorithms",
+      "url": "https://github.com/sisterAn/JavaScript-Algorithms",
+      "description": "基础理论+JS框架应用+实践，从0到1构建整个前端算法体系",
+      "owner": {
+        "login": "sisterAn",
+        "url": "https://github.com/sisterAn"
+      },
+      "starredAt": "2021-06-24T02:17:59Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMS0wNi0yNFQxMDoxNzo1OSswODowMM4Qyf0F"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMS0wNi0xNFQxMjozNjozNiswODowMM4QshDx"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMS0wNi0yNFQxMDoxNzo1OSswODowMM4Qyf0F"
 }
