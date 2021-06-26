@@ -20,13 +20,13 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (42)
-		&nbsp;Update At 6/25/2021, 12:19:26 AM 
+		&nbsp;Update At 6/26/2021, 12:15:53 AM 
   </summary>
   <br>
 
 | repository | description | stars |
 | --- | --- | --- |
-| [logo-hub](https://github.com/yes1am/logo-hub) | Logo Generator | 16 |
+| [logo-hub](https://github.com/yes1am/logo-hub) | Logo Generator | 17 |
 | [blog](https://github.com/yes1am/blog) | :camera: 个人博客 | 7 |
 | [screenshot-service](https://github.com/yes1am/screenshot-service) | 基于 https://github.com/alvarcarto/url-to-pdf-api 改进的 node 截图服务 | 3 |
 | [dadao](https://github.com/yes1am/dadao) | 豆瓣大島的动态收集 https://yes1am.github.io/dadao/ | 2 |
@@ -72,12 +72,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (278)
+    <strong>👆 👉 What I Star. 👇<strong> (279)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [coder2gwy](https://github.com/coder2gwy)/[coder2gwy](https://github.com/coder2gwy/coder2gwy): 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 |
 | [sisterAn](https://github.com/sisterAn)/[JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms): 基础理论+JS框架应用+实践，从0到1构建整个前端算法体系 |
 | [badges](https://github.com/badges)/[shields](https://github.com/badges/shields): Concise, consistent, and legible badges in SVG and raster format |
 | [harttle](https://github.com/harttle)/[harttle.github.io](https://github.com/harttle/harttle.github.io): Harttle Land 的源码和文章 |
