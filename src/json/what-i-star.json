@@ -1,5 +1,5 @@
 {
-  "total": 279,
+  "total": 280,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3069,7 +3069,18 @@
       },
       "starredAt": "2021-06-25T05:14:56Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMS0wNi0yNVQxMzoxNDo1NiswODowMM4QzMHK"
+    },
+    {
+      "name": "Daily-Interview-Question",
+      "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+      "description": "我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。",
+      "owner": {
+        "login": "Advanced-Frontend",
+        "url": "https://github.com/Advanced-Frontend"
+      },
+      "starredAt": "2021-06-27T09:11:36Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMS0wNi0yN1QxNzoxMTozNiswODowMM4Q0PLl"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMS0wNi0yNVQxMzoxNDo1NiswODowMM4QzMHK"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMS0wNi0yN1QxNzoxMTozNiswODowMM4Q0PLl"
 }

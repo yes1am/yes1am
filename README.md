@@ -20,7 +20,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (42)
-		&nbsp;Update At 6/27/2021, 12:20:34 AM 
+		&nbsp;Update At 6/28/2021, 12:18:02 AM 
   </summary>
   <br>
 
@@ -72,12 +72,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (279)
+    <strong>👆 👉 What I Star. 👇<strong> (280)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [Advanced-Frontend](https://github.com/Advanced-Frontend)/[Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question): 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 |
 | [coder2gwy](https://github.com/coder2gwy)/[coder2gwy](https://github.com/coder2gwy/coder2gwy): 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 |
 | [sisterAn](https://github.com/sisterAn)/[JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms): 基础理论+JS框架应用+实践，从0到1构建整个前端算法体系 |
 | [badges](https://github.com/badges)/[shields](https://github.com/badges/shields): Concise, consistent, and legible badges in SVG and raster format |
