@@ -1,6 +1,55 @@
 {
-  "total": 143,
+  "total": 144,
   "users": [
+    {
+      "bio": "Author of Cyberbrain and pdir2, @logseq user.",
+      "name": "laike9m",
+      "login": "laike9m",
+      "url": "https://github.com/laike9m",
+      "itemShowcase": {
+        "items": {
+          "totalCount": 6,
+          "nodes": [
+            {
+              "description": "Python debugging, redefined.",
+              "name": "Cyberbrain",
+              "url": "https://github.com/laike9m/Cyberbrain",
+              "stargazerCount": 1881
+            },
+            {
+              "description": "Pretty dir() printing with joy:beer:",
+              "name": "pdir2",
+              "url": "https://github.com/laike9m/pdir2",
+              "stargazerCount": 1221
+            },
+            {
+              "description": "用卡片在个人网站上展示知乎账户",
+              "name": "zhihu-card",
+              "url": "https://github.com/laike9m/zhihu-card",
+              "stargazerCount": 117
+            },
+            {
+              "description": "Python实现NAT穿透+STUN+TURN+P2P聊天 | Python P2P chat",
+              "name": "PyPunchP2P",
+              "url": "https://github.com/laike9m/PyPunchP2P",
+              "stargazerCount": 355
+            },
+            {
+              "description": "My Django Blog",
+              "name": "My_Blog",
+              "url": "https://github.com/laike9m/My_Blog",
+              "stargazerCount": 201
+            },
+            {
+              "description": "如果你希望通过 RSSHub 浏览知乎，那么这个项目或许可以帮到你。",
+              "name": "rsshub-zhihu-helper",
+              "url": "https://github.com/laike9m/rsshub-zhihu-helper",
+              "stargazerCount": 41
+            }
+          ]
+        }
+      }
+    },
     {
       "bio": "front end engineer",
       "name": "chenjigeng",

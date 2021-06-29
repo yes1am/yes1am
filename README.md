@@ -20,7 +20,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (42)
-		&nbsp;Update At 6/28/2021, 12:18:02 AM 
+		&nbsp;Update At 6/29/2021, 12:17:36 AM 
   </summary>
   <br>
 
@@ -61,7 +61,7 @@ Code For Fun
 | [dont-commit-me](https://github.com/yes1am/dont-commit-me) | Prevent from committing sensitive words, Git hooks for husky. | - |
 | [javascript-datastructures-algorithms](https://github.com/yes1am/javascript-datastructures-algorithms) | 学习 JavaScript 数据结构与算法(第三版) 学习笔记 | - |
 | [js-leetcode](https://github.com/yes1am/js-leetcode) | solve and analyze leetcode | - |
-| [office-worker-helper](https://github.com/yes1am/office-worker-helper) | 打工人助手 | - |
+| [yin-cha-xian-la](https://github.com/yes1am/yin-cha-xian-la) | 打工人助手 | - |
 | [workshop](https://github.com/yes1am/workshop) | 一个用来写 demo 和学习各种技术的地方, 拥有诸多的技术栈开发环境，不用操心繁琐的配置，随时可用. | - |
 | [react-ui-webpack](https://github.com/yes1am/react-ui-webpack) | React ui library, bundled by webpack | - |
 | [vue-assistive-touch](https://github.com/yes1am/vue-assistive-touch) | Vue version of Assistive Touch, Inspired by and copy code from https://github.com/abhishekkhandait/react-assistivetouch-menu | - |
@@ -362,12 +362,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 Who I Follow. 👇<strong> (143)
+    <strong>👆 👉 Who I Follow. 👇<strong> (144)
   </summary>
   <br>
 
 | Following  |
 | --- | 
+| [laike9m](https://github.com/laike9m)<ul><li>[Cyberbrain](https://github.com/laike9m/Cyberbrain): Python debugging, redefined.</li><li>[pdir2](https://github.com/laike9m/pdir2): Pretty dir() printing with joy:beer:</li><li>[zhihu-card](https://github.com/laike9m/zhihu-card): 用卡片在个人网站上展示知乎账户</li><li>[PyPunchP2P](https://github.com/laike9m/PyPunchP2P): Python实现NAT穿透+STUN+TURN+P2P聊天 | Python P2P chat</li><li>[My_Blog](https://github.com/laike9m/My_Blog): My Django Blog</li><li>[rsshub-zhihu-helper](https://github.com/laike9m/rsshub-zhihu-helper): 如果你希望通过 RSSHub 浏览知乎，那么这个项目或许可以帮到你。</li><ul>|
 | [chenjigeng](https://github.com/chenjigeng)<ul><li>[vscode](https://github.com/microsoft/vscode): Visual Studio Code</li><li>[blog](https://github.com/chenjigeng/blog): 个人博客</li><li>[TypeScript](https://github.com/microsoft/TypeScript): TypeScript is a superset of JavaScript that compiles to clean JavaScript output.</li><li>[filmshopping](https://github.com/chenjigeng/filmshopping): 一个购票网站</li><li>[sysu_select](https://github.com/chenjigeng/sysu_select): 一个中山大学的抢课脚本，用python3写的</li><li>[requestDecorator](https://github.com/chenjigeng/requestDecorator): requestDecorator</li><ul>|
 | [peng-zhihui](https://github.com/peng-zhihui)<ul><li>[L-ink_Card](https://github.com/peng-zhihui/L-ink_Card): Smart NFC &#38; ink-Display Card</li><li>[PocketLCD](https://github.com/peng-zhihui/PocketLCD): 带充电宝功能的便携显示器</li><li>[HDMI-PI](https://github.com/peng-zhihui/HDMI-PI): 我设计的一个HDMI转MIPI模块，可以用于驱动各种手机屏幕当显示器用。</li><li>[HoloCubic](https://github.com/peng-zhihui/HoloCubic): 带网络功能的伪全息透明显示桌面站</li><li>[Project-Quantum](https://github.com/peng-zhihui/Project-Quantum): 超迷你模块化卡片电脑计划</li><li>[DeepVision](https://github.com/peng-zhihui/DeepVision): 在我很多项目中用到的CV算法推理框架应用。</li><ul>|
 | [halfrost](https://github.com/halfrost)<ul><li>[vue-objccn](https://github.com/halfrost/vue-objccn): 🔥 Use Vue.js to develop a cross-platform full stack application / 用 Vue.js 开发的跨三端应用</li><li>[threes-ai](https://github.com/halfrost/threes-ai): 🏆 Deep Reinforcement Learning for the Threes! game.</li><li>[Halfrost-Field](https://github.com/halfrost/Halfrost-Field): ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地</li><li>[LeetCode-Go](https://github.com/halfrost/LeetCode-Go): ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解</li><li>[Prometheus](https://github.com/halfrost/Prometheus): 🌈 A Clean And Modern Ghost Theme with Progressive Web Apps (PWA)</li><li>[S2](https://github.com/halfrost/S2): S2 geometry library in Go | experiment version</li><ul>|
