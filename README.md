@@ -20,7 +20,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (42)
-		&nbsp;Update At 7/3/2021, 12:17:02 AM 
+		&nbsp;Update At 7/4/2021, 12:16:22 AM 
   </summary>
   <br>
 
@@ -61,7 +61,7 @@ Code For Fun
 | [dont-commit-me](https://github.com/yes1am/dont-commit-me) | Prevent from committing sensitive words, Git hooks for husky. | - |
 | [javascript-datastructures-algorithms](https://github.com/yes1am/javascript-datastructures-algorithms) | 学习 JavaScript 数据结构与算法(第三版) 学习笔记 | - |
 | [js-leetcode](https://github.com/yes1am/js-leetcode) | solve and analyze leetcode | - |
-| [yin-cha-xian](https://github.com/yes1am/yin-cha-xian) | 打工人助手 | - |
+| [yin-cha-xian](https://github.com/yes1am/yin-cha-xian) | 喂，朋友，三點幾啦 | - |
 | [workshop](https://github.com/yes1am/workshop) | 一个用来写 demo 和学习各种技术的地方, 拥有诸多的技术栈开发环境，不用操心繁琐的配置，随时可用. | - |
 | [react-ui-webpack](https://github.com/yes1am/react-ui-webpack) | React ui library, bundled by webpack | - |
 | [vue-assistive-touch](https://github.com/yes1am/vue-assistive-touch) | Vue version of Assistive Touch, Inspired by and copy code from https://github.com/abhishekkhandait/react-assistivetouch-menu | - |
@@ -72,12 +72,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (280)
+    <strong>👆 👉 What I Star. 👇<strong> (281)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [dengyaolong](https://github.com/dengyaolong)/[geektime-electron](https://github.com/dengyaolong/geektime-electron): 极客时间视频课程《Electron开发实战》 |
 | [Advanced-Frontend](https://github.com/Advanced-Frontend)/[Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question): 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 |
 | [coder2gwy](https://github.com/coder2gwy)/[coder2gwy](https://github.com/coder2gwy/coder2gwy): 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 |
 | [sisterAn](https://github.com/sisterAn)/[JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms): 基础理论+JS框架应用+实践，从0到1构建整个前端算法体系 |
