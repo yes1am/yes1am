@@ -20,7 +20,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (42)
-		&nbsp;Update At 8/9/2021, 12:20:00 AM 
+		&nbsp;Update At 8/10/2021, 12:19:56 AM 
   </summary>
   <br>
 
@@ -72,12 +72,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (281)
+    <strong>👆 👉 What I Star. 👇<strong> (282)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [ustbhuangyi](https://github.com/ustbhuangyi)/[vue-analysis](https://github.com/ustbhuangyi/vue-analysis): :thumbsup: Vue.js 源码分析 |
 | [dengyaolong](https://github.com/dengyaolong)/[geektime-electron](https://github.com/dengyaolong/geektime-electron): 极客时间视频课程《Electron开发实战》 |
 | [Advanced-Frontend](https://github.com/Advanced-Frontend)/[Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question): 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 |
 | [coder2gwy](https://github.com/coder2gwy)/[coder2gwy](https://github.com/coder2gwy/coder2gwy): 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 |
