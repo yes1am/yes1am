@@ -20,13 +20,13 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (42)
-		&nbsp;Update At 8/31/2021, 12:18:59 AM 
+		&nbsp;Update At 9/1/2021, 12:18:55 AM 
   </summary>
   <br>
 
 | repository | description | stars |
 | --- | --- | --- |
-| [logo-hub](https://github.com/yes1am/logo-hub) | Logo Generator | 47 |
+| [logo-hub](https://github.com/yes1am/logo-hub) | Logo Generator | 48 |
 | [blog](https://github.com/yes1am/blog) | :camera: 个人博客 | 9 |
 | [screenshot-service](https://github.com/yes1am/screenshot-service) | 基于 https://github.com/alvarcarto/url-to-pdf-api 改进的 node 截图服务 | 3 |
 | [stand-up-comedy](https://github.com/yes1am/stand-up-comedy) | :microphone: 单口喜剧 | 2 |
