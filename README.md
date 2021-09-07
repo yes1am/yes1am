@@ -20,7 +20,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (42)
-		&nbsp;Update At 9/6/2021, 12:21:49 AM 
+		&nbsp;Update At 9/7/2021, 12:18:13 AM 
   </summary>
   <br>
 
@@ -31,10 +31,10 @@ Code For Fun
 | [screenshot-service](https://github.com/yes1am/screenshot-service) | 基于 https://github.com/alvarcarto/url-to-pdf-api 改进的 node 截图服务 | 3 |
 | [stand-up-comedy](https://github.com/yes1am/stand-up-comedy) | :microphone: 单口喜剧 | 2 |
 | [dadao](https://github.com/yes1am/dadao) | 豆瓣大島的动态收集 https://yes1am.github.io/dadao/ | 2 |
+| [simple-explorer](https://github.com/yes1am/simple-explorer) | Only view the directories or files you care about. | 2 |
 | [mie-ui](https://github.com/yes1am/mie-ui) | React ui library, bundled by rollup | 2 |
 | [essay-outline](https://github.com/yes1am/essay-outline) | :link: a chrome extension, generate essay-outline on all sites , inspired by https://github.com/dbkaplun/github-markdown-outline-extension | 1 |
 | [chrome-extension-starter](https://github.com/yes1am/chrome-extension-starter) | :seedling: A boilerplate for Chrome Extensions | 1 |
-| [simple-explorer](https://github.com/yes1am/simple-explorer) | Only view the directories or files you care about. | 1 |
 | [dry](https://github.com/yes1am/dry) | Don&#39;t Repeat Yourself | 1 |
 | [fe-knowledge](https://github.com/yes1am/fe-knowledge) | 前端知识库 | 1 |
 | [yes1am](https://github.com/yes1am/yes1am) |  | 1 |
