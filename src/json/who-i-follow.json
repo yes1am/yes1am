@@ -1,6 +1,55 @@
 {
-  "total": 145,
+  "total": 146,
   "users": [
+    {
+      "bio": "待我代码编成，娶你为妻可好\r\n",
+      "name": "Phodal Huang",
+      "login": "phodal",
+      "url": "https://github.com/phodal",
+      "itemShowcase": {
+        "items": {
+          "totalCount": 6,
+          "nodes": [
+            {
+              "description": "🔡 🧜🏽‍♀️  下一代企业级编程语言。A easy maintain(read/write) language for transform from/to other languages.",
+              "name": "datum",
+              "url": "https://github.com/datum-lang/datum",
+              "stargazerCount": 128
+            },
+            {
+              "description": "Coca is a toolbox which is design for legacy system refactoring and analysis, includes call graph, concept analysis, api tree, design patterns suggest. Coca 是一个用于系统重构、系统迁移和系统分析的工具箱。它可以分析代码中的测试坏味道、模块化分析、行数统计、分析调用与依赖、Git 分析以及自动化重构等。",
+              "name": "coca",
+              "url": "https://github.com/inherd/coca",
+              "stargazerCount": 641
+            },
+            {
+              "description": "Ledge —— DevOps knowledge learning platform. DevOps、研发效能知识和工具平台，是我们基于在 ThoughtWorks 进行的一系列 DevOps 实践、敏捷实践、软件开发与测试、精益实践提炼出来的知识体系。它包含了各种最佳实践、操作手册、原则与模式、度量、工具，用于帮助您的企业在数字化时代更好地前进，还有 DevOps 转型。",
+              "name": "ledge",
+              "url": "https://github.com/phodal/ledge",
+              "stargazerCount": 1638
+            },
+            {
+              "description": "Uncode is a conceptual IDE designed for the cloud development, also a cloud-native low-code software development enviorment. Uncode 是一个面向云研发时代设计的下一代概念性 IDE。 ",
+              "name": "uncode",
+              "url": "https://github.com/inherd/uncode",
+              "stargazerCount": 190
+            },
+            {
+              "description": "Mooa 是一个为 Angular 服务的微前端框架。A independent-deployment micro-frontend Framework for Angular from single-spa.",
+              "name": "mooa",
+              "url": "https://github.com/phodal/mooa",
+              "stargazerCount": 789
+            },
+            {
+              "description": "《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护",
+              "name": "migration",
+              "url": "https://github.com/phodal/migration",
+              "stargazerCount": 2631
+            }
+          ]
+        }
+      }
+    },
     {
       "bio": "",
       "name": "Kason Yang",
