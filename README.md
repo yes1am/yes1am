@@ -20,7 +20,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (42)
-		&nbsp;Update At 9/20/2021, 12:21:56 AM 
+		&nbsp;Update At 9/21/2021, 12:18:00 AM 
   </summary>
   <br>
 
@@ -72,7 +72,7 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (281)
+    <strong>👆 👉 What I Star. 👇<strong> (282)
   </summary>
   <br>
 
