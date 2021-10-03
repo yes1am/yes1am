@@ -1,5 +1,12 @@
 Code For Fun  
 
+### Something Interesting
+
+- logo-hub: https://yes1am.github.io/logo-hub/
+- Outline: https://github.com/yes1am/Outline
+- 豆瓣大島: https://yes1am.github.io/dadao/
+- stand-up-comedy: yes1am.github.io/stand-up-comedy/
+
 ### Stack Overflow
 
 <a href="https://stackoverflow.com/users/8018862/songjp"><img src="https://stackoverflow.com/users/flair/8018862.png" width="208" height="58" alt="profile for SONGJP at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for SONGJP at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
