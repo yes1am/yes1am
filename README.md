@@ -1,5 +1,12 @@
 Code For Fun  
 
+### Something Interesting
+
+- logo-hub: https://yes1am.github.io/logo-hub/
+- Outline: https://github.com/yes1am/Outline
+- 豆瓣大島: https://yes1am.github.io/dadao/
+- stand-up-comedy: yes1am.github.io/stand-up-comedy/
+
 ### Stack Overflow
 
 <a href="https://stackoverflow.com/users/8018862/songjp"><img src="https://stackoverflow.com/users/flair/8018862.png" width="208" height="58" alt="profile for SONGJP at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for SONGJP at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
@@ -20,7 +27,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (42)
-		&nbsp;Update At 10/3/2021, 12:21:48 AM 
+		&nbsp;Update At 10/3/2021, 8:48:27 AM 
   </summary>
   <br>
 
@@ -33,7 +40,7 @@ Code For Fun
 | [dadao](https://github.com/yes1am/dadao) | 豆瓣大島 | 2 |
 | [simple-explorer](https://github.com/yes1am/simple-explorer) | Only view the directories or files you care about. | 2 |
 | [mie-ui](https://github.com/yes1am/mie-ui) | React ui library, bundled by rollup | 2 |
-| [outline](https://github.com/yes1am/outline) | :link: a chrome extension, generate essay-outline on all sites , inspired by https://github.com/dbkaplun/github-markdown-outline-extension | 1 |
+| [Outline](https://github.com/yes1am/Outline) | Generate outline for website | 1 |
 | [chrome-extension-starter](https://github.com/yes1am/chrome-extension-starter) | :seedling: A boilerplate for Chrome Extensions | 1 |
 | [dry](https://github.com/yes1am/dry) | Don&#39;t Repeat Yourself | 1 |
 | [fe-knowledge](https://github.com/yes1am/fe-knowledge) | 前端知识库 | 1 |
