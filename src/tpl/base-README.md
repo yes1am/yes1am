@@ -5,7 +5,7 @@ Code For Fun
 - logo-hub: https://yes1am.github.io/logo-hub/
 - Outline: https://github.com/yes1am/Outline
 - 豆瓣大島: https://yes1am.github.io/dadao/
-- stand-up-comedy: yes1am.github.io/stand-up-comedy/
+- stand-up-comedy: https://yes1am.github.io/stand-up-comedy/
 
 ### Stack Overflow
 
