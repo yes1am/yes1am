@@ -66,12 +66,12 @@
       "createdAt": "2019-10-19T15:51:03Z"
     },
     {
-      "name": "essay-outline",
+      "name": "outline",
       "description": ":link: a chrome extension, generate essay-outline on all sites , inspired by https://github.com/dbkaplun/github-markdown-outline-extension",
       "isPrivate": false,
       "isFork": false,
       "stargazerCount": 1,
-      "url": "https://github.com/yes1am/essay-outline",
+      "url": "https://github.com/yes1am/outline",
       "createdAt": "2019-12-22T03:49:06Z"
     },
     {
@@ -202,7 +202,7 @@
     },
     {
       "name": "dadao",
-      "description": "豆瓣大島的动态收集 https://yes1am.github.io/dadao/",
+      "description": "豆瓣大島",
       "isPrivate": false,
       "isFork": false,
       "stargazerCount": 2,
