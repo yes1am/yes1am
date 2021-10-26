@@ -26,8 +26,8 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 GitHub repositories. 👇<strong> (42)
-		&nbsp;Update At 10/25/2021, 12:21:46 AM 
+    <strong>👆 👉 GitHub repositories. 👇<strong> (43)
+		&nbsp;Update At 10/26/2021, 12:20:22 AM 
   </summary>
   <br>
 
@@ -62,7 +62,7 @@ Code For Fun
 | [mobile-workshop](https://github.com/yes1am/mobile-workshop) | 移动端开发 工作坊 | - |
 | [oauth-demo](https://github.com/yes1am/oauth-demo) | oauth-demo | - |
 | [wechat-dev](https://github.com/yes1am/wechat-dev) | 微信公众号开发, Node 示例 | - |
-| [yin-cha-xian](https://github.com/yes1am/yin-cha-xian) | 喂 三點幾啦 做 做撚咩 做 | - |
+| [cronhub](https://github.com/yes1am/cronhub) |  | - |
 | [gitlab-webhooks-notification](https://github.com/yes1am/gitlab-webhooks-notification) | Gitlab Webhooks 的提醒服务 | - |
 | [douban-movie-calendar](https://github.com/yes1am/douban-movie-calendar) | 豆瓣电影日历 https://yes1am.github.io/douban-movie-calendar/ | - |
 | [dont-commit-me](https://github.com/yes1am/dont-commit-me) | Prevent from committing sensitive words, Git hooks for husky. | - |
@@ -74,6 +74,7 @@ Code For Fun
 | [magic-pocket](https://github.com/yes1am/magic-pocket) | 用于存放demo,包括实践某个API、实现某个功能 | - |
 | [chat-now](https://github.com/yes1am/chat-now) |  | - |
 | [lazy-dev](https://github.com/yes1am/lazy-dev) | :hammer: 快速搭建项目开发环境 | - |
+| [yin-cha-xian](https://github.com/yes1am/yin-cha-xian) | 喂 三點幾啦 做 做撚咩 做 | - |
 | [express-vue-boilerplate](https://github.com/yes1am/express-vue-boilerplate) | 基于 express 的 Vue 开发环境 | - |
 </details>
 
