@@ -27,7 +27,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (43)
-		&nbsp;Update At 11/2/2021, 12:20:58 AM 
+		&nbsp;Update At 11/3/2021, 12:20:33 AM 
   </summary>
   <br>
 
@@ -80,12 +80,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (282)
+    <strong>👆 👉 What I Star. 👇<strong> (283)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [anuraghazra](https://github.com/anuraghazra)/[github-readme-stats](https://github.com/anuraghazra/github-readme-stats): :zap: Dynamically generated stats for your github readmes |
 | [ustbhuangyi](https://github.com/ustbhuangyi)/[vue-analysis](https://github.com/ustbhuangyi/vue-analysis): :thumbsup: Vue.js 源码分析 |
 | [dengyaolong](https://github.com/dengyaolong)/[geektime-electron](https://github.com/dengyaolong/geektime-electron): 极客时间视频课程《Electron开发实战》 |
 | [Advanced-Frontend](https://github.com/Advanced-Frontend)/[Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question): 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 |

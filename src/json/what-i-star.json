@@ -1,5 +1,5 @@
 {
-  "total": 282,
+  "total": 283,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3102,7 +3102,18 @@
       },
       "starredAt": "2021-08-09T02:55:44Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMS0wOC0wOVQxMDo1NTo0NCswODowMM4RMY_I"
+    },
+    {
+      "name": "github-readme-stats",
+      "url": "https://github.com/anuraghazra/github-readme-stats",
+      "description": ":zap: Dynamically generated stats for your github readmes",
+      "owner": {
+        "login": "anuraghazra",
+        "url": "https://github.com/anuraghazra"
+      },
+      "starredAt": "2021-11-02T11:50:33Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMS0xMS0wMlQxOTo1MDozMyswODowMM4R-ptX"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMS0wOC0wOVQxMDo1NTo0NCswODowMM4RMY_I"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMS0xMS0wMlQxOTo1MDozMyswODowMM4R-ptX"
 }
