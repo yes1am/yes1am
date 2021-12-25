@@ -27,7 +27,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (43)
-		&nbsp;Update At 12/24/2021, 12:22:44 AM 
+		&nbsp;Update At 12/25/2021, 12:22:32 AM 
   </summary>
   <br>
 
@@ -35,7 +35,7 @@ Code For Fun
 | --- | --- | --- |
 | [logo-hub](https://github.com/yes1am/logo-hub) | Logo Generator | 52 |
 | [blog](https://github.com/yes1am/blog) | :camera: 个人博客 | 9 |
-| [stand-up-comedy](https://github.com/yes1am/stand-up-comedy) | :microphone: 单口喜剧 | 3 |
+| [stand-up-comedy](https://github.com/yes1am/stand-up-comedy) | :microphone: 单口喜剧 | 5 |
 | [screenshot-service](https://github.com/yes1am/screenshot-service) | 基于 https://github.com/alvarcarto/url-to-pdf-api 改进的 node 截图服务 | 3 |
 | [mie-ui](https://github.com/yes1am/mie-ui) | React ui library, bundled by rollup | 3 |
 | [dadao](https://github.com/yes1am/dadao) | 豆瓣大島 | 2 |
