@@ -1,6 +1,49 @@
 {
-  "total": 146,
+  "total": 147,
   "users": [
+    {
+      "bio": "[object Object]",
+      "name": "xcodebuild",
+      "login": "xcodebuild",
+      "url": "https://github.com/xcodebuild",
+      "itemShowcase": {
+        "items": {
+          "totalCount": 5,
+          "nodes": [
+            {
+              "description": "💎 Cross platform Web debugging proxy（fork of LightProxy、Linux & 多网卡支持）",
+              "name": "iProxy",
+              "url": "https://github.com/xcodebuild/iProxy",
+              "stargazerCount": 58
+            },
+            {
+              "description": "使用真正的 React 构建跨平台小程序",
+              "name": "remax",
+              "url": "https://github.com/remaxjs/remax",
+              "stargazerCount": 4114
+            },
+            {
+              "description": "Global mouse gestures for macOS",
+              "name": "MacGesture",
+              "url": "https://github.com/MacGesture/MacGesture",
+              "stargazerCount": 678
+            },
+            {
+              "description": "Starter project for create Typescript library with zero-configuration build/watch/test/lint",
+              "name": "ts-zero",
+              "url": "https://github.com/xcodebuild/ts-zero",
+              "stargazerCount": 1
+            },
+            {
+              "description": "Zero configuration book genereator with Markdown, output website and PDF.",
+              "name": "bookone",
+              "url": "https://github.com/xcodebuild/bookone",
+              "stargazerCount": 0
+            }
+          ]
+        }
+      }
+    },
     {
       "bio": "待我代码编成，娶你为妻可好\r\n",
       "name": "Phodal Huang",
