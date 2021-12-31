@@ -1,5 +1,5 @@
 {
-  "total": 287,
+  "total": 288,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3168,7 +3168,18 @@
       },
       "starredAt": "2021-12-29T03:40:26Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMS0xMi0yOVQxMTo0MDoyNiswODowMM4SjKg2"
+    },
+    {
+      "name": "h5o-chrome",
+      "url": "https://github.com/h5o/h5o-chrome",
+      "description": "HTML5 outliner (Chrome extension)",
+      "owner": {
+        "login": "h5o",
+        "url": "https://github.com/h5o"
+      },
+      "starredAt": "2021-12-30T16:45:37Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMS0xMi0zMVQwMDo0NTozNyswODowMM4SkOrI"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMS0xMi0yOVQxMTo0MDoyNiswODowMM4SjKg2"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMS0xMi0zMVQwMDo0NTozNyswODowMM4SkOrI"
 }

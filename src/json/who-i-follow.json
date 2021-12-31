@@ -1,6 +1,43 @@
 {
-  "total": 147,
+  "total": 148,
   "users": [
+    {
+      "bio": "Just do it.",
+      "name": "LHG",
+      "login": "miscmo",
+      "url": "https://github.com/miscmo",
+      "itemShowcase": {
+        "items": {
+          "totalCount": 4,
+          "nodes": [
+            {
+              "description": "实用、高效的个人知识管理工具",
+              "name": "MindNote",
+              "url": "https://github.com/miscmo/MindNote",
+              "stargazerCount": 3
+            },
+            {
+              "description": "C++高性能服务器框架",
+              "name": "Rock",
+              "url": "https://github.com/miscmo/Rock",
+              "stargazerCount": 0
+            },
+            {
+              "description": "简洁易用的C++网络库",
+              "name": "Penet",
+              "url": "https://github.com/miscmo/Penet",
+              "stargazerCount": 0
+            },
+            {
+              "description": "学习笔记",
+              "name": "learning",
+              "url": "https://github.com/miscmo/learning",
+              "stargazerCount": 0
+            }
+          ]
+        }
+      }
+    },
     {
       "bio": "[object Object]",
       "name": "xcodebuild",
