@@ -27,7 +27,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (43)
-		&nbsp;Update At 12/31/2021, 12:24:34 AM 
+		&nbsp;Update At 1/1/2022, 12:24:19 AM 
   </summary>
   <br>
 
@@ -36,13 +36,13 @@ Code For Fun
 | [logo-hub](https://github.com/yes1am/logo-hub) | Logo Generator | 52 |
 | [blog](https://github.com/yes1am/blog) | :camera: 个人博客 | 9 |
 | [stand-up-comedy](https://github.com/yes1am/stand-up-comedy) | :microphone: 单口喜剧 | 5 |
-| [Outline](https://github.com/yes1am/Outline) | Generate outline for website | 3 |
+| [Outline](https://github.com/yes1am/Outline) | Generate outline for website | 4 |
 | [screenshot-service](https://github.com/yes1am/screenshot-service) | 基于 https://github.com/alvarcarto/url-to-pdf-api 改进的 node 截图服务 | 3 |
 | [mie-ui](https://github.com/yes1am/mie-ui) | React ui library, bundled by rollup | 3 |
 | [dadao](https://github.com/yes1am/dadao) | 豆瓣大島 | 2 |
 | [simple-explorer](https://github.com/yes1am/simple-explorer) | Only view the directories or files you care about. | 2 |
+| [dry](https://github.com/yes1am/dry) | Don&#39;t Repeat Yourself | 2 |
 | [chrome-extension-starter](https://github.com/yes1am/chrome-extension-starter) | :seedling: A boilerplate for Chrome Extensions | 1 |
-| [dry](https://github.com/yes1am/dry) | Don&#39;t Repeat Yourself | 1 |
 | [fe-knowledge](https://github.com/yes1am/fe-knowledge) | 前端知识库 | 1 |
 | [yes1am](https://github.com/yes1am/yes1am) |  | 1 |
 | [react-story-book](https://github.com/yes1am/react-story-book) | React 组件库 | - |
@@ -80,12 +80,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (288)
+    <strong>👆 👉 What I Star. 👇<strong> (289)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [vitozyf](https://github.com/vitozyf)/[lucky-draw](https://github.com/vitozyf/lucky-draw): 年会抽奖程序 |
 | [h5o](https://github.com/h5o)/[h5o-chrome](https://github.com/h5o/h5o-chrome): HTML5 outliner (Chrome extension) |
 | [microsoft](https://github.com/microsoft)/[monaco-editor](https://github.com/microsoft/monaco-editor): A browser based code editor |
 | [alibaba](https://github.com/alibaba)/[lightproxy](https://github.com/alibaba/lightproxy): 💎 Cross platform Web debugging proxy |
