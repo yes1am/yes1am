@@ -1,6 +1,104 @@
 {
-  "total": 148,
+  "total": 150,
   "users": [
+    {
+      "bio": "Co-founder & CEO of JuziBot, Y Combinator Alumni,\r\nMicrosoft AI MVP.     We are hiring! See: https://bit.ly/3ldGAIF         ",
+      "name": "lijiarui",
+      "login": "lijiarui",
+      "url": "https://github.com/lijiarui",
+      "itemShowcase": {
+        "items": {
+          "totalCount": 6,
+          "nodes": [
+            {
+              "description": "My personal blog",
+              "name": "lijiarui.github.io",
+              "url": "https://github.com/lijiarui/lijiarui.github.io",
+              "stargazerCount": 4
+            },
+            {
+              "description": "Chatbot Zero to One",
+              "name": "chatbot-0-to-1",
+              "url": "https://github.com/wechaty/chatbot-0-to-1",
+              "stargazerCount": 13
+            },
+            {
+              "description": "Conversational RPA SDK for Chatbot Makers",
+              "name": "wechaty",
+              "url": "https://github.com/wechaty/wechaty",
+              "stargazerCount": 11829
+            },
+            {
+              "description": "Wechaty Official Website for News, Blogs, Contributor Profiles, and Documentations.",
+              "name": "wechaty.js.org",
+              "url": "https://github.com/wechaty/wechaty.js.org",
+              "stargazerCount": 100
+            },
+            {
+              "description": "A Starter Project Template for Wechaty works out-of-the-box",
+              "name": "getting-started",
+              "url": "https://github.com/wechaty/getting-started",
+              "stargazerCount": 449
+            },
+            {
+              "description": "ARCHIVED. Merged to https://github.com/wechaty/wechaty.js.org",
+              "name": "wechaty.js.org.bak",
+              "url": "https://github.com/wechaty/wechaty.js.org.bak",
+              "stargazerCount": 26
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bio": "Angel Investor, Serial Entrepreneur, Microsoft AI MVP, Google ML GDE, Tencent TVP of Chatbot, Conversational AI Coder with 💖",
+      "name": "Huan (李卓桓)",
+      "login": "huan",
+      "url": "https://github.com/huan",
+      "itemShowcase": {
+        "items": {
+          "totalCount": 6,
+          "nodes": [
+            {
+              "description": "Conversational RPA SDK for Chatbot Makers",
+              "name": "wechaty",
+              "url": "https://github.com/wechaty/wechaty",
+              "stargazerCount": 11829
+            },
+            {
+              "description": "简单粗暴 TensorFlow 2 | A Concise Handbook of TensorFlow 2 | 一本简明的 TensorFlow 2 入门指导教程",
+              "name": "tensorflow-handbook",
+              "url": "https://github.com/snowkylin/tensorflow-handbook",
+              "stargazerCount": 3636
+            },
+            {
+              "description": "A pythonic dependency injection library.",
+              "name": "pinject",
+              "url": "https://github.com/google/pinject",
+              "stargazerCount": 1297
+            },
+            {
+              "description": "Simplest and Smallest Email Forward Service based on Docker.",
+              "name": "docker-simple-mail-forwarder",
+              "url": "https://github.com/huan/docker-simple-mail-forwarder",
+              "stargazerCount": 413
+            },
+            {
+              "description": "Solve face verification, recognition and clustering problems: A TensorFlow backed FaceNet implementation for Node.js.",
+              "name": "node-facenet",
+              "url": "https://github.com/huan/node-facenet",
+              "stargazerCount": 390
+            },
+            {
+              "description": "DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux",
+              "name": "docker-wechat",
+              "url": "https://github.com/huan/docker-wechat",
+              "stargazerCount": 1390
+            }
+          ]
+        }
+      }
+    },
     {
       "bio": "Just do it.",
       "name": "LHG",
