@@ -26,8 +26,8 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 GitHub repositories. 👇<strong> (44)
-		&nbsp;Update At 1/11/2022, 12:25:54 AM 
+    <strong>👆 👉 GitHub repositories. 👇<strong> (45)
+		&nbsp;Update At 1/12/2022, 12:25:09 AM 
   </summary>
   <br>
 
@@ -35,7 +35,7 @@ Code For Fun
 | --- | --- | --- |
 | [logo-hub](https://github.com/yes1am/logo-hub) | Logo Generator | 52 |
 | [blog](https://github.com/yes1am/blog) | :camera: 个人博客 | 9 |
-| [Outline](https://github.com/yes1am/Outline) | Generate outline for website | 5 |
+| [Outline](https://github.com/yes1am/Outline) | Generate outline for website | 6 |
 | [stand-up-comedy](https://github.com/yes1am/stand-up-comedy) | :microphone: 单口喜剧 | 5 |
 | [screenshot-service](https://github.com/yes1am/screenshot-service) | 基于 https://github.com/alvarcarto/url-to-pdf-api 改进的 node 截图服务 | 3 |
 | [mie-ui](https://github.com/yes1am/mie-ui) | React ui library, bundled by rollup | 3 |
@@ -46,7 +46,7 @@ Code For Fun
 | [chrome-extension-starter](https://github.com/yes1am/chrome-extension-starter) | :seedling: A boilerplate for Chrome Extensions | 1 |
 | [douban-movie-calendar](https://github.com/yes1am/douban-movie-calendar) | 豆瓣电影日历 https://yes1am.github.io/douban-movie-calendar/ | 1 |
 | [fe-knowledge](https://github.com/yes1am/fe-knowledge) | 前端知识库 | 1 |
-| [mobile-workshop](https://github.com/yes1am/mobile-workshop) | 移动端开发 工作坊 | - |
+| [oauth-demo](https://github.com/yes1am/oauth-demo) | oauth-demo | - |
 | [chrome-extension-star](https://github.com/yes1am/chrome-extension-star) | A chrome extension, `star` page and save in github issue. | - |
 | [PiggyBank](https://github.com/yes1am/PiggyBank) | &#34;存钱罐&#34; - 用于收集星星 | - |
 | [redux-demo](https://github.com/yes1am/redux-demo) | 简单的 redux demo | - |
@@ -59,8 +59,8 @@ Code For Fun
 | [PicBed](https://github.com/yes1am/PicBed) | PicGo Github 图床 | - |
 | [jsbox](https://github.com/yes1am/jsbox) | :game_die: 个人 jsbox 脚本集 | - |
 | [static](https://github.com/yes1am/static) | 一些静态网页 | - |
+| [mobile-workshop](https://github.com/yes1am/mobile-workshop) | 移动端开发 工作坊 | - |
 | [lazy-dev](https://github.com/yes1am/lazy-dev) | :hammer: 快速搭建项目开发环境 | - |
-| [oauth-demo](https://github.com/yes1am/oauth-demo) | oauth-demo | - |
 | [wechat-dev](https://github.com/yes1am/wechat-dev) | 微信公众号开发, Node 示例 | - |
 | [js-leetcode](https://github.com/yes1am/js-leetcode) | solve and analyze leetcode | - |
 | [gitlab-webhooks-notification](https://github.com/yes1am/gitlab-webhooks-notification) | Gitlab Webhooks 的提醒服务 | - |
@@ -77,6 +77,7 @@ Code For Fun
 | [yin-cha-xian](https://github.com/yes1am/yin-cha-xian) | 喂 三點幾啦 做 做撚咩 做 | - |
 | [cronhub](https://github.com/yes1am/cronhub) |  | - |
 | [exchange](https://github.com/yes1am/exchange) | 交换信息 | - |
+| [okjike-online](https://github.com/yes1am/okjike-online) | 小程序开发 | - |
 </details>
 
 <details>
