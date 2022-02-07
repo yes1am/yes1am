@@ -27,7 +27,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (45)
-		&nbsp;Update At 2/6/2022, 12:28:26 AM 
+		&nbsp;Update At 2/7/2022, 12:23:08 AM 
   </summary>
   <br>
 
@@ -385,12 +385,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 Who I Follow. 👇<strong> (150)
+    <strong>👆 👉 Who I Follow. 👇<strong> (151)
   </summary>
   <br>
 
 | Following  |
 | --- | 
+| [yihong0618](https://github.com/yihong0618)<ul><li>[running_page](https://github.com/yihong0618/running_page): Make your own running home page</li><li>[GitHubPoster](https://github.com/yihong0618/GitHubPoster): Make everything a GitHub svg poster and Skyline!</li><li>[gitblog](https://github.com/yihong0618/gitblog): People Die, but Long Live GitHub</li><li>[gaycore](https://github.com/yihong0618/gaycore): use command-line to listen gadio</li><li>[vscode-gcores](https://github.com/yihong0618/vscode-gcores): VSCode 玩转机核</li><li>[github-readme-stats](https://github.com/yihong0618/github-readme-stats): generate my_github status using GitHub Actions</li><ul>|
 | [lijiarui](https://github.com/lijiarui)<ul><li>[lijiarui.github.io](https://github.com/lijiarui/lijiarui.github.io): My personal blog</li><li>[chatbot-0-to-1](https://github.com/wechaty/chatbot-0-to-1): Chatbot Zero to One</li><li>[wechaty](https://github.com/wechaty/wechaty): Conversational RPA SDK for Chatbot Makers</li><li>[wechaty.js.org](https://github.com/wechaty/wechaty.js.org): Wechaty Official Website for News, Blogs, Contributor Profiles, and Documentations.</li><li>[getting-started](https://github.com/wechaty/getting-started): A Starter Project Template for Wechaty works out-of-the-box</li><li>[wechaty.js.org.bak](https://github.com/wechaty/wechaty.js.org.bak): ARCHIVED. Merged to https://github.com/wechaty/wechaty.js.org</li><ul>|
 | [huan](https://github.com/huan)<ul><li>[wechaty](https://github.com/wechaty/wechaty): Conversational RPA SDK for Chatbot Makers</li><li>[tensorflow-handbook](https://github.com/snowkylin/tensorflow-handbook): 简单粗暴 TensorFlow 2 | A Concise Handbook of TensorFlow 2 | 一本简明的 TensorFlow 2 入门指导教程</li><li>[pinject](https://github.com/google/pinject): A pythonic dependency injection library.</li><li>[docker-simple-mail-forwarder](https://github.com/huan/docker-simple-mail-forwarder): Simplest and Smallest Email Forward Service based on Docker.</li><li>[node-facenet](https://github.com/huan/node-facenet): Solve face verification, recognition and clustering problems: A TensorFlow backed FaceNet implementation for Node.js.</li><li>[docker-wechat](https://github.com/huan/docker-wechat): DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux</li><ul>|
 | [miscmo](https://github.com/miscmo)<ul><li>[MindNote](https://github.com/miscmo/MindNote): 实用、高效的个人知识管理工具</li><li>[Rock](https://github.com/miscmo/Rock): C++高性能服务器框架</li><li>[Penet](https://github.com/miscmo/Penet): 简洁易用的C++网络库</li><li>[learning](https://github.com/miscmo/learning): 学习笔记</li><ul>|

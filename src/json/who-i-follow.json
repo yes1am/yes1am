@@ -1,6 +1,55 @@
 {
-  "total": 150,
+  "total": 151,
   "users": [
+    {
+      "bio": "The best is yet to come.",
+      "name": "yihong",
+      "login": "yihong0618",
+      "url": "https://github.com/yihong0618",
+      "itemShowcase": {
+        "items": {
+          "totalCount": 6,
+          "nodes": [
+            {
+              "description": "Make your own running home page",
+              "name": "running_page",
+              "url": "https://github.com/yihong0618/running_page",
+              "stargazerCount": 1600
+            },
+            {
+              "description": "Make everything a GitHub svg poster and Skyline!",
+              "name": "GitHubPoster",
+              "url": "https://github.com/yihong0618/GitHubPoster",
+              "stargazerCount": 795
+            },
+            {
+              "description": "People Die, but Long Live GitHub",
+              "name": "gitblog",
+              "url": "https://github.com/yihong0618/gitblog",
+              "stargazerCount": 376
+            },
+            {
+              "description": "use command-line to listen gadio",
+              "name": "gaycore",
+              "url": "https://github.com/yihong0618/gaycore",
+              "stargazerCount": 93
+            },
+            {
+              "description": "VSCode 玩转机核",
+              "name": "vscode-gcores",
+              "url": "https://github.com/yihong0618/vscode-gcores",
+              "stargazerCount": 87
+            },
+            {
+              "description": "generate my_github status using GitHub Actions",
+              "name": "github-readme-stats",
+              "url": "https://github.com/yihong0618/github-readme-stats",
+              "stargazerCount": 67
+            }
+          ]
+        }
+      }
+    },
     {
       "bio": "Co-founder & CEO of JuziBot, Y Combinator Alumni,\r\nMicrosoft AI MVP.     We are hiring! See: https://bit.ly/3ldGAIF         ",
       "name": "lijiarui",
