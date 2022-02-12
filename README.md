@@ -27,7 +27,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (45)
-		&nbsp;Update At 2/11/2022, 12:24:29 AM 
+		&nbsp;Update At 2/12/2022, 12:26:12 AM 
   </summary>
   <br>
 
@@ -46,7 +46,7 @@ Code For Fun
 | [chrome-extension-starter](https://github.com/yes1am/chrome-extension-starter) | :seedling: A boilerplate for Chrome Extensions | 1 |
 | [douban-movie-calendar](https://github.com/yes1am/douban-movie-calendar) | 豆瓣电影日历 https://yes1am.github.io/douban-movie-calendar/ | 1 |
 | [fe-knowledge](https://github.com/yes1am/fe-knowledge) | 前端知识库 | 1 |
-| [oauth-demo](https://github.com/yes1am/oauth-demo) | oauth-demo | - |
+| [oauth-demo](https://github.com/yes1am/oauth-demo) | github-oauth-demo | - |
 | [chrome-extension-star](https://github.com/yes1am/chrome-extension-star) | A chrome extension, `star` page and save in github issue. | - |
 | [PiggyBank](https://github.com/yes1am/PiggyBank) | &#34;存钱罐&#34; - 用于收集星星 | - |
 | [redux-demo](https://github.com/yes1am/redux-demo) | 简单的 redux demo | - |

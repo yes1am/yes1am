@@ -247,7 +247,7 @@
     },
     {
       "name": "oauth-demo",
-      "description": "oauth-demo",
+      "description": "github-oauth-demo",
       "isPrivate": false,
       "isFork": false,
       "stargazerCount": 0,
