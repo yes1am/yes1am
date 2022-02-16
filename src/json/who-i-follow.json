@@ -1,6 +1,55 @@
 {
-  "total": 151,
+  "total": 152,
   "users": [
+    {
+      "bio": "",
+      "name": "Jeremygao",
+      "login": "SuperJolly",
+      "url": "https://github.com/SuperJolly",
+      "itemShowcase": {
+        "items": {
+          "totalCount": 58,
+          "nodes": [
+            {
+              "description": null,
+              "name": "wxapp-tutorial-code",
+              "url": "https://github.com/SuperJolly/wxapp-tutorial-code",
+              "stargazerCount": 414
+            },
+            {
+              "description": null,
+              "name": "wxapp-little-shelf",
+              "url": "https://github.com/SuperJolly/wxapp-little-shelf",
+              "stargazerCount": 213
+            },
+            {
+              "description": null,
+              "name": "wxapp-tutorial-api",
+              "url": "https://github.com/SuperJolly/wxapp-tutorial-api",
+              "stargazerCount": 63
+            },
+            {
+              "description": null,
+              "name": "wxapp-tutorial-components",
+              "url": "https://github.com/SuperJolly/wxapp-tutorial-components",
+              "stargazerCount": 63
+            },
+            {
+              "description": "微信小程序开发资源汇总 :100:",
+              "name": "awesome-wechat-weapp",
+              "url": "https://github.com/SuperJolly/awesome-wechat-weapp",
+              "stargazerCount": 6
+            },
+            {
+              "description": "微信小程序模块化开发框架",
+              "name": "labrador",
+              "url": "https://github.com/SuperJolly/labrador",
+              "stargazerCount": 2
+            }
+          ]
+        }
+      }
+    },
     {
       "bio": "The best is yet to come.",
       "name": "yihong",
