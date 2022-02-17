@@ -1,5 +1,5 @@
 {
-  "total": 292,
+  "total": 293,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3223,7 +3223,18 @@
       },
       "starredAt": "2022-01-22T16:21:26Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0wMS0yM1QwMDoyMToyNiswODowMM4SzzGp"
+    },
+    {
+      "name": "wxapp-little-shelf",
+      "url": "https://github.com/SuperJolly/wxapp-little-shelf",
+      "description": null,
+      "owner": {
+        "login": "SuperJolly",
+        "url": "https://github.com/SuperJolly"
+      },
+      "starredAt": "2022-02-16T12:01:18Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0wMi0xNlQyMDowMToxOCswODowMM4TEaGI"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0wMS0yM1QwMDoyMToyNiswODowMM4SzzGp"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0wMi0xNlQyMDowMToxOCswODowMM4TEaGI"
 }
