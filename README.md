@@ -27,7 +27,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (46)
-		&nbsp;Update At 2/19/2022, 12:29:24 AM 
+		&nbsp;Update At 2/20/2022, 12:31:37 AM 
   </summary>
   <br>
 
@@ -83,7 +83,7 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (293)
+    <strong>👆 👉 What I Star. 👇<strong> (292)
   </summary>
   <br>
 
