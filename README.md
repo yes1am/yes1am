@@ -27,7 +27,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (46)
-		&nbsp;Update At 2/22/2022, 12:27:12 AM 
+		&nbsp;Update At 2/23/2022, 12:31:41 AM 
   </summary>
   <br>
 
@@ -40,14 +40,14 @@ Code For Fun
 | [screenshot-service](https://github.com/yes1am/screenshot-service) | 基于 https://github.com/alvarcarto/url-to-pdf-api 改进的 node 截图服务 | 3 |
 | [mie-ui](https://github.com/yes1am/mie-ui) | React ui library, bundled by rollup | 3 |
 | [dry](https://github.com/yes1am/dry) | Don&#39;t Repeat Yourself | 3 |
-| [simple-explorer](https://github.com/yes1am/simple-explorer) | Only view the directories or files you care about. | 2 |
+| [yes1am](https://github.com/yes1am/yes1am) |  | 2 |
 | [dadao](https://github.com/yes1am/dadao) | 豆瓣大島 | 2 |
-| [fe-knowledge](https://github.com/yes1am/fe-knowledge) | 前端知识库 | 1 |
+| [simple-explorer](https://github.com/yes1am/simple-explorer) | Only view the directories or files you care about. | 2 |
 | [chrome-extension-starter](https://github.com/yes1am/chrome-extension-starter) | :seedling: A boilerplate for Chrome Extensions | 1 |
-| [yes1am](https://github.com/yes1am/yes1am) |  | 1 |
 | [douban-movie-calendar](https://github.com/yes1am/douban-movie-calendar) | 豆瓣电影日历 https://yes1am.github.io/douban-movie-calendar/ | 1 |
-| [PicBed](https://github.com/yes1am/PicBed) | PicGo Github 图床 | - |
+| [fe-knowledge](https://github.com/yes1am/fe-knowledge) | 前端知识库 | 1 |
 | [sheldon](https://github.com/yes1am/sheldon) | A React Native app, which tries to fulfill all my needs on mobile. | - |
+| [chrome-extension-star](https://github.com/yes1am/chrome-extension-star) | A chrome extension, `star` page and save in github issue. | - |
 | [PiggyBank](https://github.com/yes1am/PiggyBank) | &#34;存钱罐&#34; - 用于收集星星 | - |
 | [redux-demo](https://github.com/yes1am/redux-demo) | 简单的 redux demo | - |
 | [automator](https://github.com/yes1am/automator) | Do something automatically with puppeteer | - |
@@ -55,30 +55,30 @@ Code For Fun
 | [RNworkshop](https://github.com/yes1am/RNworkshop) | 基于 create-react-native-app 的 RN 开发环境，用于本地调试 RN 组件 | - |
 | [learn-typescript](https://github.com/yes1am/learn-typescript) | 学习 TypeScript | - |
 | [express-vue-boilerplate](https://github.com/yes1am/express-vue-boilerplate) | 基于 express 的 Vue 开发环境 | - |
-| [lazy-dev](https://github.com/yes1am/lazy-dev) | :hammer: 快速搭建项目开发环境 | - |
+| [vue-assistive-touch](https://github.com/yes1am/vue-assistive-touch) | Vue version of Assistive Touch, Inspired by and copy code from https://github.com/abhishekkhandait/react-assistivetouch-menu | - |
 | [express-react-boilerplate](https://github.com/yes1am/express-react-boilerplate) | :seedling: 基于express与react的开发模板 | - |
 | [jsbox](https://github.com/yes1am/jsbox) | :game_die: 个人 jsbox 脚本集 | - |
 | [static](https://github.com/yes1am/static) | 一些静态网页 | - |
 | [mobile-workshop](https://github.com/yes1am/mobile-workshop) | 移动端开发 工作坊 | - |
 | [oauth-demo](https://github.com/yes1am/oauth-demo) | github-oauth-demo | - |
-| [wechat-dev](https://github.com/yes1am/wechat-dev) | 微信公众号开发, Node 示例 | - |
-| [chrome-extension-star](https://github.com/yes1am/chrome-extension-star) | A chrome extension, `star` page and save in github issue. | - |
+| [lazy-dev](https://github.com/yes1am/lazy-dev) | :hammer: 快速搭建项目开发环境 | - |
+| [js-leetcode](https://github.com/yes1am/js-leetcode) | solve and analyze leetcode | - |
 | [gitlab-webhooks-notification](https://github.com/yes1am/gitlab-webhooks-notification) | Gitlab Webhooks 的提醒服务 | - |
-| [vue-assistive-touch](https://github.com/yes1am/vue-assistive-touch) | Vue version of Assistive Touch, Inspired by and copy code from https://github.com/abhishekkhandait/react-assistivetouch-menu | - |
+| [miniprogram-with-nodejs](https://github.com/yes1am/miniprogram-with-nodejs) | 小程序学习 | - |
 | [dont-commit-me](https://github.com/yes1am/dont-commit-me) | Prevent from committing sensitive words, Git hooks for husky. | - |
 | [javascript-datastructures-algorithms](https://github.com/yes1am/javascript-datastructures-algorithms) | 学习 JavaScript 数据结构与算法(第三版) 学习笔记 | - |
-| [js-leetcode](https://github.com/yes1am/js-leetcode) | solve and analyze leetcode | - |
 | [fe-lib](https://github.com/yes1am/fe-lib) | fe-lib | - |
+| [react-story-book](https://github.com/yes1am/react-story-book) | React 组件库 | - |
 | [workshop](https://github.com/yes1am/workshop) | 一个用来写 demo 和学习各种技术的地方, 拥有诸多的技术栈开发环境，不用操心繁琐的配置，随时可用. | - |
 | [react-ui-webpack](https://github.com/yes1am/react-ui-webpack) | React ui library, bundled by webpack | - |
-| [react-story-book](https://github.com/yes1am/react-story-book) | React 组件库 | - |
+| [PicBed](https://github.com/yes1am/PicBed) | PicGo Github 图床 | - |
 | [chat-now](https://github.com/yes1am/chat-now) |  | - |
 | [magic-pocket](https://github.com/yes1am/magic-pocket) | 用于存放demo,包括实践某个API、实现某个功能 | - |
 | [yin-cha-xian](https://github.com/yes1am/yin-cha-xian) | 喂 三點幾啦 做 做撚咩 做 | - |
 | [cronhub](https://github.com/yes1am/cronhub) |  | - |
 | [exchange](https://github.com/yes1am/exchange) | 交换信息 | - |
 | [okjike-online](https://github.com/yes1am/okjike-online) | 小程序开发 | - |
-| [miniprogram-with-nodejs](https://github.com/yes1am/miniprogram-with-nodejs) | 小程序学习 | - |
+| [wechat-dev](https://github.com/yes1am/wechat-dev) | 微信公众号开发, Node 示例 | - |
 </details>
 
 <details>
