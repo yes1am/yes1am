@@ -27,7 +27,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (46)
-		&nbsp;Update At 2/24/2022, 12:28:21 AM 
+		&nbsp;Update At 2/25/2022, 12:28:56 AM 
   </summary>
   <br>
 
@@ -83,12 +83,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (294)
+    <strong>👆 👉 What I Star. 👇<strong> (295)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [foxpage](https://github.com/foxpage)/[foxpage](https://github.com/foxpage/foxpage): Foxpage portal, server apis and plugins |
 | [Anduin2017](https://github.com/Anduin2017)/[HowToCook](https://github.com/Anduin2017/HowToCook): 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Chinese). |
 | [aben1188](https://github.com/aben1188)/[awesome-wepy](https://github.com/aben1188/awesome-wepy): Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总 |
 | [SuperJolly](https://github.com/SuperJolly)/[wxapp-little-shelf](https://github.com/SuperJolly/wxapp-little-shelf):  |

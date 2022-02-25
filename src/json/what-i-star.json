@@ -1,5 +1,5 @@
 {
-  "total": 294,
+  "total": 295,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3256,7 +3256,18 @@
       },
       "starredAt": "2022-02-23T14:07:56Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0wMi0yM1QyMjowNzo1NiswODowMM4TJldx"
+    },
+    {
+      "name": "foxpage",
+      "url": "https://github.com/foxpage/foxpage",
+      "description": "Foxpage portal, server apis and plugins",
+      "owner": {
+        "login": "foxpage",
+        "url": "https://github.com/foxpage"
+      },
+      "starredAt": "2022-02-24T11:26:54Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0wMi0yNFQxOToyNjo1NCswODowMM4TKPSv"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0wMi0yM1QyMjowNzo1NiswODowMM4TJldx"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0wMi0yNFQxOToyNjo1NCswODowMM4TKPSv"
 }
