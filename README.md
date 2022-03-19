@@ -7,6 +7,7 @@ Code For Fun
 - 豆瓣大島: https://yes1am.github.io/dadao/
 - stand-up-comedy: https://yes1am.github.io/stand-up-comedy/
 - 豆瓣电影日历: https://yes1am.github.io/douban-movie-calendar/index.html
+- 个人网站：http://www.songjp.online/
 
 ### Stack Overflow
 
