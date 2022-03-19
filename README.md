@@ -26,8 +26,8 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 GitHub repositories. 👇<strong> (46)
-		&nbsp;Update At 3/18/2022, 12:30:43 AM 
+    <strong>👆 👉 GitHub repositories. 👇<strong> (47)
+		&nbsp;Update At 3/19/2022, 12:29:40 AM 
   </summary>
   <br>
 
@@ -64,7 +64,7 @@ Code For Fun
 | [lazy-dev](https://github.com/yes1am/lazy-dev) | :hammer: 快速搭建项目开发环境 | - |
 | [js-leetcode](https://github.com/yes1am/js-leetcode) | solve and analyze leetcode | - |
 | [gitlab-webhooks-notification](https://github.com/yes1am/gitlab-webhooks-notification) | Gitlab Webhooks 的提醒服务 | - |
-| [miniprogram-with-nodejs](https://github.com/yes1am/miniprogram-with-nodejs) | 小程序学习 | - |
+| [songjp.online](https://github.com/yes1am/songjp.online) |  | - |
 | [dont-commit-me](https://github.com/yes1am/dont-commit-me) | Prevent from committing sensitive words, Git hooks for husky. | - |
 | [javascript-datastructures-algorithms](https://github.com/yes1am/javascript-datastructures-algorithms) | 学习 JavaScript 数据结构与算法(第三版) 学习笔记 | - |
 | [fe-lib](https://github.com/yes1am/fe-lib) | fe-lib | - |
@@ -78,6 +78,7 @@ Code For Fun
 | [cronhub](https://github.com/yes1am/cronhub) |  | - |
 | [exchange](https://github.com/yes1am/exchange) | 交换信息 | - |
 | [okjike-online](https://github.com/yes1am/okjike-online) | 小程序开发 | - |
+| [miniprogram-with-nodejs](https://github.com/yes1am/miniprogram-with-nodejs) | 小程序学习 | - |
 | [wechat-dev](https://github.com/yes1am/wechat-dev) | 微信公众号开发, Node 示例 | - |
 </details>
 
