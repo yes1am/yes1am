@@ -6,6 +6,7 @@ Code For Fun
 - Outline: https://github.com/yes1am/Outline
 - 豆瓣大島: https://yes1am.github.io/dadao/
 - stand-up-comedy: https://yes1am.github.io/stand-up-comedy/
+- 豆瓣电影日历: https://yes1am.github.io/douban-movie-calendar/index.html
 
 ### Stack Overflow
 
