@@ -283,7 +283,7 @@
     },
     {
       "name": "douban-movie-calendar",
-      "description": "豆瓣电影日历 https://yes1am.github.io/douban-movie-calendar/",
+      "description": "豆瓣电影日历",
       "isPrivate": false,
       "isFork": false,
       "stargazerCount": 1,
@@ -418,7 +418,7 @@
     },
     {
       "name": "songjp.online",
-      "description": null,
+      "description": "http://songjp.online",
       "isPrivate": false,
       "isFork": false,
       "stargazerCount": 0,

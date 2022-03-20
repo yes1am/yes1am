@@ -6,8 +6,6 @@ Code For Fun
 - Outline: https://github.com/yes1am/Outline
 - 豆瓣大島: https://yes1am.github.io/dadao/
 - stand-up-comedy: https://yes1am.github.io/stand-up-comedy/
-- 豆瓣电影日历: https://yes1am.github.io/douban-movie-calendar/index.html
-- 个人网站：http://www.songjp.online/
 
 ### Stack Overflow
 
@@ -29,7 +27,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (47)
-		&nbsp;Update At 3/19/2022, 12:29:40 AM 
+		&nbsp;Update At 3/20/2022, 12:30:40 AM 
   </summary>
   <br>
 
@@ -46,7 +44,7 @@ Code For Fun
 | [dadao](https://github.com/yes1am/dadao) | 豆瓣大島 | 2 |
 | [simple-explorer](https://github.com/yes1am/simple-explorer) | Only view the directories or files you care about. | 2 |
 | [chrome-extension-starter](https://github.com/yes1am/chrome-extension-starter) | :seedling: A boilerplate for Chrome Extensions | 1 |
-| [douban-movie-calendar](https://github.com/yes1am/douban-movie-calendar) | 豆瓣电影日历 https://yes1am.github.io/douban-movie-calendar/ | 1 |
+| [douban-movie-calendar](https://github.com/yes1am/douban-movie-calendar) | 豆瓣电影日历 | 1 |
 | [fe-knowledge](https://github.com/yes1am/fe-knowledge) | 前端知识库 | 1 |
 | [sheldon](https://github.com/yes1am/sheldon) | A React Native app, which tries to fulfill all my needs on mobile. | - |
 | [chrome-extension-star](https://github.com/yes1am/chrome-extension-star) | A chrome extension, `star` page and save in github issue. | - |
@@ -66,7 +64,7 @@ Code For Fun
 | [lazy-dev](https://github.com/yes1am/lazy-dev) | :hammer: 快速搭建项目开发环境 | - |
 | [js-leetcode](https://github.com/yes1am/js-leetcode) | solve and analyze leetcode | - |
 | [gitlab-webhooks-notification](https://github.com/yes1am/gitlab-webhooks-notification) | Gitlab Webhooks 的提醒服务 | - |
-| [songjp.online](https://github.com/yes1am/songjp.online) |  | - |
+| [songjp.online](https://github.com/yes1am/songjp.online) | http://songjp.online | - |
 | [dont-commit-me](https://github.com/yes1am/dont-commit-me) | Prevent from committing sensitive words, Git hooks for husky. | - |
 | [javascript-datastructures-algorithms](https://github.com/yes1am/javascript-datastructures-algorithms) | 学习 JavaScript 数据结构与算法(第三版) 学习笔记 | - |
 | [fe-lib](https://github.com/yes1am/fe-lib) | fe-lib | - |
