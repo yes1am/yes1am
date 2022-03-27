@@ -27,7 +27,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (47)
-		&nbsp;Update At 3/26/2022, 12:31:44 AM 
+		&nbsp;Update At 3/27/2022, 12:35:47 AM 
   </summary>
   <br>
 
@@ -64,7 +64,7 @@ Code For Fun
 | [lazy-dev](https://github.com/yes1am/lazy-dev) | :hammer: 快速搭建项目开发环境 | - |
 | [js-leetcode](https://github.com/yes1am/js-leetcode) | solve and analyze leetcode | - |
 | [gitlab-webhooks-notification](https://github.com/yes1am/gitlab-webhooks-notification) | Gitlab Webhooks 的提醒服务 | - |
-| [songjp.online](https://github.com/yes1am/songjp.online) | http://songjp.online | - |
+| [songjp.online](https://github.com/yes1am/songjp.online) | https://yes1am.github.io/songjp.online/ | - |
 | [dont-commit-me](https://github.com/yes1am/dont-commit-me) | Prevent from committing sensitive words, Git hooks for husky. | - |
 | [javascript-datastructures-algorithms](https://github.com/yes1am/javascript-datastructures-algorithms) | 学习 JavaScript 数据结构与算法(第三版) 学习笔记 | - |
 | [fe-lib](https://github.com/yes1am/fe-lib) | fe-lib | - |
