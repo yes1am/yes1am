@@ -1,6 +1,6 @@
 {
   "realTotal": 57,
-  "visibleTotal": 48,
+  "visibleTotal": 47,
   "repos": [
     {
       "name": "blog",
@@ -415,15 +415,6 @@
       "stargazerCount": 0,
       "url": "https://github.com/yes1am/miniprogram-with-nodejs",
       "createdAt": "2022-02-15T14:17:00Z"
-    },
-    {
-      "name": "songjp.online",
-      "description": "https://yes1am.github.io/songjp.online/",
-      "isPrivate": false,
-      "isFork": false,
-      "stargazerCount": 0,
-      "url": "https://github.com/yes1am/songjp.online",
-      "createdAt": "2022-03-18T13:29:33Z"
     },
     {
       "name": "okjike.online",
