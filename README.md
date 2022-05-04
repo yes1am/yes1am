@@ -29,13 +29,13 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (47)
-		&nbsp;Update At 5/3/2022, 12:37:09 AM 
+		&nbsp;Update At 5/4/2022, 12:37:36 AM 
   </summary>
   <br>
 
 | repository | description | stars |
 | --- | --- | --- |
-| [logo-hub](https://github.com/yes1am/logo-hub) | Logo Generator | 51 |
+| [logo-hub](https://github.com/yes1am/logo-hub) | Logo Generator | 52 |
 | [blog](https://github.com/yes1am/blog) | :camera: 个人博客 | 10 |
 | [Outline](https://github.com/yes1am/Outline) | Generate outline for website | 9 |
 | [stand-up-comedy](https://github.com/yes1am/stand-up-comedy) | :microphone: 单口喜剧 | 7 |
@@ -86,12 +86,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (295)
+    <strong>👆 👉 What I Star. 👇<strong> (296)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [open-jike](https://github.com/open-jike)/[jike-sdk](https://github.com/open-jike/jike-sdk): Ⓙ Jike 第三方 SDK for Node.js / Deno / 浏览器 |
 | [foxpage](https://github.com/foxpage)/[foxpage](https://github.com/foxpage/foxpage): Foxpage portal, server apis and plugins |
 | [Anduin2017](https://github.com/Anduin2017)/[HowToCook](https://github.com/Anduin2017/HowToCook): 程序员在家做饭方法指南。Programmer&#39;s guide about how to cook at home (Chinese). |
 | [aben1188](https://github.com/aben1188)/[awesome-wepy](https://github.com/aben1188/awesome-wepy): Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总 |

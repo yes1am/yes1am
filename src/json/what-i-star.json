@@ -1,5 +1,5 @@
 {
-  "total": 295,
+  "total": 296,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3267,7 +3267,18 @@
       },
       "starredAt": "2022-02-24T11:26:54Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0wMi0yNFQxOToyNjo1NCswODowMM4TKPSv"
+    },
+    {
+      "name": "jike-sdk",
+      "url": "https://github.com/open-jike/jike-sdk",
+      "description": "Ⓙ Jike 第三方 SDK for Node.js / Deno / 浏览器",
+      "owner": {
+        "login": "open-jike",
+        "url": "https://github.com/open-jike"
+      },
+      "starredAt": "2022-05-03T22:26:09Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0wNS0wNFQwNjoyNjowOSswODowMM4T5rSF"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0wMi0yNFQxOToyNjo1NCswODowMM4TKPSv"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0wNS0wNFQwNjoyNjowOSswODowMM4T5rSF"
 }
