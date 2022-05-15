@@ -1,5 +1,5 @@
 {
-  "total": 296,
+  "total": 297,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3278,7 +3278,18 @@
       },
       "starredAt": "2022-05-03T22:26:09Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0wNS0wNFQwNjoyNjowOSswODowMM4T5rSF"
+    },
+    {
+      "name": "jce-tars-plugin",
+      "url": "https://github.com/abelQJ/jce-tars-plugin",
+      "description": "腾讯TAF/TARS框架IDL格式vscode插件",
+      "owner": {
+        "login": "abelQJ",
+        "url": "https://github.com/abelQJ"
+      },
+      "starredAt": "2022-05-14T09:14:51Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0wNS0xNFQxNzoxNDo1MSswODowMM4UBHvB"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0wNS0wNFQwNjoyNjowOSswODowMM4T5rSF"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0wNS0xNFQxNzoxNDo1MSswODowMM4UBHvB"
 }
