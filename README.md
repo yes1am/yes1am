@@ -29,15 +29,15 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (47)
-		&nbsp;Update At 5/20/2022, 12:38:50 AM 
+		&nbsp;Update At 5/21/2022, 12:35:30 AM 
   </summary>
   <br>
 
 | repository | description | stars |
 | --- | --- | --- |
 | [logo-hub](https://github.com/yes1am/logo-hub) | Logo Generator | 52 |
+| [Outline](https://github.com/yes1am/Outline) | Generate outline for website | 11 |
 | [blog](https://github.com/yes1am/blog) | :camera: 个人博客 | 10 |
-| [Outline](https://github.com/yes1am/Outline) | Generate outline for website | 9 |
 | [stand-up-comedy](https://github.com/yes1am/stand-up-comedy) | :microphone: 单口喜剧 | 8 |
 | [screenshot-service](https://github.com/yes1am/screenshot-service) | 基于 https://github.com/alvarcarto/url-to-pdf-api 改进的 node 截图服务 | 3 |
 | [mie-ui](https://github.com/yes1am/mie-ui) | React ui library, bundled by rollup | 3 |
@@ -395,12 +395,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 Who I Follow. 👇<strong> (152)
+    <strong>👆 👉 Who I Follow. 👇<strong> (153)
   </summary>
   <br>
 
 | Following  |
 | --- | 
+| [skyline75489](https://github.com/skyline75489)<ul><li>[articles](https://github.com/NSHipster/articles): Articles for NSHipster.com</li><li>[SwiftRouter](https://github.com/skyline75489/SwiftRouter): A URL Router for iOS, written in Swift</li><li>[what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN): What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when</li><li>[Heart-First-JavaWeb](https://github.com/skyline75489/Heart-First-JavaWeb): 一个走心的 Java Web 入门开发教程</li><ul>|
 | [SuperJolly](https://github.com/SuperJolly)<ul><li>[wxapp-tutorial-code](https://github.com/SuperJolly/wxapp-tutorial-code): </li><li>[wxapp-little-shelf](https://github.com/SuperJolly/wxapp-little-shelf): </li><li>[wxapp-tutorial-api](https://github.com/SuperJolly/wxapp-tutorial-api): </li><li>[wxapp-tutorial-components](https://github.com/SuperJolly/wxapp-tutorial-components): </li><li>[awesome-wechat-weapp](https://github.com/SuperJolly/awesome-wechat-weapp): 微信小程序开发资源汇总 :100:</li><li>[labrador](https://github.com/SuperJolly/labrador): 微信小程序模块化开发框架</li><ul>|
 | [yihong0618](https://github.com/yihong0618)<ul><li>[running_page](https://github.com/yihong0618/running_page): Make your own running home page</li><li>[GitHubPoster](https://github.com/yihong0618/GitHubPoster): Make everything a GitHub svg poster and Skyline!</li><li>[gitblog](https://github.com/yihong0618/gitblog): People Die, but Long Live GitHub</li><li>[gaycore](https://github.com/yihong0618/gaycore): use command-line to listen gadio</li><li>[vscode-gcores](https://github.com/yihong0618/vscode-gcores): VSCode 玩转机核</li><li>[github-readme-stats](https://github.com/yihong0618/github-readme-stats): generate my_github status using GitHub Actions</li><ul>|
 | [lijiarui](https://github.com/lijiarui)<ul><li>[lijiarui.github.io](https://github.com/lijiarui/lijiarui.github.io): My personal blog</li><li>[chatbot-0-to-1](https://github.com/wechaty/chatbot-0-to-1): Chatbot Zero to One</li><li>[wechaty](https://github.com/wechaty/wechaty): Conversational RPA SDK for Chatbot Makers</li><li>[wechaty.js.org](https://github.com/wechaty/wechaty.js.org): Wechaty Official Website for News, Blogs, Contributor Profiles, and Documentations.</li><li>[getting-started](https://github.com/wechaty/getting-started): A Starter Project Template for Wechaty works out-of-the-box</li><li>[wechaty.js.org.bak](https://github.com/wechaty/wechaty.js.org.bak): ARCHIVED. Merged to https://github.com/wechaty/wechaty.js.org</li><ul>|

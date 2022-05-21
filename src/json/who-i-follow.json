@@ -1,6 +1,43 @@
 {
-  "total": 152,
+  "total": 153,
   "users": [
+    {
+      "bio": "Seriously, I'm coding.",
+      "name": "Chester Liu",
+      "login": "skyline75489",
+      "url": "https://github.com/skyline75489",
+      "itemShowcase": {
+        "items": {
+          "totalCount": 4,
+          "nodes": [
+            {
+              "description": "Articles for NSHipster.com",
+              "name": "articles",
+              "url": "https://github.com/NSHipster/articles",
+              "stargazerCount": 1191
+            },
+            {
+              "description": "A URL Router for iOS, written in Swift",
+              "name": "SwiftRouter",
+              "url": "https://github.com/skyline75489/SwiftRouter",
+              "stargazerCount": 271
+            },
+            {
+              "description": "What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when",
+              "name": "what-happens-when-zh_CN",
+              "url": "https://github.com/skyline75489/what-happens-when-zh_CN",
+              "stargazerCount": 7182
+            },
+            {
+              "description": "一个走心的 Java Web 入门开发教程",
+              "name": "Heart-First-JavaWeb",
+              "url": "https://github.com/skyline75489/Heart-First-JavaWeb",
+              "stargazerCount": 762
+            }
+          ]
+        }
+      }
+    },
     {
       "bio": "",
       "name": "Jeremygao",
