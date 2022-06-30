@@ -29,13 +29,13 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (47)
-		&nbsp;Update At 6/29/2022, 12:38:15 AM 
+		&nbsp;Update At 6/30/2022, 12:36:57 AM 
   </summary>
   <br>
 
 | repository | description | stars |
 | --- | --- | --- |
-| [logo-hub](https://github.com/yes1am/logo-hub) | Logo Generator | 55 |
+| [logo-hub](https://github.com/yes1am/logo-hub) | Logo Generator | 56 |
 | [stand-up-comedy](https://github.com/yes1am/stand-up-comedy) | :microphone: 单口喜剧 | 12 |
 | [Outline](https://github.com/yes1am/Outline) | Generate outline for website | 11 |
 | [blog](https://github.com/yes1am/blog) | :camera: 个人博客 | 10 |
