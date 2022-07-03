@@ -29,7 +29,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (47)
-		&nbsp;Update At 7/2/2022, 12:41:26 AM 
+		&nbsp;Update At 7/3/2022, 12:40:40 AM 
   </summary>
   <br>
 
@@ -86,12 +86,14 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (298)
+    <strong>👆 👉 What I Star. 👇<strong> (300)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [anup-a](https://github.com/anup-a)/[svgwave](https://github.com/anup-a/svgwave): 🌊 SVG Wave is a tiny, free and beautiful SVG gradient waves generator for your UI or website desgin. It offers dead simple UI to customize, and style your waves based on your theme specifications. |
+| [unicar9](https://github.com/unicar9)/[jizhi](https://github.com/unicar9/jizhi): A Chrome/Firefox extension with custom new tab page featuring Chinese poems and P5.js enabled noise waves in traditional Chinese colors |
 | [evrone](https://github.com/evrone)/[postcss-px-to-viewport](https://github.com/evrone/postcss-px-to-viewport): A plugin for PostCSS that generates viewport units (vw, vh, vmin, vmax) from pixel units. The best choice to create a scalable interface on different displays by one design size. |
 | [abelQJ](https://github.com/abelQJ)/[jce-tars-plugin](https://github.com/abelQJ/jce-tars-plugin): 腾讯TAF/TARS框架IDL格式vscode插件 |
 | [open-jike](https://github.com/open-jike)/[jike-sdk](https://github.com/open-jike/jike-sdk): Ⓙ Jike 第三方 SDK for Node.js / Deno / 浏览器 |

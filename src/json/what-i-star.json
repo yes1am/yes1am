@@ -1,5 +1,5 @@
 {
-  "total": 298,
+  "total": 300,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3300,7 +3300,29 @@
       },
       "starredAt": "2022-05-27T02:54:12Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0wNS0yN1QxMDo1NDoxMiswODowMM4UJ2na"
+    },
+    {
+      "name": "jizhi",
+      "url": "https://github.com/unicar9/jizhi",
+      "description": "A Chrome/Firefox extension with custom new tab page featuring Chinese poems and P5.js enabled noise waves in traditional Chinese colors",
+      "owner": {
+        "login": "unicar9",
+        "url": "https://github.com/unicar9"
+      },
+      "starredAt": "2022-07-02T14:04:02Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0wNy0wMlQyMjowNDowMiswODowMM4UiHFG"
+    },
+    {
+      "name": "svgwave",
+      "url": "https://github.com/anup-a/svgwave",
+      "description": "🌊 SVG Wave is a tiny, free and beautiful SVG gradient waves generator for your UI or website desgin. It offers dead simple UI to customize, and style your waves based on your theme specifications.",
+      "owner": {
+        "login": "anup-a",
+        "url": "https://github.com/anup-a"
+      },
+      "starredAt": "2022-07-02T16:40:10Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0wNy0wM1QwMDo0MDoxMCswODowMM4UiLg-"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0wNS0yN1QxMDo1NDoxMiswODowMM4UJ2na"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0wNy0wM1QwMDo0MDoxMCswODowMM4UiLg-"
 }
