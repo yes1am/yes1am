@@ -1,5 +1,5 @@
 {
-  "total": 301,
+  "total": 302,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3333,7 +3333,18 @@
       },
       "starredAt": "2022-08-29T07:33:28Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0wOC0yOVQxNTozMzoyOCswODowMM4VIlue"
+    },
+    {
+      "name": "amis",
+      "url": "https://github.com/baidu/amis",
+      "description": "前端低代码框架，通过 JSON 配置就能生成各种页面。",
+      "owner": {
+        "login": "baidu",
+        "url": "https://github.com/baidu"
+      },
+      "starredAt": "2022-08-30T05:32:32Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0wOC0zMFQxMzozMjozMiswODowMM4VJQuh"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0wOC0yOVQxNTozMzoyOCswODowMM4VIlue"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0wOC0zMFQxMzozMjozMiswODowMM4VJQuh"
 }

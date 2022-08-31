@@ -29,7 +29,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (47)
-		&nbsp;Update At 8/30/2022, 12:52:44 AM 
+		&nbsp;Update At 8/31/2022, 12:53:42 AM 
   </summary>
   <br>
 
@@ -86,12 +86,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (301)
+    <strong>👆 👉 What I Star. 👇<strong> (302)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [baidu](https://github.com/baidu)/[amis](https://github.com/baidu/amis): 前端低代码框架，通过 JSON 配置就能生成各种页面。 |
 | [alibaba](https://github.com/alibaba)/[formily](https://github.com/alibaba/formily): 📱🚀 🧩 Cross Device &#38; High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3 |
 | [anup-a](https://github.com/anup-a)/[svgwave](https://github.com/anup-a/svgwave): 🌊 SVG Wave is a tiny, free and beautiful SVG gradient waves generator for your UI or website desgin. It offers dead simple UI to customize, and style your waves based on your theme specifications. |
 | [unicar9](https://github.com/unicar9)/[jizhi](https://github.com/unicar9/jizhi): A Chrome/Firefox extension with custom new tab page featuring Chinese poems and P5.js enabled noise waves in traditional Chinese colors |
