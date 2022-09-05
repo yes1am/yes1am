@@ -7,6 +7,7 @@ Code For Fun
 - 豆瓣大島: https://yes1am.github.io/dadao/
 - stand-up-comedy: https://yes1am.github.io/stand-up-comedy/
 - 个人站点: https://songjp.online/
+- 豆瓣日历: https://yes1am.github.io/douban-movie-calendar/
 
 ### Stack Overflow
 
@@ -29,7 +30,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (47)
-		&nbsp;Update At 9/5/2022, 12:50:12 AM 
+		&nbsp;Update At 9/5/2022, 4:18:43 PM 
   </summary>
   <br>
 
