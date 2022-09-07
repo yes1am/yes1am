@@ -30,7 +30,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (47)
-		&nbsp;Update At 9/6/2022, 12:47:37 AM 
+		&nbsp;Update At 9/7/2022, 12:47:18 AM 
   </summary>
   <br>
 
@@ -401,7 +401,7 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 Who I Follow. 👇<strong> (153)
+    <strong>👆 👉 Who I Follow. 👇<strong> (152)
   </summary>
   <br>
 
