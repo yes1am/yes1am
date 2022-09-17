@@ -1,6 +1,55 @@
 {
-  "total": 152,
+  "total": 153,
   "users": [
+    {
+      "bio": "Building uxie.io . Developing tools to improve developer productivity.",
+      "name": "Anup Aglawe",
+      "login": "anup-a",
+      "url": "https://github.com/anup-a",
+      "itemShowcase": {
+        "items": {
+          "totalCount": 6,
+          "nodes": [
+            {
+              "description": "SVG Wave is a tiny, free and beautiful SVG gradient waves generator for your next design.",
+              "name": "svgwave",
+              "url": "https://github.com/anup-a/svgwave",
+              "stargazerCount": 593
+            },
+            {
+              "description": "Tinter is tiny web tool to generate color variation of images. ",
+              "name": "tinter",
+              "url": "https://github.com/uxie-io/tinter",
+              "stargazerCount": 89
+            },
+            {
+              "description": "🧞‍♂️ MESH·Y is a design tool to generate beautiful & colorful mesh gradients.",
+              "name": "meshy",
+              "url": "https://github.com/anup-a/meshy",
+              "stargazerCount": 244
+            },
+            {
+              "description": "A gzipped minified preact starter app with webpack and tailwind css.",
+              "name": "create-mini-preactails-app",
+              "url": "https://github.com/anup-a/create-mini-preactails-app",
+              "stargazerCount": 7
+            },
+            {
+              "description": "⚡⚡Beautify your Windows Terminal (2020). Fluent & Beautiful . 🌸👩🏻‍💻",
+              "name": "Beautify-your-Windows-Terminal",
+              "url": "https://github.com/anup-a/Beautify-your-Windows-Terminal",
+              "stargazerCount": 9
+            },
+            {
+              "description": "A tiny utility library to generate mesh gradient based on 4 RGB colors, built with vanilla js.",
+              "name": "mesh-gradient.js",
+              "url": "https://github.com/anup-a/mesh-gradient.js",
+              "stargazerCount": 5
+            }
+          ]
+        }
+      }
+    },
     {
       "bio": "Seriously, I'm coding.",
       "name": "Chester Liu",

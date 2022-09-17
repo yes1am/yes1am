@@ -1,6 +1,6 @@
 {
-  "realTotal": 58,
-  "visibleTotal": 47,
+  "realTotal": 59,
+  "visibleTotal": 48,
   "repos": [
     {
       "name": "blog",
@@ -424,6 +424,15 @@
       "stargazerCount": 0,
       "url": "https://github.com/yes1am/okjike.online",
       "createdAt": "2022-03-27T03:39:38Z"
+    },
+    {
+      "name": "vue-svgwave",
+      "description": "Vue version of https://github.com/anup-a/svgwave",
+      "isPrivate": false,
+      "isFork": false,
+      "stargazerCount": 0,
+      "url": "https://github.com/yes1am/vue-svgwave",
+      "createdAt": "2022-09-16T06:21:13Z"
     }
   ]
 }
