@@ -29,8 +29,8 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 GitHub repositories. 👇<strong> (48)
-		&nbsp;Update At 9/17/2022, 12:43:07 AM 
+    <strong>👆 👉 GitHub repositories. 👇<strong> (49)
+		&nbsp;Update At 9/18/2022, 12:48:47 AM 
   </summary>
   <br>
 
@@ -65,7 +65,7 @@ Code For Fun
 | [mobile-workshop](https://github.com/yes1am/mobile-workshop) | 移动端开发 工作坊 | - |
 | [oauth-demo](https://github.com/yes1am/oauth-demo) | github-oauth-demo | - |
 | [wechat-dev](https://github.com/yes1am/wechat-dev) | 微信公众号开发, Node 示例 | - |
-| [vue-svgwave](https://github.com/yes1am/vue-svgwave) | Vue version of https://github.com/anup-a/svgwave | - |
+| [Share](https://github.com/yes1am/Share) | 一款微信小程序，功能是收藏和分享 | - |
 | [gitlab-webhooks-notification](https://github.com/yes1am/gitlab-webhooks-notification) | Gitlab Webhooks 的提醒服务 | - |
 | [vue-assistive-touch](https://github.com/yes1am/vue-assistive-touch) | Vue version of Assistive Touch, Inspired by and copy code from https://github.com/abhishekkhandait/react-assistivetouch-menu | - |
 | [dont-commit-me](https://github.com/yes1am/dont-commit-me) | Prevent from committing sensitive words, Git hooks for husky. | - |
@@ -83,17 +83,19 @@ Code For Fun
 | [okjike-online](https://github.com/yes1am/okjike-online) | 小程序开发 | - |
 | [miniprogram-with-nodejs](https://github.com/yes1am/miniprogram-with-nodejs) | 小程序学习 | - |
 | [okjike.online](https://github.com/yes1am/okjike.online) |  | - |
+| [vue-svgwave](https://github.com/yes1am/vue-svgwave) | Vue version of https://github.com/anup-a/svgwave | - |
 | [jsbox](https://github.com/yes1am/jsbox) | :game_die: 个人 jsbox 脚本集 | - |
 </details>
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (302)
+    <strong>👆 👉 What I Star. 👇<strong> (303)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [Lcry](https://github.com/Lcry)/[a-sheep-assistant](https://github.com/Lcry/a-sheep-assistant): 羊了个羊助手，羊了个羊一键闯关，本项目仅用于学习研究使用，请勿将本项目的任何内容用于商业或非法目的，否则后果自负。更多好玩黑科技关注作者公众号： 《码上有效率》，口令羊了个羊 |
 | [baidu](https://github.com/baidu)/[amis](https://github.com/baidu/amis): 前端低代码框架，通过 JSON 配置就能生成各种页面。 |
 | [alibaba](https://github.com/alibaba)/[formily](https://github.com/alibaba/formily): 📱🚀 🧩 Cross Device &#38; High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3 |
 | [anup-a](https://github.com/anup-a)/[svgwave](https://github.com/anup-a/svgwave): 🌊 SVG Wave is a tiny, free and beautiful SVG gradient waves generator for your UI or website desgin. It offers dead simple UI to customize, and style your waves based on your theme specifications. |

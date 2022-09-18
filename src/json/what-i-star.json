@@ -1,5 +1,5 @@
 {
-  "total": 302,
+  "total": 303,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3344,7 +3344,18 @@
       },
       "starredAt": "2022-08-30T05:32:32Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0wOC0zMFQxMzozMjozMiswODowMM4VJQuh"
+    },
+    {
+      "name": "a-sheep-assistant",
+      "url": "https://github.com/Lcry/a-sheep-assistant",
+      "description": "羊了个羊助手，羊了个羊一键闯关，本项目仅用于学习研究使用，请勿将本项目的任何内容用于商业或非法目的，否则后果自负。更多好玩黑科技关注作者公众号： 《码上有效率》，口令羊了个羊",
+      "owner": {
+        "login": "Lcry",
+        "url": "https://github.com/Lcry"
+      },
+      "starredAt": "2022-09-17T17:48:45Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0wOS0xOFQwMTo0ODo0NSswODowMM4VV-im"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0wOC0zMFQxMzozMjozMiswODowMM4VJQuh"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0wOS0xOFQwMTo0ODo0NSswODowMM4VV-im"
 }
