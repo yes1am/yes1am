@@ -1,6 +1,6 @@
 {
   "realTotal": 60,
-  "visibleTotal": 49,
+  "visibleTotal": 48,
   "repos": [
     {
       "name": "blog",
@@ -433,15 +433,6 @@
       "stargazerCount": 0,
       "url": "https://github.com/yes1am/vue-svgwave",
       "createdAt": "2022-09-16T06:21:13Z"
-    },
-    {
-      "name": "Share",
-      "description": "一款微信小程序，功能是收藏和分享",
-      "isPrivate": false,
-      "isFork": false,
-      "stargazerCount": 0,
-      "url": "https://github.com/yes1am/Share",
-      "createdAt": "2022-09-17T09:00:47Z"
     }
   ]
 }
