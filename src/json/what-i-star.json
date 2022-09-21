@@ -1,5 +1,5 @@
 {
-  "total": 303,
+  "total": 304,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3355,7 +3355,18 @@
       },
       "starredAt": "2022-09-17T17:48:45Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0wOS0xOFQwMTo0ODo0NSswODowMM4VV-im"
+    },
+    {
+      "name": "wechaty-bot",
+      "url": "https://github.com/sl1673495/wechaty-bot",
+      "description": "公众号小助手",
+      "owner": {
+        "login": "sl1673495",
+        "url": "https://github.com/sl1673495"
+      },
+      "starredAt": "2022-09-20T11:56:57Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0wOS0yMFQxOTo1Njo1NyswODowMM4VX2Ab"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0wOS0xOFQwMTo0ODo0NSswODowMM4VV-im"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0wOS0yMFQxOTo1Njo1NyswODowMM4VX2Ab"
 }

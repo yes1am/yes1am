@@ -30,7 +30,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (48)
-		&nbsp;Update At 9/20/2022, 12:48:00 AM 
+		&nbsp;Update At 9/21/2022, 12:51:22 AM 
   </summary>
   <br>
 
@@ -88,12 +88,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (303)
+    <strong>👆 👉 What I Star. 👇<strong> (304)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [sl1673495](https://github.com/sl1673495)/[wechaty-bot](https://github.com/sl1673495/wechaty-bot): 公众号小助手 |
 | [Lcry](https://github.com/Lcry)/[a-sheep-assistant](https://github.com/Lcry/a-sheep-assistant): 羊了个羊助手，羊了个羊一键闯关，本项目仅用于学习研究使用，请勿将本项目的任何内容用于商业或非法目的，否则后果自负。更多好玩黑科技关注作者公众号： 《码上有效率》，口令羊了个羊 |
 | [baidu](https://github.com/baidu)/[amis](https://github.com/baidu/amis): 前端低代码框架，通过 JSON 配置就能生成各种页面。 |
 | [alibaba](https://github.com/alibaba)/[formily](https://github.com/alibaba/formily): 📱🚀 🧩 Cross Device &#38; High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3 |
