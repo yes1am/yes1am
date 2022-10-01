@@ -30,7 +30,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (48)
-		&nbsp;Update At 9/30/2022, 1:10:09 AM 
+		&nbsp;Update At 10/1/2022, 1:04:56 AM 
   </summary>
   <br>
 
@@ -404,12 +404,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 Who I Follow. 👇<strong> (153)
+    <strong>👆 👉 Who I Follow. 👇<strong> (154)
   </summary>
   <br>
 
 | Following  |
 | --- | 
+| [tnfe](https://github.com/tnfe)<ul><li>[FFCreator](https://github.com/tnfe/FFCreator): 一个基于node.js的高速视频制作库  A fast video processing library based on node.js</li><li>[TNT-Weekly](https://github.com/tnfe/TNT-Weekly): 🙈 🙉 🙊 每周为您推荐国内外前端领域最新的优秀文章以及行业进展</li><li>[wp2vite](https://github.com/tnfe/wp2vite): 一个让webpack项目支持vite的前端项目的转换工具。A front-end project automatic conversion tool。</li><li>[csijs](https://github.com/tnfe/csijs): CSI.JS是一个特别的前端日志系统，帮你快速重建犯罪现场。</li><li>[awesome-blackmagic](https://github.com/tnfe/awesome-blackmagic): 🎭 ♠♥奇技淫巧 💠黑魔法大集合♦♣ 👺</li><li>[hel](https://github.com/tnfe/hel): 前端微模块解决方案 A module federation SDK which is unrelated to tool chain for module consumer.</li><ul>|
 | [anup-a](https://github.com/anup-a)<ul><li>[svgwave](https://github.com/anup-a/svgwave): SVG Wave is a tiny, free and beautiful SVG gradient waves generator for your next design.</li><li>[tinter](https://github.com/uxie-io/tinter): Tinter is tiny web tool to generate color variation of images. </li><li>[meshy](https://github.com/anup-a/meshy): 🧞‍♂️ MESH·Y is a design tool to generate beautiful &#38; colorful mesh gradients.</li><li>[create-mini-preactails-app](https://github.com/anup-a/create-mini-preactails-app): A gzipped minified preact starter app with webpack and tailwind css.</li><li>[Beautify-your-Windows-Terminal](https://github.com/anup-a/Beautify-your-Windows-Terminal): ⚡⚡Beautify your Windows Terminal (2020). Fluent &#38; Beautiful . 🌸👩🏻‍💻</li><li>[mesh-gradient.js](https://github.com/anup-a/mesh-gradient.js): A tiny utility library to generate mesh gradient based on 4 RGB colors, built with vanilla js.</li><ul>|
 | [skyline75489](https://github.com/skyline75489)<ul><li>[articles](https://github.com/NSHipster/articles): Articles for NSHipster.com</li><li>[SwiftRouter](https://github.com/skyline75489/SwiftRouter): A URL Router for iOS, written in Swift</li><li>[what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN): What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when</li><li>[Heart-First-JavaWeb](https://github.com/skyline75489/Heart-First-JavaWeb): 一个走心的 Java Web 入门开发教程</li><ul>|
 | [SuperJolly](https://github.com/SuperJolly)<ul><li>[wxapp-tutorial-code](https://github.com/SuperJolly/wxapp-tutorial-code): </li><li>[wxapp-little-shelf](https://github.com/SuperJolly/wxapp-little-shelf): </li><li>[wxapp-tutorial-api](https://github.com/SuperJolly/wxapp-tutorial-api): </li><li>[wxapp-tutorial-components](https://github.com/SuperJolly/wxapp-tutorial-components): </li><li>[awesome-wechat-weapp](https://github.com/SuperJolly/awesome-wechat-weapp): 微信小程序开发资源汇总 :100:</li><li>[labrador](https://github.com/SuperJolly/labrador): 微信小程序模块化开发框架</li><ul>|
