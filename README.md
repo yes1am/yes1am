@@ -30,7 +30,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (48)
-		&nbsp;Update At 10/2/2022, 12:57:16 AM 
+		&nbsp;Update At 10/3/2022, 12:50:13 AM 
   </summary>
   <br>
 
@@ -88,12 +88,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (304)
+    <strong>👆 👉 What I Star. 👇<strong> (305)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [SuperJolly](https://github.com/SuperJolly)/[wxapp-tutorial-code](https://github.com/SuperJolly/wxapp-tutorial-code):  |
 | [sl1673495](https://github.com/sl1673495)/[wechaty-bot](https://github.com/sl1673495/wechaty-bot): 公众号小助手 |
 | [Lcry](https://github.com/Lcry)/[a-sheep-assistant](https://github.com/Lcry/a-sheep-assistant): 羊了个羊助手，羊了个羊一键闯关，本项目仅用于学习研究使用，请勿将本项目的任何内容用于商业或非法目的，否则后果自负。更多好玩黑科技关注作者公众号： 《码上有效率》，口令羊了个羊 |
 | [baidu](https://github.com/baidu)/[amis](https://github.com/baidu/amis): 前端低代码框架，通过 JSON 配置就能生成各种页面。 |

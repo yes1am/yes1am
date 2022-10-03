@@ -1,5 +1,5 @@
 {
-  "total": 304,
+  "total": 305,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3366,7 +3366,18 @@
       },
       "starredAt": "2022-09-20T11:56:57Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0wOS0yMFQxOTo1Njo1NyswODowMM4VX2Ab"
+    },
+    {
+      "name": "wxapp-tutorial-code",
+      "url": "https://github.com/SuperJolly/wxapp-tutorial-code",
+      "description": null,
+      "owner": {
+        "login": "SuperJolly",
+        "url": "https://github.com/SuperJolly"
+      },
+      "starredAt": "2022-10-02T03:24:57Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0xMC0wMlQxMToyNDo1NyswODowMM4Vf1pE"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0wOS0yMFQxOTo1Njo1NyswODowMM4VX2Ab"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0xMC0wMlQxMToyNDo1NyswODowMM4Vf1pE"
 }
