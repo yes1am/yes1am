@@ -1,6 +1,6 @@
 {
-  "realTotal": 60,
-  "visibleTotal": 48,
+  "realTotal": 61,
+  "visibleTotal": 49,
   "repos": [
     {
       "name": "blog",
@@ -286,7 +286,7 @@
       "description": "豆瓣电影日历",
       "isPrivate": false,
       "isFork": false,
-      "stargazerCount": 1,
+      "stargazerCount": 2,
       "url": "https://github.com/yes1am/douban-movie-calendar",
       "createdAt": "2020-10-24T07:00:46Z"
     },
@@ -433,6 +433,15 @@
       "stargazerCount": 0,
       "url": "https://github.com/yes1am/Saul",
       "createdAt": "2022-09-21T06:30:18Z"
+    },
+    {
+      "name": "little-shelf",
+      "description": "微信小程序-小书架",
+      "isPrivate": false,
+      "isFork": false,
+      "stargazerCount": 0,
+      "url": "https://github.com/yes1am/little-shelf",
+      "createdAt": "2022-10-05T10:09:27Z"
     }
   ]
 }

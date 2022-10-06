@@ -29,8 +29,8 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 GitHub repositories. 👇<strong> (48)
-		&nbsp;Update At 10/5/2022, 12:58:25 AM 
+    <strong>👆 👉 GitHub repositories. 👇<strong> (49)
+		&nbsp;Update At 10/6/2022, 12:53:06 AM 
   </summary>
   <br>
 
@@ -45,9 +45,9 @@ Code For Fun
 | [dry](https://github.com/yes1am/dry) | Don&#39;t Repeat Yourself | 3 |
 | [mie-ui](https://github.com/yes1am/mie-ui) | React ui library, bundled by rollup | 3 |
 | [dadao](https://github.com/yes1am/dadao) | 豆瓣大島 | 2 |
+| [douban-movie-calendar](https://github.com/yes1am/douban-movie-calendar) | 豆瓣电影日历 | 2 |
 | [yes1am](https://github.com/yes1am/yes1am) |  | 2 |
 | [chrome-extension-starter](https://github.com/yes1am/chrome-extension-starter) | :seedling: A boilerplate for Chrome Extensions | 1 |
-| [douban-movie-calendar](https://github.com/yes1am/douban-movie-calendar) | 豆瓣电影日历 | 1 |
 | [fe-knowledge](https://github.com/yes1am/fe-knowledge) | 前端知识库 | 1 |
 | [sheldon](https://github.com/yes1am/sheldon) | A React Native app, which tries to fulfill all my needs on mobile. | - |
 | [chrome-extension-star](https://github.com/yes1am/chrome-extension-star) | A chrome extension, `star` page and save in github issue. | - |
@@ -65,7 +65,7 @@ Code For Fun
 | [mobile-workshop](https://github.com/yes1am/mobile-workshop) | 移动端开发 工作坊 | - |
 | [oauth-demo](https://github.com/yes1am/oauth-demo) | github-oauth-demo | - |
 | [wechat-dev](https://github.com/yes1am/wechat-dev) | 微信公众号开发, Node 示例 | - |
-| [Saul](https://github.com/yes1am/Saul) | 一款万能的小程序，名称灵感来源于 Better Call Saul | - |
+| [little-shelf](https://github.com/yes1am/little-shelf) | 微信小程序-小书架 | - |
 | [gitlab-webhooks-notification](https://github.com/yes1am/gitlab-webhooks-notification) | Gitlab Webhooks 的提醒服务 | - |
 | [vue-assistive-touch](https://github.com/yes1am/vue-assistive-touch) | Vue version of Assistive Touch, Inspired by and copy code from https://github.com/abhishekkhandait/react-assistivetouch-menu | - |
 | [dont-commit-me](https://github.com/yes1am/dont-commit-me) | Prevent from committing sensitive words, Git hooks for husky. | - |
@@ -83,6 +83,7 @@ Code For Fun
 | [miniprogram-with-nodejs](https://github.com/yes1am/miniprogram-with-nodejs) | 小程序学习 | - |
 | [okjike.online](https://github.com/yes1am/okjike.online) |  | - |
 | [vue-svgwave](https://github.com/yes1am/vue-svgwave) | Vue version of https://github.com/anup-a/svgwave | - |
+| [Saul](https://github.com/yes1am/Saul) | 一款万能的小程序，名称灵感来源于 Better Call Saul | - |
 | [jsbox](https://github.com/yes1am/jsbox) | :game_die: 个人 jsbox 脚本集 | - |
 </details>
 
