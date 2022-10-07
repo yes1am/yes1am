@@ -29,8 +29,8 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 GitHub repositories. 👇<strong> (49)
-		&nbsp;Update At 10/6/2022, 12:53:06 AM 
+    <strong>👆 👉 GitHub repositories. 👇<strong> (48)
+		&nbsp;Update At 10/7/2022, 1:04:24 AM 
   </summary>
   <br>
 
@@ -83,18 +83,18 @@ Code For Fun
 | [miniprogram-with-nodejs](https://github.com/yes1am/miniprogram-with-nodejs) | 小程序学习 | - |
 | [okjike.online](https://github.com/yes1am/okjike.online) |  | - |
 | [vue-svgwave](https://github.com/yes1am/vue-svgwave) | Vue version of https://github.com/anup-a/svgwave | - |
-| [Saul](https://github.com/yes1am/Saul) | 一款万能的小程序，名称灵感来源于 Better Call Saul | - |
 | [jsbox](https://github.com/yes1am/jsbox) | :game_die: 个人 jsbox 脚本集 | - |
 </details>
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (305)
+    <strong>👆 👉 What I Star. 👇<strong> (306)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [TencentCloudBase](https://github.com/TencentCloudBase)/[cloudbase-examples](https://github.com/TencentCloudBase/cloudbase-examples): TCB 案例 |
 | [SuperJolly](https://github.com/SuperJolly)/[wxapp-tutorial-code](https://github.com/SuperJolly/wxapp-tutorial-code):  |
 | [sl1673495](https://github.com/sl1673495)/[wechaty-bot](https://github.com/sl1673495/wechaty-bot): 公众号小助手 |
 | [Lcry](https://github.com/Lcry)/[a-sheep-assistant](https://github.com/Lcry/a-sheep-assistant): 羊了个羊助手，羊了个羊一键闯关，本项目仅用于学习研究使用，请勿将本项目的任何内容用于商业或非法目的，否则后果自负。更多好玩黑科技关注作者公众号： 《码上有效率》，口令羊了个羊 |

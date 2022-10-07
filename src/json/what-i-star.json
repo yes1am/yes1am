@@ -1,5 +1,5 @@
 {
-  "total": 305,
+  "total": 306,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3377,7 +3377,18 @@
       },
       "starredAt": "2022-10-02T03:24:57Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0xMC0wMlQxMToyNDo1NyswODowMM4Vf1pE"
+    },
+    {
+      "name": "cloudbase-examples",
+      "url": "https://github.com/TencentCloudBase/cloudbase-examples",
+      "description": "TCB 案例",
+      "owner": {
+        "login": "TencentCloudBase",
+        "url": "https://github.com/TencentCloudBase"
+      },
+      "starredAt": "2022-10-06T09:19:02Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0xMC0wNlQxNzoxOTowMiswODowMM4Vih19"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0xMC0wMlQxMToyNDo1NyswODowMM4Vf1pE"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0xMC0wNlQxNzoxOTowMiswODowMM4Vih19"
 }
