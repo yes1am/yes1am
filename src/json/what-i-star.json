@@ -1,5 +1,5 @@
 {
-  "total": 306,
+  "total": 307,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3388,7 +3388,18 @@
       },
       "starredAt": "2022-10-06T09:19:02Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0xMC0wNlQxNzoxOTowMiswODowMM4Vih19"
+    },
+    {
+      "name": "wechatBot",
+      "url": "https://github.com/leochen-g/wechatBot",
+      "description": "微信每日说，三步教你用Node做一个微信哄女友(基友)神器！还能帮女朋友解决垃圾分类难题",
+      "owner": {
+        "login": "leochen-g",
+        "url": "https://github.com/leochen-g"
+      },
+      "starredAt": "2022-10-07T13:16:58Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0xMC0wN1QyMToxNjo1OCswODowMM4VjWgd"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0xMC0wNlQxNzoxOTowMiswODowMM4Vih19"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0xMC0wN1QyMToxNjo1OCswODowMM4VjWgd"
 }

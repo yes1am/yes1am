@@ -29,8 +29,8 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 GitHub repositories. 👇<strong> (48)
-		&nbsp;Update At 10/7/2022, 1:04:24 AM 
+    <strong>👆 👉 GitHub repositories. 👇<strong> (49)
+		&nbsp;Update At 10/8/2022, 12:48:18 AM 
   </summary>
   <br>
 
@@ -65,7 +65,7 @@ Code For Fun
 | [mobile-workshop](https://github.com/yes1am/mobile-workshop) | 移动端开发 工作坊 | - |
 | [oauth-demo](https://github.com/yes1am/oauth-demo) | github-oauth-demo | - |
 | [wechat-dev](https://github.com/yes1am/wechat-dev) | 微信公众号开发, Node 示例 | - |
-| [little-shelf](https://github.com/yes1am/little-shelf) | 微信小程序-小书架 | - |
+| [Saul-Goodman](https://github.com/yes1am/Saul-Goodman) | 一款聊天机器人，名称灵感来源于 Better Call Saul | - |
 | [gitlab-webhooks-notification](https://github.com/yes1am/gitlab-webhooks-notification) | Gitlab Webhooks 的提醒服务 | - |
 | [vue-assistive-touch](https://github.com/yes1am/vue-assistive-touch) | Vue version of Assistive Touch, Inspired by and copy code from https://github.com/abhishekkhandait/react-assistivetouch-menu | - |
 | [dont-commit-me](https://github.com/yes1am/dont-commit-me) | Prevent from committing sensitive words, Git hooks for husky. | - |
@@ -83,17 +83,19 @@ Code For Fun
 | [miniprogram-with-nodejs](https://github.com/yes1am/miniprogram-with-nodejs) | 小程序学习 | - |
 | [okjike.online](https://github.com/yes1am/okjike.online) |  | - |
 | [vue-svgwave](https://github.com/yes1am/vue-svgwave) | Vue version of https://github.com/anup-a/svgwave | - |
+| [little-shelf](https://github.com/yes1am/little-shelf) | 微信小程序-小书架 | - |
 | [jsbox](https://github.com/yes1am/jsbox) | :game_die: 个人 jsbox 脚本集 | - |
 </details>
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (306)
+    <strong>👆 👉 What I Star. 👇<strong> (307)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [leochen-g](https://github.com/leochen-g)/[wechatBot](https://github.com/leochen-g/wechatBot): 微信每日说，三步教你用Node做一个微信哄女友(基友)神器！还能帮女朋友解决垃圾分类难题 |
 | [TencentCloudBase](https://github.com/TencentCloudBase)/[cloudbase-examples](https://github.com/TencentCloudBase/cloudbase-examples): TCB 案例 |
 | [SuperJolly](https://github.com/SuperJolly)/[wxapp-tutorial-code](https://github.com/SuperJolly/wxapp-tutorial-code):  |
 | [sl1673495](https://github.com/sl1673495)/[wechaty-bot](https://github.com/sl1673495/wechaty-bot): 公众号小助手 |

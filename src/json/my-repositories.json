@@ -1,6 +1,6 @@
 {
   "realTotal": 61,
-  "visibleTotal": 48,
+  "visibleTotal": 49,
   "repos": [
     {
       "name": "blog",
@@ -433,6 +433,15 @@
       "stargazerCount": 0,
       "url": "https://github.com/yes1am/little-shelf",
       "createdAt": "2022-10-05T10:09:27Z"
+    },
+    {
+      "name": "Saul-Goodman",
+      "description": "一款聊天机器人，名称灵感来源于 Better Call Saul",
+      "isPrivate": false,
+      "isFork": false,
+      "stargazerCount": 0,
+      "url": "https://github.com/yes1am/Saul-Goodman",
+      "createdAt": "2022-10-07T12:18:40Z"
     }
   ]
 }
