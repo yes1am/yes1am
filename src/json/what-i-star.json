@@ -1,5 +1,5 @@
 {
-  "total": 309,
+  "total": 310,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3421,7 +3421,18 @@
       },
       "starredAt": "2022-10-20T02:23:58Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0xMC0yMFQxMDoyMzo1OCswODowMM4VsSya"
+    },
+    {
+      "name": "ant-motion",
+      "url": "https://github.com/ant-design/ant-motion",
+      "description": "  :bicyclist: Animate specification and components of Ant Design",
+      "owner": {
+        "login": "ant-design",
+        "url": "https://github.com/ant-design"
+      },
+      "starredAt": "2022-10-21T08:26:41Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0xMC0yMVQxNjoyNjo0MSswODowMM4VtR_t"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0xMC0yMFQxMDoyMzo1OCswODowMM4VsSya"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0xMC0yMVQxNjoyNjo0MSswODowMM4VtR_t"
 }
