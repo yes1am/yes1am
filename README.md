@@ -30,7 +30,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (49)
-		&nbsp;Update At 10/26/2022, 12:46:10 AM 
+		&nbsp;Update At 10/27/2022, 12:48:36 AM 
   </summary>
   <br>
 
@@ -89,12 +89,14 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (310)
+    <strong>👆 👉 What I Star. 👇<strong> (312)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [strapi](https://github.com/strapi)/[strapi](https://github.com/strapi/strapi): 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first. |
+| [EastWorld](https://github.com/EastWorld)/[wechat-app-mall](https://github.com/EastWorld/wechat-app-mall): 微信小程序商城，微信小程序微店 |
 | [ant-design](https://github.com/ant-design)/[ant-motion](https://github.com/ant-design/ant-motion):   :bicyclist: Animate specification and components of Ant Design |
 | [TaleLin](https://github.com/TaleLin)/[lin-cms-vue](https://github.com/TaleLin/lin-cms-vue):  🔆 Vue+ElementPlus构建的CMS开发框架 |
 | [moshang-xc](https://github.com/moshang-xc)/[lottery](https://github.com/moshang-xc/lottery): 🎉🌟✨🎈年会抽奖程序，基于 Express + Three.js的 3D 球体抽奖程序，奖品🧧🎁，文字，图片，抽奖规则均可配置，😜抽奖人员信息Excel一键导入😍，抽奖结果Excel导出😎，给你的抽奖活动带来全新酷炫体验🚀🚀🚀 |
