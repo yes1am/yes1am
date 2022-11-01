@@ -30,7 +30,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (49)
-		&nbsp;Update At 10/31/2022, 12:53:18 AM 
+		&nbsp;Update At 11/1/2022, 12:56:14 AM 
   </summary>
   <br>
 
@@ -89,12 +89,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (312)
+    <strong>👆 👉 What I Star. 👇<strong> (313)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [wallabyjs](https://github.com/wallabyjs)/[quokka](https://github.com/wallabyjs/quokka):  Repository for quokka.js questions and issues |
 | [strapi](https://github.com/strapi)/[strapi](https://github.com/strapi/strapi): 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first. |
 | [EastWorld](https://github.com/EastWorld)/[wechat-app-mall](https://github.com/EastWorld/wechat-app-mall): 微信小程序商城，微信小程序微店 |
 | [ant-design](https://github.com/ant-design)/[ant-motion](https://github.com/ant-design/ant-motion):   :bicyclist: Animate specification and components of Ant Design |
