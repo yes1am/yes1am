@@ -30,7 +30,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (49)
-		&nbsp;Update At 11/5/2022, 12:46:18 AM 
+		&nbsp;Update At 11/6/2022, 12:44:14 AM 
   </summary>
   <br>
 
@@ -45,8 +45,8 @@ Code For Fun
 | [douban-movie-calendar](https://github.com/yes1am/douban-movie-calendar) | 豆瓣电影日历 | 3 |
 | [dry](https://github.com/yes1am/dry) | Don&#39;t Repeat Yourself | 3 |
 | [mie-ui](https://github.com/yes1am/mie-ui) | React ui library, bundled by rollup | 3 |
+| [yes1am](https://github.com/yes1am/yes1am) |  | 3 |
 | [dadao](https://github.com/yes1am/dadao) | 豆瓣大島 | 2 |
-| [yes1am](https://github.com/yes1am/yes1am) |  | 2 |
 | [chrome-extension-starter](https://github.com/yes1am/chrome-extension-starter) | :seedling: A boilerplate for Chrome Extensions | 1 |
 | [fe-knowledge](https://github.com/yes1am/fe-knowledge) | 前端知识库 | 1 |
 | [sheldon](https://github.com/yes1am/sheldon) | A React Native app, which tries to fulfill all my needs on mobile. | - |
