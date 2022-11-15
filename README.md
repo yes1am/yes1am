@@ -29,8 +29,8 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 GitHub repositories. 👇<strong> (49)
-		&nbsp;Update At 11/14/2022, 12:39:55 AM 
+    <strong>👆 👉 GitHub repositories. 👇<strong> (50)
+		&nbsp;Update At 11/15/2022, 12:41:24 AM 
   </summary>
   <br>
 
@@ -60,12 +60,12 @@ Code For Fun
 | [express-vue-boilerplate](https://github.com/yes1am/express-vue-boilerplate) | 基于 express 的 Vue 开发环境 | - |
 | [fe-lib](https://github.com/yes1am/fe-lib) | fe-lib | - |
 | [js-leetcode](https://github.com/yes1am/js-leetcode) | solve and analyze leetcode | - |
+| [jsbox](https://github.com/yes1am/jsbox) | :game_die: 个人 jsbox 脚本集 | - |
 | [express-react-boilerplate](https://github.com/yes1am/express-react-boilerplate) | :seedling: 基于express与react的开发模板 | - |
-| [static](https://github.com/yes1am/static) | 一些静态网页 | - |
 | [mobile-workshop](https://github.com/yes1am/mobile-workshop) | 移动端开发 工作坊 | - |
 | [oauth-demo](https://github.com/yes1am/oauth-demo) | github-oauth-demo | - |
 | [wechat-dev](https://github.com/yes1am/wechat-dev) | 微信公众号开发, Node 示例 | - |
-| [Saul-Goodman](https://github.com/yes1am/Saul-Goodman) | 一款聊天机器人，名称灵感来源于 Better Call Saul | - |
+| [express-proxy](https://github.com/yes1am/express-proxy) | 代理服务 | - |
 | [gitlab-webhooks-notification](https://github.com/yes1am/gitlab-webhooks-notification) | Gitlab Webhooks 的提醒服务 | - |
 | [vue-assistive-touch](https://github.com/yes1am/vue-assistive-touch) | Vue version of Assistive Touch, Inspired by and copy code from https://github.com/abhishekkhandait/react-assistivetouch-menu | - |
 | [dont-commit-me](https://github.com/yes1am/dont-commit-me) | Prevent from committing sensitive words, Git hooks for husky. | - |
@@ -84,7 +84,8 @@ Code For Fun
 | [okjike.online](https://github.com/yes1am/okjike.online) |  | - |
 | [vue-svgwave](https://github.com/yes1am/vue-svgwave) | Vue version of https://github.com/anup-a/svgwave | - |
 | [little-shelf](https://github.com/yes1am/little-shelf) | 微信小程序-小书架 | - |
-| [jsbox](https://github.com/yes1am/jsbox) | :game_die: 个人 jsbox 脚本集 | - |
+| [Saul-Goodman](https://github.com/yes1am/Saul-Goodman) | 一款聊天机器人，名称灵感来源于 Better Call Saul | - |
+| [static](https://github.com/yes1am/static) | 一些静态网页 | - |
 </details>
 
 <details>
