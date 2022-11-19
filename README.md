@@ -30,7 +30,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (50)
-		&nbsp;Update At 11/18/2022, 12:45:14 AM 
+		&nbsp;Update At 11/19/2022, 12:42:36 AM 
   </summary>
   <br>
 
@@ -90,12 +90,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (312)
+    <strong>👆 👉 What I Star. 👇<strong> (313)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [floating-ui](https://github.com/floating-ui)/[floating-ui](https://github.com/floating-ui/floating-ui): A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more |
 | [wallabyjs](https://github.com/wallabyjs)/[quokka](https://github.com/wallabyjs/quokka):  Repository for quokka.js questions and issues |
 | [strapi](https://github.com/strapi)/[strapi](https://github.com/strapi/strapi): 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first. |
 | [EastWorld](https://github.com/EastWorld)/[wechat-app-mall](https://github.com/EastWorld/wechat-app-mall): 微信小程序商城，微信小程序微店 |
