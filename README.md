@@ -30,7 +30,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (50)
-		&nbsp;Update At 11/25/2022, 12:39:24 AM 
+		&nbsp;Update At 11/26/2022, 12:34:56 AM 
   </summary>
   <br>
 
@@ -90,12 +90,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (313)
+    <strong>👆 👉 What I Star. 👇<strong> (314)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [flarum](https://github.com/flarum)/[framework](https://github.com/flarum/framework): Simple forum software for building great communities. |
 | [floating-ui](https://github.com/floating-ui)/[floating-ui](https://github.com/floating-ui/floating-ui): A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more |
 | [wallabyjs](https://github.com/wallabyjs)/[quokka](https://github.com/wallabyjs/quokka):  Repository for quokka.js questions and issues |
 | [strapi](https://github.com/strapi)/[strapi](https://github.com/strapi/strapi): 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first. |
