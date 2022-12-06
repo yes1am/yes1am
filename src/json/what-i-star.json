@@ -1,5 +1,5 @@
 {
-  "total": 314,
+  "total": 315,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3487,7 +3487,18 @@
       },
       "starredAt": "2022-11-25T23:31:52Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0xMS0yNlQwNzozMTo1MiswODowMM4WHJAA"
+    },
+    {
+      "name": "chat-gpt-google-extension",
+      "url": "https://github.com/wong2/chat-gpt-google-extension",
+      "description": "A browser extension to display ChatGPT response alongside Google Search results",
+      "owner": {
+        "login": "wong2",
+        "url": "https://github.com/wong2"
+      },
+      "starredAt": "2022-12-05T07:04:57Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0xMi0wNVQxNTowNDo1NyswODowMM4WN02A"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0xMS0yNlQwNzozMTo1MiswODowMM4WHJAA"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0xMi0wNVQxNTowNDo1NyswODowMM4WN02A"
 }
