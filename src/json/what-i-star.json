@@ -1,5 +1,5 @@
 {
-  "total": 315,
+  "total": 316,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3498,7 +3498,18 @@
       },
       "starredAt": "2022-12-05T07:04:57Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0xMi0wNVQxNTowNDo1NyswODowMM4WN02A"
+    },
+    {
+      "name": "awesome-selfhosted",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+      "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+      "owner": {
+        "login": "awesome-selfhosted",
+        "url": "https://github.com/awesome-selfhosted"
+      },
+      "starredAt": "2022-12-07T03:41:04Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0xMi0wN1QxMTo0MTowNCswODowMM4WPXBA"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0xMi0wNVQxNTowNDo1NyswODowMM4WN02A"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0xMi0wN1QxMTo0MTowNCswODowMM4WPXBA"
 }

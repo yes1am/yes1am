@@ -30,7 +30,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (50)
-		&nbsp;Update At 12/7/2022, 12:36:47 AM 
+		&nbsp;Update At 12/8/2022, 12:35:03 AM 
   </summary>
   <br>
 
@@ -90,12 +90,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (315)
+    <strong>👆 👉 What I Star. 👇<strong> (316)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [awesome-selfhosted](https://github.com/awesome-selfhosted)/[awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A list of Free Software network services and web applications which can be hosted on your own servers |
 | [wong2](https://github.com/wong2)/[chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension): A browser extension to display ChatGPT response alongside Google Search results |
 | [flarum](https://github.com/flarum)/[framework](https://github.com/flarum/framework): Simple forum software for building great communities. |
 | [floating-ui](https://github.com/floating-ui)/[floating-ui](https://github.com/floating-ui/floating-ui): A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more |
