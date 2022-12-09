@@ -30,7 +30,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (50)
-		&nbsp;Update At 12/8/2022, 12:35:03 AM 
+		&nbsp;Update At 12/9/2022, 12:36:28 AM 
   </summary>
   <br>
 
@@ -40,12 +40,12 @@ Code For Fun
 | [stand-up-comedy](https://github.com/yes1am/stand-up-comedy) | :microphone: 单口喜剧 | 20 |
 | [Outline](https://github.com/yes1am/Outline) | Generate outline for website | 13 |
 | [blog](https://github.com/yes1am/blog) | :camera: 个人博客 | 10 |
+| [yes1am](https://github.com/yes1am/yes1am) |  | 4 |
 | [screenshot-service](https://github.com/yes1am/screenshot-service) | 基于 https://github.com/alvarcarto/url-to-pdf-api 改进的 node 截图服务 | 3 |
 | [simple-explorer](https://github.com/yes1am/simple-explorer) | Only view the directories or files you care about. | 3 |
 | [douban-movie-calendar](https://github.com/yes1am/douban-movie-calendar) | 豆瓣电影日历 | 3 |
 | [dry](https://github.com/yes1am/dry) | Don&#39;t Repeat Yourself | 3 |
 | [mie-ui](https://github.com/yes1am/mie-ui) | React ui library, bundled by rollup | 3 |
-| [yes1am](https://github.com/yes1am/yes1am) |  | 3 |
 | [dadao](https://github.com/yes1am/dadao) | 豆瓣大島 | 2 |
 | [chrome-extension-starter](https://github.com/yes1am/chrome-extension-starter) | :seedling: A boilerplate for Chrome Extensions | 1 |
 | [fe-knowledge](https://github.com/yes1am/fe-knowledge) | 前端知识库 | 1 |
