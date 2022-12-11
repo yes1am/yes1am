@@ -1,5 +1,5 @@
 {
-  "realTotal": 62,
+  "realTotal": 63,
   "visibleTotal": 50,
   "repos": [
     {
@@ -205,7 +205,7 @@
       "description": "豆瓣大島",
       "isPrivate": false,
       "isFork": false,
-      "stargazerCount": 2,
+      "stargazerCount": 3,
       "url": "https://github.com/yes1am/dadao",
       "createdAt": "2020-06-24T07:35:48Z"
     },
