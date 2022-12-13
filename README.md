@@ -30,7 +30,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (50)
-		&nbsp;Update At 12/12/2022, 12:38:32 AM 
+		&nbsp;Update At 12/13/2022, 12:41:01 AM 
   </summary>
   <br>
 
@@ -90,12 +90,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (316)
+    <strong>👆 👉 What I Star. 👇<strong> (317)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [wangrongding](https://github.com/wangrongding)/[wechat-bot](https://github.com/wangrongding/wechat-bot): 🤖一个基于OpenAi  ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等... |
 | [awesome-selfhosted](https://github.com/awesome-selfhosted)/[awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A list of Free Software network services and web applications which can be hosted on your own servers |
 | [wong2](https://github.com/wong2)/[chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension): A browser extension to display ChatGPT response alongside Google Search results |
 | [flarum](https://github.com/flarum)/[framework](https://github.com/flarum/framework): Simple forum software for building great communities. |

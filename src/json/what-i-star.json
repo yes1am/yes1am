@@ -1,5 +1,5 @@
 {
-  "total": 316,
+  "total": 317,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3509,7 +3509,18 @@
       },
       "starredAt": "2022-12-07T03:41:04Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0xMi0wN1QxMTo0MTowNCswODowMM4WPXBA"
+    },
+    {
+      "name": "wechat-bot",
+      "url": "https://github.com/wangrongding/wechat-bot",
+      "description": "🤖一个基于OpenAi  ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...",
+      "owner": {
+        "login": "wangrongding",
+        "url": "https://github.com/wangrongding"
+      },
+      "starredAt": "2022-12-12T07:01:01Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0xMi0xMlQxNTowMTowMSswODowMM4WTICr"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0xMi0wN1QxMTo0MTowNCswODowMM4WPXBA"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0xMi0xMlQxNTowMTowMSswODowMM4WTICr"
 }
