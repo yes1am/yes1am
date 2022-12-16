@@ -29,8 +29,8 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 GitHub repositories. 👇<strong> (50)
-		&nbsp;Update At 12/15/2022, 12:38:14 AM 
+    <strong>👆 👉 GitHub repositories. 👇<strong> (51)
+		&nbsp;Update At 12/16/2022, 12:34:55 AM 
   </summary>
   <br>
 
@@ -65,7 +65,7 @@ Code For Fun
 | [mobile-workshop](https://github.com/yes1am/mobile-workshop) | 移动端开发 工作坊 | - |
 | [oauth-demo](https://github.com/yes1am/oauth-demo) | github-oauth-demo | - |
 | [wechat-dev](https://github.com/yes1am/wechat-dev) | 微信公众号开发, Node 示例 | - |
-| [express-proxy](https://github.com/yes1am/express-proxy) | 代理服务 | - |
+| [webpack-spritesmith-demo](https://github.com/yes1am/webpack-spritesmith-demo) |  | - |
 | [gitlab-webhooks-notification](https://github.com/yes1am/gitlab-webhooks-notification) | Gitlab Webhooks 的提醒服务 | - |
 | [vue-assistive-touch](https://github.com/yes1am/vue-assistive-touch) | Vue version of Assistive Touch, Inspired by and copy code from https://github.com/abhishekkhandait/react-assistivetouch-menu | - |
 | [dont-commit-me](https://github.com/yes1am/dont-commit-me) | Prevent from committing sensitive words, Git hooks for husky. | - |
@@ -85,17 +85,19 @@ Code For Fun
 | [vue-svgwave](https://github.com/yes1am/vue-svgwave) | Vue version of https://github.com/anup-a/svgwave | - |
 | [little-shelf](https://github.com/yes1am/little-shelf) | 微信小程序-小书架 | - |
 | [Saul-Goodman](https://github.com/yes1am/Saul-Goodman) | 一款聊天机器人，名称灵感来源于 Better Call Saul | - |
+| [express-proxy](https://github.com/yes1am/express-proxy) | 代理服务 | - |
 | [static](https://github.com/yes1am/static) | 一些静态网页 | - |
 </details>
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (317)
+    <strong>👆 👉 What I Star. 👇<strong> (318)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [nvbn](https://github.com/nvbn)/[thefuck](https://github.com/nvbn/thefuck): Magnificent app which corrects your previous console command. |
 | [wangrongding](https://github.com/wangrongding)/[wechat-bot](https://github.com/wangrongding/wechat-bot): 🤖一个基于OpenAi  ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等... |
 | [awesome-selfhosted](https://github.com/awesome-selfhosted)/[awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A list of Free Software network services and web applications which can be hosted on your own servers |
 | [wong2](https://github.com/wong2)/[chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension): A browser extension to display ChatGPT response alongside Google Search results |

@@ -1,5 +1,5 @@
 {
-  "total": 317,
+  "total": 318,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3520,7 +3520,18 @@
       },
       "starredAt": "2022-12-12T07:01:01Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0xMi0xMlQxNTowMTowMSswODowMM4WTICr"
+    },
+    {
+      "name": "thefuck",
+      "url": "https://github.com/nvbn/thefuck",
+      "description": "Magnificent app which corrects your previous console command.",
+      "owner": {
+        "login": "nvbn",
+        "url": "https://github.com/nvbn"
+      },
+      "starredAt": "2022-12-15T03:15:03Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMi0xMi0xNVQxMToxNTowMyswODowMM4WVWCC"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0xMi0xMlQxNTowMTowMSswODowMM4WTICr"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMi0xMi0xNVQxMToxNTowMyswODowMM4WVWCC"
 }
