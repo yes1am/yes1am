@@ -30,7 +30,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (51)
-		&nbsp;Update At 12/18/2022, 12:34:17 AM 
+		&nbsp;Update At 12/19/2022, 12:31:50 AM 
   </summary>
   <br>
 
@@ -91,12 +91,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (318)
+    <strong>👆 👉 What I Star. 👇<strong> (319)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [chinese-poetry](https://github.com/chinese-poetry)/[chinese-poetry](https://github.com/chinese-poetry/chinese-poetry): The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 |
 | [nvbn](https://github.com/nvbn)/[thefuck](https://github.com/nvbn/thefuck): Magnificent app which corrects your previous console command. |
 | [wangrongding](https://github.com/wangrongding)/[wechat-bot](https://github.com/wangrongding/wechat-bot): 🤖一个基于OpenAi  ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等... |
 | [awesome-selfhosted](https://github.com/awesome-selfhosted)/[awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A list of Free Software network services and web applications which can be hosted on your own servers |
