@@ -30,7 +30,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (51)
-		&nbsp;Update At 12/25/2022, 12:37:35 AM 
+		&nbsp;Update At 12/26/2022, 12:35:32 AM 
   </summary>
   <br>
 
@@ -91,12 +91,14 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (319)
+    <strong>👆 👉 What I Star. 👇<strong> (321)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [azl397985856](https://github.com/azl397985856)/[leetcode](https://github.com/azl397985856/leetcode): 推荐刷题网站：https://www.lintcode.com/?utm_source=tf-github-lucifer2022  LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) |
+| [AlbertLucianto](https://github.com/AlbertLucianto)/[vue-text-highlight](https://github.com/AlbertLucianto/vue-text-highlight): Text highlighter library for Vue.js :lipstick: |
 | [chinese-poetry](https://github.com/chinese-poetry)/[chinese-poetry](https://github.com/chinese-poetry/chinese-poetry): The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 |
 | [nvbn](https://github.com/nvbn)/[thefuck](https://github.com/nvbn/thefuck): Magnificent app which corrects your previous console command. |
 | [wangrongding](https://github.com/wangrongding)/[wechat-bot](https://github.com/wangrongding/wechat-bot): 🤖一个基于OpenAi  ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等... |
