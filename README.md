@@ -30,14 +30,14 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (51)
-		&nbsp;Update At 12/29/2022, 12:36:32 AM 
+		&nbsp;Update At 12/30/2022, 12:36:15 AM 
   </summary>
   <br>
 
 | repository | description | stars |
 | --- | --- | --- |
 | [logo-hub](https://github.com/yes1am/logo-hub) | Logo Generator | 56 |
-| [stand-up-comedy](https://github.com/yes1am/stand-up-comedy) | :microphone: 单口喜剧 | 20 |
+| [stand-up-comedy](https://github.com/yes1am/stand-up-comedy) | :microphone: 单口喜剧 | 21 |
 | [Outline](https://github.com/yes1am/Outline) | Generate outline for website | 13 |
 | [blog](https://github.com/yes1am/blog) | :camera: 个人博客 | 10 |
 | [screenshot-service](https://github.com/yes1am/screenshot-service) | 基于 https://github.com/alvarcarto/url-to-pdf-api 改进的 node 截图服务 | 3 |
