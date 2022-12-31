@@ -1,6 +1,49 @@
 {
-  "total": 155,
+  "total": 156,
   "users": [
+    {
+      "bio": "Build powerful back-end with no effort.",
+      "name": "strapi",
+      "login": "strapi",
+      "url": "https://github.com/strapi",
+      "itemShowcase": {
+        "items": {
+          "totalCount": 5,
+          "nodes": [
+            {
+              "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.",
+              "name": "strapi",
+              "url": "https://github.com/strapi/strapi",
+              "stargazerCount": 50843
+            },
+            {
+              "description": "🥘 THE Strapi demo application ",
+              "name": "foodadvisor",
+              "url": "https://github.com/strapi/foodadvisor",
+              "stargazerCount": 770
+            },
+            {
+              "description": "Strapi Documentation mono-repo",
+              "name": "documentation",
+              "url": "https://github.com/strapi/documentation",
+              "stargazerCount": 551
+            },
+            {
+              "description": "Strapi.io's design system :rocket:",
+              "name": "design-system",
+              "url": "https://github.com/strapi/design-system",
+              "stargazerCount": 271
+            },
+            {
+              "description": "Monorepo for all official Strapi v4 templates",
+              "name": "starters-and-templates",
+              "url": "https://github.com/strapi/starters-and-templates",
+              "stargazerCount": 206
+            }
+          ]
+        }
+      }
+    },
     {
       "bio": "腾讯TNTWeb前端团队",
       "name": "腾讯TNTWeb前端团队",
