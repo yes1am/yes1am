@@ -1,6 +1,6 @@
 {
-  "realTotal": 64,
-  "visibleTotal": 51,
+  "realTotal": 65,
+  "visibleTotal": 52,
   "repos": [
     {
       "name": "blog",
@@ -112,10 +112,10 @@
     },
     {
       "name": "stand-up-comedy",
-      "description": ":microphone: 单口喜剧",
+      "description": "单口喜剧表演手册",
       "isPrivate": false,
       "isFork": false,
-      "stargazerCount": 21,
+      "stargazerCount": 22,
       "url": "https://github.com/yes1am/stand-up-comedy",
       "createdAt": "2020-02-02T12:23:37Z"
     },
@@ -460,6 +460,15 @@
       "stargazerCount": 0,
       "url": "https://github.com/yes1am/webpack-spritesmith-demo",
       "createdAt": "2022-12-15T13:21:32Z"
+    },
+    {
+      "name": "lightroom-presets",
+      "description": "Lightroom 后期预设",
+      "isPrivate": false,
+      "isFork": false,
+      "stargazerCount": 0,
+      "url": "https://github.com/yes1am/lightroom-presets",
+      "createdAt": "2023-01-01T16:04:43Z"
     }
   ]
 }
