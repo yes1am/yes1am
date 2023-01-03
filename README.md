@@ -29,8 +29,8 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 GitHub repositories. 👇<strong> (52)
-		&nbsp;Update At 1/2/2023, 12:35:47 AM 
+    <strong>👆 👉 GitHub repositories. 👇<strong> (51)
+		&nbsp;Update At 1/3/2023, 12:35:29 AM 
   </summary>
   <br>
 
@@ -40,12 +40,12 @@ Code For Fun
 | [stand-up-comedy](https://github.com/yes1am/stand-up-comedy) | 单口喜剧表演手册 | 22 |
 | [Outline](https://github.com/yes1am/Outline) | Generate outline for website | 13 |
 | [blog](https://github.com/yes1am/blog) | :camera: 个人博客 | 10 |
+| [yes1am](https://github.com/yes1am/yes1am) |  | 4 |
 | [screenshot-service](https://github.com/yes1am/screenshot-service) | 基于 https://github.com/alvarcarto/url-to-pdf-api 改进的 node 截图服务 | 3 |
 | [simple-explorer](https://github.com/yes1am/simple-explorer) | Only view the directories or files you care about. | 3 |
 | [douban-movie-calendar](https://github.com/yes1am/douban-movie-calendar) | 豆瓣电影日历 | 3 |
 | [dry](https://github.com/yes1am/dry) | Don&#39;t Repeat Yourself | 3 |
 | [mie-ui](https://github.com/yes1am/mie-ui) | React ui library, bundled by rollup | 3 |
-| [yes1am](https://github.com/yes1am/yes1am) |  | 3 |
 | [dadao](https://github.com/yes1am/dadao) | 豆瓣大島 | 2 |
 | [chrome-extension-starter](https://github.com/yes1am/chrome-extension-starter) | :seedling: A boilerplate for Chrome Extensions | 1 |
 | [fe-knowledge](https://github.com/yes1am/fe-knowledge) | 前端知识库 | 1 |
@@ -61,11 +61,11 @@ Code For Fun
 | [fe-lib](https://github.com/yes1am/fe-lib) | fe-lib | - |
 | [js-leetcode](https://github.com/yes1am/js-leetcode) | solve and analyze leetcode | - |
 | [jsbox](https://github.com/yes1am/jsbox) | :game_die: 个人 jsbox 脚本集 | - |
-| [static](https://github.com/yes1am/static) | 一些静态网页 | - |
 | [express-react-boilerplate](https://github.com/yes1am/express-react-boilerplate) | :seedling: 基于express与react的开发模板 | - |
+| [mobile-workshop](https://github.com/yes1am/mobile-workshop) | 移动端开发 工作坊 | - |
 | [oauth-demo](https://github.com/yes1am/oauth-demo) | github-oauth-demo | - |
 | [wechat-dev](https://github.com/yes1am/wechat-dev) | 微信公众号开发, Node 示例 | - |
-| [lightroom-presets](https://github.com/yes1am/lightroom-presets) | Lightroom 后期预设 | - |
+| [webpack-spritesmith-demo](https://github.com/yes1am/webpack-spritesmith-demo) |  | - |
 | [gitlab-webhooks-notification](https://github.com/yes1am/gitlab-webhooks-notification) | Gitlab Webhooks 的提醒服务 | - |
 | [vue-assistive-touch](https://github.com/yes1am/vue-assistive-touch) | Vue version of Assistive Touch, Inspired by and copy code from https://github.com/abhishekkhandait/react-assistivetouch-menu | - |
 | [dont-commit-me](https://github.com/yes1am/dont-commit-me) | Prevent from committing sensitive words, Git hooks for husky. | - |
@@ -86,8 +86,7 @@ Code For Fun
 | [little-shelf](https://github.com/yes1am/little-shelf) | 微信小程序-小书架 | - |
 | [Saul-Goodman](https://github.com/yes1am/Saul-Goodman) | 一款聊天机器人，名称灵感来源于 Better Call Saul | - |
 | [express-proxy](https://github.com/yes1am/express-proxy) | 代理服务 | - |
-| [webpack-spritesmith-demo](https://github.com/yes1am/webpack-spritesmith-demo) |  | - |
-| [mobile-workshop](https://github.com/yes1am/mobile-workshop) | 移动端开发 工作坊 | - |
+| [static](https://github.com/yes1am/static) | 一些静态网页 | - |
 </details>
 
 <details>

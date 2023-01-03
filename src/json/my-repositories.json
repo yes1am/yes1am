@@ -1,6 +1,6 @@
 {
-  "realTotal": 65,
-  "visibleTotal": 52,
+  "realTotal": 64,
+  "visibleTotal": 51,
   "repos": [
     {
       "name": "blog",
@@ -214,7 +214,7 @@
       "description": null,
       "isPrivate": false,
       "isFork": false,
-      "stargazerCount": 3,
+      "stargazerCount": 4,
       "url": "https://github.com/yes1am/yes1am",
       "createdAt": "2020-07-18T05:57:43Z"
     },
@@ -460,15 +460,6 @@
       "stargazerCount": 0,
       "url": "https://github.com/yes1am/webpack-spritesmith-demo",
       "createdAt": "2022-12-15T13:21:32Z"
-    },
-    {
-      "name": "lightroom-presets",
-      "description": "Lightroom 后期预设",
-      "isPrivate": false,
-      "isFork": false,
-      "stargazerCount": 0,
-      "url": "https://github.com/yes1am/lightroom-presets",
-      "createdAt": "2023-01-01T16:04:43Z"
     }
   ]
 }
