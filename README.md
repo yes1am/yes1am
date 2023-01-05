@@ -30,7 +30,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (51)
-		&nbsp;Update At 1/4/2023, 12:35:02 AM 
+		&nbsp;Update At 1/5/2023, 12:37:05 AM 
   </summary>
   <br>
 
@@ -91,12 +91,14 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (321)
+    <strong>👆 👉 What I Star. 👇<strong> (323)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [binwiederhier](https://github.com/binwiederhier)/[ntfy](https://github.com/binwiederhier/ntfy): Send push notifications to your phone or desktop using PUT/POST |
+| [nswbmw](https://github.com/nswbmw)/[node-in-debugging](https://github.com/nswbmw/node-in-debugging): 《Node.js 调试指南》 |
 | [azl397985856](https://github.com/azl397985856)/[leetcode](https://github.com/azl397985856/leetcode): 推荐刷题网站：https://www.lintcode.com/?utm_source=tf-github-lucifer2022  LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) |
 | [AlbertLucianto](https://github.com/AlbertLucianto)/[vue-text-highlight](https://github.com/AlbertLucianto/vue-text-highlight): Text highlighter library for Vue.js :lipstick: |
 | [chinese-poetry](https://github.com/chinese-poetry)/[chinese-poetry](https://github.com/chinese-poetry/chinese-poetry): The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 |
