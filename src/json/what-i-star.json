@@ -1,5 +1,5 @@
 {
-  "total": 323,
+  "total": 324,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3586,7 +3586,18 @@
       },
       "starredAt": "2023-01-04T15:12:50Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMS0wNFQyMzoxMjo1MCswODowMM4WiU9G"
+    },
+    {
+      "name": "awesome-vue",
+      "url": "https://github.com/rmjordas/awesome-vue",
+      "description": "🎉 A curated list of awesome things related to Vue.js",
+      "owner": {
+        "login": "rmjordas",
+        "url": "https://github.com/rmjordas"
+      },
+      "starredAt": "2023-01-05T03:48:00Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMS0wNVQxMTo0ODowMCswODowMM4WiuCc"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMS0wNFQyMzoxMjo1MCswODowMM4WiU9G"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMS0wNVQxMTo0ODowMCswODowMM4WiuCc"
 }
