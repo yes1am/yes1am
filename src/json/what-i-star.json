@@ -1,5 +1,5 @@
 {
-  "total": 324,
+  "total": 325,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3597,7 +3597,18 @@
       },
       "starredAt": "2023-01-05T03:48:00Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMS0wNVQxMTo0ODowMCswODowMM4WiuCc"
+    },
+    {
+      "name": "Awesome-Love-Code",
+      "url": "https://github.com/sun0225SUN/Awesome-Love-Code",
+      "description": "表白代码收藏馆~谁说程序猿不懂浪漫❤️",
+      "owner": {
+        "login": "sun0225SUN",
+        "url": "https://github.com/sun0225SUN"
+      },
+      "starredAt": "2023-01-07T16:08:19Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMS0wOFQwMDowODoxOSswODowMM4Wkqem"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMS0wNVQxMTo0ODowMCswODowMM4WiuCc"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMS0wOFQwMDowODoxOSswODowMM4Wkqem"
 }

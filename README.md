@@ -30,7 +30,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (51)
-		&nbsp;Update At 1/7/2023, 12:36:35 AM 
+		&nbsp;Update At 1/8/2023, 12:37:55 AM 
   </summary>
   <br>
 
@@ -91,12 +91,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (324)
+    <strong>👆 👉 What I Star. 👇<strong> (325)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [sun0225SUN](https://github.com/sun0225SUN)/[Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code): 表白代码收藏馆~谁说程序猿不懂浪漫❤️ |
 | [rmjordas](https://github.com/rmjordas)/[awesome-vue](https://github.com/rmjordas/awesome-vue): 🎉 A curated list of awesome things related to Vue.js |
 | [binwiederhier](https://github.com/binwiederhier)/[ntfy](https://github.com/binwiederhier/ntfy): Send push notifications to your phone or desktop using PUT/POST |
 | [nswbmw](https://github.com/nswbmw)/[node-in-debugging](https://github.com/nswbmw/node-in-debugging): 《Node.js 调试指南》 |
