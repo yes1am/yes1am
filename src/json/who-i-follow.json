@@ -1,6 +1,31 @@
 {
-  "total": 156,
+  "total": 157,
   "users": [
+    {
+      "bio": "Just a  developer. @Tencent WeChat",
+      "name": "Justin Yan",
+      "login": "justinyanme",
+      "url": "https://github.com/justinyanme",
+      "itemShowcase": {
+        "items": {
+          "totalCount": 2,
+          "nodes": [
+            {
+              "description": "Alfred workflow for Just Focus",
+              "name": "justfocus-alfred",
+              "url": "https://github.com/justinyanme/justfocus-alfred",
+              "stargazerCount": 0
+            },
+            {
+              "description": "Export your Revue issues to Markdown files.",
+              "name": "Revue_to_md",
+              "url": "https://github.com/justinyanme/Revue_to_md",
+              "stargazerCount": 5
+            }
+          ]
+        }
+      }
+    },
     {
       "bio": "Build powerful back-end with no effort.",
       "name": "strapi",

@@ -30,7 +30,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (51)
-		&nbsp;Update At 1/8/2023, 12:37:55 AM 
+		&nbsp;Update At 1/9/2023, 12:35:21 AM 
   </summary>
   <br>
 
@@ -91,12 +91,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (325)
+    <strong>👆 👉 What I Star. 👇<strong> (326)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [book-searcher-org](https://github.com/book-searcher-org)/[book-searcher](https://github.com/book-searcher-org/book-searcher): Create and search books index, create your private library. |
 | [sun0225SUN](https://github.com/sun0225SUN)/[Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code): 表白代码收藏馆~谁说程序猿不懂浪漫❤️ |
 | [rmjordas](https://github.com/rmjordas)/[awesome-vue](https://github.com/rmjordas/awesome-vue): 🎉 A curated list of awesome things related to Vue.js |
 | [binwiederhier](https://github.com/binwiederhier)/[ntfy](https://github.com/binwiederhier/ntfy): Send push notifications to your phone or desktop using PUT/POST |
@@ -429,12 +430,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 Who I Follow. 👇<strong> (156)
+    <strong>👆 👉 Who I Follow. 👇<strong> (157)
   </summary>
   <br>
 
 | Following  |
 | --- | 
+| [justinyanme](https://github.com/justinyanme)<ul><li>[justfocus-alfred](https://github.com/justinyanme/justfocus-alfred): Alfred workflow for Just Focus</li><li>[Revue_to_md](https://github.com/justinyanme/Revue_to_md): Export your Revue issues to Markdown files.</li><ul>|
 | [strapi](https://github.com/strapi)<ul><li>[strapi](https://github.com/strapi/strapi): 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.</li><li>[foodadvisor](https://github.com/strapi/foodadvisor): 🥘 THE Strapi demo application </li><li>[documentation](https://github.com/strapi/documentation): Strapi Documentation mono-repo</li><li>[design-system](https://github.com/strapi/design-system): Strapi.io&#39;s design system :rocket:</li><li>[starters-and-templates](https://github.com/strapi/starters-and-templates): Monorepo for all official Strapi v4 templates</li><ul>|
 | [tnfe](https://github.com/tnfe)<ul><li>[FFCreator](https://github.com/tnfe/FFCreator): 一个基于node.js的高速视频制作库  A fast video processing library based on node.js</li><li>[TNT-Weekly](https://github.com/tnfe/TNT-Weekly): 🙈 🙉 🙊 每周为您推荐国内外前端领域最新的优秀文章以及行业进展</li><li>[wp2vite](https://github.com/tnfe/wp2vite): 一个让webpack项目支持vite的前端项目的转换工具。A front-end project automatic conversion tool。</li><li>[csijs](https://github.com/tnfe/csijs): CSI.JS是一个特别的前端日志系统，帮你快速重建犯罪现场。</li><li>[awesome-blackmagic](https://github.com/tnfe/awesome-blackmagic): 🎭 ♠♥奇技淫巧 💠黑魔法大集合♦♣ 👺</li><li>[hel](https://github.com/tnfe/hel): 前端微模块解决方案 A module federation SDK which is unrelated to tool chain for module consumer.</li><ul>|
 | [anup-a](https://github.com/anup-a)<ul><li>[svgwave](https://github.com/anup-a/svgwave): SVG Wave is a tiny, free and beautiful SVG gradient waves generator for your next design.</li><li>[tinter](https://github.com/uxie-io/tinter): Tinter is tiny web tool to generate color variation of images. </li><li>[meshy](https://github.com/anup-a/meshy): 🧞‍♂️ MESH·Y is a design tool to generate beautiful &#38; colorful mesh gradients.</li><li>[create-mini-preactails-app](https://github.com/anup-a/create-mini-preactails-app): A gzipped minified preact starter app with webpack and tailwind css.</li><li>[Beautify-your-Windows-Terminal](https://github.com/anup-a/Beautify-your-Windows-Terminal): ⚡⚡Beautify your Windows Terminal (2020). Fluent &#38; Beautiful . 🌸👩🏻‍💻</li><li>[mesh-gradient.js](https://github.com/anup-a/mesh-gradient.js): A tiny utility library to generate mesh gradient based on 4 RGB colors, built with vanilla js.</li><ul>|

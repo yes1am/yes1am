@@ -1,5 +1,5 @@
 {
-  "total": 325,
+  "total": 326,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3608,7 +3608,18 @@
       },
       "starredAt": "2023-01-07T16:08:19Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMS0wOFQwMDowODoxOSswODowMM4Wkqem"
+    },
+    {
+      "name": "book-searcher",
+      "url": "https://github.com/book-searcher-org/book-searcher",
+      "description": "Create and search books index, create your private library.",
+      "owner": {
+        "login": "book-searcher-org",
+        "url": "https://github.com/book-searcher-org"
+      },
+      "starredAt": "2023-01-08T01:41:45Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMS0wOFQwOTo0MTo0NSswODowMM4Wk63o"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMS0wOFQwMDowODoxOSswODowMM4Wkqem"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMS0wOFQwOTo0MTo0NSswODowMM4Wk63o"
 }
