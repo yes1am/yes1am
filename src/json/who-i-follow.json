@@ -1,6 +1,37 @@
 {
-  "total": 157,
+  "total": 158,
   "users": [
+    {
+      "bio": "奔跑吧！逗比",
+      "name": "Box Tsang",
+      "login": "boxizen",
+      "url": "https://github.com/boxizen",
+      "itemShowcase": {
+        "items": {
+          "totalCount": 3,
+          "nodes": [
+            {
+              "description": "Lower level utilities for compiling Vue single file components",
+              "name": "component-compiler-utils",
+              "url": "https://github.com/vuejs/component-compiler-utils",
+              "stargazerCount": 309
+            },
+            {
+              "description": "A Vue.js 2.0 UI Toolkit for Web",
+              "name": "element",
+              "url": "https://github.com/ElemeFE/element",
+              "stargazerCount": 53009
+            },
+            {
+              "description": "A cross platform framework designed for Web developer. Introduction video - https://v.qq.com/x/page/i3038urj2mt.html",
+              "name": "Hippy",
+              "url": "https://github.com/boxizen/Hippy",
+              "stargazerCount": 0
+            }
+          ]
+        }
+      }
+    },
     {
       "bio": "Just a  developer. @Tencent WeChat",
       "name": "Justin Yan",
