@@ -30,7 +30,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (51)
-		&nbsp;Update At 1/18/2023, 12:38:12 AM 
+		&nbsp;Update At 1/19/2023, 12:37:51 AM 
   </summary>
   <br>
 
@@ -91,12 +91,15 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (329)
+    <strong>👆 👉 What I Star. 👇<strong> (332)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [jaywcjlove](https://github.com/jaywcjlove)/[reference](https://github.com/jaywcjlove/reference): 为开发人员分享快速参考备忘清单(速查表) |
+| [eatmoreapple](https://github.com/eatmoreapple)/[openwechat](https://github.com/eatmoreapple/openwechat): golang微信SDK |
+| [kx-Huang](https://github.com/kx-Huang)/[ChatGPT-on-WeChat](https://github.com/kx-Huang/ChatGPT-on-WeChat): 🤖️ Deploy your WeChat AI chatbot within 2 steps! 两步部署你的微信人工智能聊天机器人！🤖️ |
 | [tailwindlabs](https://github.com/tailwindlabs)/[headlessui](https://github.com/tailwindlabs/headlessui): Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. |
 | [cixingguangming55555](https://github.com/cixingguangming55555)/[wechat-bot](https://github.com/cixingguangming55555/wechat-bot): 带二次开发接口的PC微信聊天机器人 |
 | [wechaty](https://github.com/wechaty)/[getting-started](https://github.com/wechaty/getting-started): A Starter Project Template for Wechaty works out-of-the-box |
@@ -433,12 +436,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 Who I Follow. 👇<strong> (158)
+    <strong>👆 👉 Who I Follow. 👇<strong> (159)
   </summary>
   <br>
 
 | Following  |
 | --- | 
+| [lvwzhen](https://github.com/lvwzhen)<ul><li>[sailboatui](https://github.com/sailboatui/sailboatui): Sailboat UI is a modern UI component library for Tailwind CSS </li><li>[ChatGPT-Matrix-Style](https://github.com/lvwzhen/ChatGPT-Matrix-Style): Make ChatGPT like the Matrix.</li><li>[tools](https://github.com/lvwzhen/tools): Tools Online</li><li>[foodie-ex](https://github.com/lvwzhen/foodie-ex): 🍜「吃货制霸生成器」</li><li>[iconpark](https://github.com/lvwzhen/iconpark): Collection of iconfonts</li><li>[f2e-hub](https://github.com/lvwzhen/f2e-hub): F2E hub</li><ul>|
 | [boxizen](https://github.com/boxizen)<ul><li>[component-compiler-utils](https://github.com/vuejs/component-compiler-utils): Lower level utilities for compiling Vue single file components</li><li>[element](https://github.com/ElemeFE/element): A Vue.js 2.0 UI Toolkit for Web</li><li>[Hippy](https://github.com/boxizen/Hippy): A cross platform framework designed for Web developer. Introduction video - https://v.qq.com/x/page/i3038urj2mt.html</li><ul>|
 | [justinyanme](https://github.com/justinyanme)<ul><li>[justfocus-alfred](https://github.com/justinyanme/justfocus-alfred): Alfred workflow for Just Focus</li><li>[Revue_to_md](https://github.com/justinyanme/Revue_to_md): Export your Revue issues to Markdown files.</li><ul>|
 | [strapi](https://github.com/strapi)<ul><li>[strapi](https://github.com/strapi/strapi): 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.</li><li>[foodadvisor](https://github.com/strapi/foodadvisor): 🥘 THE Strapi demo application </li><li>[documentation](https://github.com/strapi/documentation): Strapi Documentation mono-repo</li><li>[design-system](https://github.com/strapi/design-system): Strapi.io&#39;s design system :rocket:</li><li>[starters-and-templates](https://github.com/strapi/starters-and-templates): Monorepo for all official Strapi v4 templates</li><ul>|

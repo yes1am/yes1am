@@ -1,5 +1,5 @@
 {
-  "total": 329,
+  "total": 332,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3652,7 +3652,40 @@
       },
       "starredAt": "2023-01-16T14:39:33Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMS0xNlQyMjozOTozMyswODowMM4Wr8Ze"
+    },
+    {
+      "name": "ChatGPT-on-WeChat",
+      "url": "https://github.com/kx-Huang/ChatGPT-on-WeChat",
+      "description": "🤖️ Deploy your WeChat AI chatbot within 2 steps! 两步部署你的微信人工智能聊天机器人！🤖️",
+      "owner": {
+        "login": "kx-Huang",
+        "url": "https://github.com/kx-Huang"
+      },
+      "starredAt": "2023-01-18T02:26:22Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMS0xOFQxMDoyNjoyMiswODowMM4WtMtZ"
+    },
+    {
+      "name": "openwechat",
+      "url": "https://github.com/eatmoreapple/openwechat",
+      "description": "golang微信SDK",
+      "owner": {
+        "login": "eatmoreapple",
+        "url": "https://github.com/eatmoreapple"
+      },
+      "starredAt": "2023-01-18T03:15:49Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMS0xOFQxMToxNTo0OSswODowMM4WtOVu"
+    },
+    {
+      "name": "reference",
+      "url": "https://github.com/jaywcjlove/reference",
+      "description": "为开发人员分享快速参考备忘清单(速查表)",
+      "owner": {
+        "login": "jaywcjlove",
+        "url": "https://github.com/jaywcjlove"
+      },
+      "starredAt": "2023-01-18T06:22:58Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMS0xOFQxNDoyMjo1OCswODowMM4WtT69"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMS0xNlQyMjozOTozMyswODowMM4Wr8Ze"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMS0xOFQxNDoyMjo1OCswODowMM4WtT69"
 }
