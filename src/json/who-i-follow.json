@@ -1,6 +1,55 @@
 {
-  "total": 159,
+  "total": 160,
   "users": [
+    {
+      "bio": "时间会让「平凡的事」变得「与众不同」",
+      "name": "削微寒",
+      "login": "521xueweihan",
+      "url": "https://github.com/521xueweihan",
+      "itemShowcase": {
+        "items": {
+          "totalCount": 6,
+          "nodes": [
+            {
+              "description": "只有一个文件！",
+              "name": "OneFile",
+              "url": "https://github.com/521xueweihan/OneFile",
+              "stargazerCount": 897
+            },
+            {
+              "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+              "name": "HelloGitHub",
+              "url": "https://github.com/521xueweihan/HelloGitHub",
+              "stargazerCount": 63671
+            },
+            {
+              "description": ":kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）",
+              "name": "GitHub520",
+              "url": "https://github.com/521xueweihan/GitHub520",
+              "stargazerCount": 14210
+            },
+            {
+              "description": ":trollface:Git的奇技淫巧",
+              "name": "git-tips",
+              "url": "https://github.com/521xueweihan/git-tips",
+              "stargazerCount": 14559
+            },
+            {
+              "description": "简单但绝不简陋的 Python3 爬虫项目，集合 HelloGitHub 所有平台的账号信息。会基础的 Python 语法就能看懂！",
+              "name": "Hydra",
+              "url": "https://github.com/HelloGitHub-Team/Hydra",
+              "stargazerCount": 142
+            },
+            {
+              "description": "《笨方法学 Python》（Learn Python the Hard Way）学习笔记",
+              "name": "python",
+              "url": "https://github.com/521xueweihan/python",
+              "stargazerCount": 915
+            }
+          ]
+        }
+      }
+    },
     {
       "bio": "",
       "name": "lvwzhen",

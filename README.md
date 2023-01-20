@@ -30,7 +30,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (51)
-		&nbsp;Update At 1/19/2023, 12:37:51 AM 
+		&nbsp;Update At 1/20/2023, 12:37:34 AM 
   </summary>
   <br>
 
@@ -436,12 +436,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 Who I Follow. 👇<strong> (159)
+    <strong>👆 👉 Who I Follow. 👇<strong> (160)
   </summary>
   <br>
 
 | Following  |
 | --- | 
+| [521xueweihan](https://github.com/521xueweihan)<ul><li>[OneFile](https://github.com/521xueweihan/OneFile): 只有一个文件！</li><li>[HelloGitHub](https://github.com/521xueweihan/HelloGitHub): :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.</li><li>[GitHub520](https://github.com/521xueweihan/GitHub520): :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）</li><li>[git-tips](https://github.com/521xueweihan/git-tips): :trollface:Git的奇技淫巧</li><li>[Hydra](https://github.com/HelloGitHub-Team/Hydra): 简单但绝不简陋的 Python3 爬虫项目，集合 HelloGitHub 所有平台的账号信息。会基础的 Python 语法就能看懂！</li><li>[python](https://github.com/521xueweihan/python): 《笨方法学 Python》（Learn Python the Hard Way）学习笔记</li><ul>|
 | [lvwzhen](https://github.com/lvwzhen)<ul><li>[sailboatui](https://github.com/sailboatui/sailboatui): Sailboat UI is a modern UI component library for Tailwind CSS </li><li>[ChatGPT-Matrix-Style](https://github.com/lvwzhen/ChatGPT-Matrix-Style): Make ChatGPT like the Matrix.</li><li>[tools](https://github.com/lvwzhen/tools): Tools Online</li><li>[foodie-ex](https://github.com/lvwzhen/foodie-ex): 🍜「吃货制霸生成器」</li><li>[iconpark](https://github.com/lvwzhen/iconpark): Collection of iconfonts</li><li>[f2e-hub](https://github.com/lvwzhen/f2e-hub): F2E hub</li><ul>|
 | [boxizen](https://github.com/boxizen)<ul><li>[component-compiler-utils](https://github.com/vuejs/component-compiler-utils): Lower level utilities for compiling Vue single file components</li><li>[element](https://github.com/ElemeFE/element): A Vue.js 2.0 UI Toolkit for Web</li><li>[Hippy](https://github.com/boxizen/Hippy): A cross platform framework designed for Web developer. Introduction video - https://v.qq.com/x/page/i3038urj2mt.html</li><ul>|
 | [justinyanme](https://github.com/justinyanme)<ul><li>[justfocus-alfred](https://github.com/justinyanme/justfocus-alfred): Alfred workflow for Just Focus</li><li>[Revue_to_md](https://github.com/justinyanme/Revue_to_md): Export your Revue issues to Markdown files.</li><ul>|
