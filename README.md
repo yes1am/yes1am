@@ -29,8 +29,8 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 GitHub repositories. 👇<strong> (51)
-		&nbsp;Update At 2/5/2023, 12:40:30 AM 
+    <strong>👆 👉 GitHub repositories. 👇<strong> (52)
+		&nbsp;Update At 2/6/2023, 12:35:11 AM 
   </summary>
   <br>
 
@@ -61,11 +61,11 @@ Code For Fun
 | [fe-lib](https://github.com/yes1am/fe-lib) | fe-lib | - |
 | [js-leetcode](https://github.com/yes1am/js-leetcode) | solve and analyze leetcode | - |
 | [jsbox](https://github.com/yes1am/jsbox) | :game_die: 个人 jsbox 脚本集 | - |
+| [static](https://github.com/yes1am/static) | 一些静态网页 | - |
 | [express-react-boilerplate](https://github.com/yes1am/express-react-boilerplate) | :seedling: 基于express与react的开发模板 | - |
-| [mobile-workshop](https://github.com/yes1am/mobile-workshop) | 移动端开发 工作坊 | - |
 | [oauth-demo](https://github.com/yes1am/oauth-demo) | github-oauth-demo | - |
 | [wechat-dev](https://github.com/yes1am/wechat-dev) | 微信公众号开发, Node 示例 | - |
-| [webpack-spritesmith-demo](https://github.com/yes1am/webpack-spritesmith-demo) |  | - |
+| [youzhiyouxing](https://github.com/yes1am/youzhiyouxing) | 有知有行-投资第一课 | - |
 | [gitlab-webhooks-notification](https://github.com/yes1am/gitlab-webhooks-notification) | Gitlab Webhooks 的提醒服务 | - |
 | [vue-assistive-touch](https://github.com/yes1am/vue-assistive-touch) | Vue version of Assistive Touch, Inspired by and copy code from https://github.com/abhishekkhandait/react-assistivetouch-menu | - |
 | [dont-commit-me](https://github.com/yes1am/dont-commit-me) | Prevent from committing sensitive words, Git hooks for husky. | - |
@@ -86,7 +86,8 @@ Code For Fun
 | [little-shelf](https://github.com/yes1am/little-shelf) | 微信小程序-小书架 | - |
 | [Saul-Goodman](https://github.com/yes1am/Saul-Goodman) | 一款聊天机器人，名称灵感来源于 Better Call Saul | - |
 | [express-proxy](https://github.com/yes1am/express-proxy) | 代理服务 | - |
-| [static](https://github.com/yes1am/static) | 一些静态网页 | - |
+| [webpack-spritesmith-demo](https://github.com/yes1am/webpack-spritesmith-demo) |  | - |
+| [mobile-workshop](https://github.com/yes1am/mobile-workshop) | 移动端开发 工作坊 | - |
 </details>
 
 <details>
