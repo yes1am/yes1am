@@ -29,8 +29,8 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 GitHub repositories. 👇<strong> (52)
-		&nbsp;Update At 2/6/2023, 12:35:11 AM 
+    <strong>👆 👉 GitHub repositories. 👇<strong> (51)
+		&nbsp;Update At 2/7/2023, 12:37:20 AM 
   </summary>
   <br>
 
@@ -61,11 +61,11 @@ Code For Fun
 | [fe-lib](https://github.com/yes1am/fe-lib) | fe-lib | - |
 | [js-leetcode](https://github.com/yes1am/js-leetcode) | solve and analyze leetcode | - |
 | [jsbox](https://github.com/yes1am/jsbox) | :game_die: 个人 jsbox 脚本集 | - |
-| [static](https://github.com/yes1am/static) | 一些静态网页 | - |
 | [express-react-boilerplate](https://github.com/yes1am/express-react-boilerplate) | :seedling: 基于express与react的开发模板 | - |
+| [mobile-workshop](https://github.com/yes1am/mobile-workshop) | 移动端开发 工作坊 | - |
 | [oauth-demo](https://github.com/yes1am/oauth-demo) | github-oauth-demo | - |
 | [wechat-dev](https://github.com/yes1am/wechat-dev) | 微信公众号开发, Node 示例 | - |
-| [youzhiyouxing](https://github.com/yes1am/youzhiyouxing) | 有知有行-投资第一课 | - |
+| [webpack-spritesmith-demo](https://github.com/yes1am/webpack-spritesmith-demo) |  | - |
 | [gitlab-webhooks-notification](https://github.com/yes1am/gitlab-webhooks-notification) | Gitlab Webhooks 的提醒服务 | - |
 | [vue-assistive-touch](https://github.com/yes1am/vue-assistive-touch) | Vue version of Assistive Touch, Inspired by and copy code from https://github.com/abhishekkhandait/react-assistivetouch-menu | - |
 | [dont-commit-me](https://github.com/yes1am/dont-commit-me) | Prevent from committing sensitive words, Git hooks for husky. | - |
@@ -86,18 +86,20 @@ Code For Fun
 | [little-shelf](https://github.com/yes1am/little-shelf) | 微信小程序-小书架 | - |
 | [Saul-Goodman](https://github.com/yes1am/Saul-Goodman) | 一款聊天机器人，名称灵感来源于 Better Call Saul | - |
 | [express-proxy](https://github.com/yes1am/express-proxy) | 代理服务 | - |
-| [webpack-spritesmith-demo](https://github.com/yes1am/webpack-spritesmith-demo) |  | - |
-| [mobile-workshop](https://github.com/yes1am/mobile-workshop) | 移动端开发 工作坊 | - |
+| [static](https://github.com/yes1am/static) | 一些静态网页 | - |
 </details>
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (331)
+    <strong>👆 👉 What I Star. 👇<strong> (334)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [YaoKaiLun](https://github.com/YaoKaiLun)/[react-img-editor](https://github.com/YaoKaiLun/react-img-editor): image editor |
+| [ailon](https://github.com/ailon)/[markerjs2](https://github.com/ailon/markerjs2): Add image annotation to your web apps. |
+| [fedtop](https://github.com/fedtop)/[dev-go](https://github.com/fedtop/dev-go): 🤖 一个专属于开发者的超级无敌浏览器扩展插件。(A super unbeatable browser extension plugin for developers.)💪 |
 | [jaywcjlove](https://github.com/jaywcjlove)/[reference](https://github.com/jaywcjlove/reference): 为开发人员分享快速参考备忘清单(速查表) |
 | [eatmoreapple](https://github.com/eatmoreapple)/[openwechat](https://github.com/eatmoreapple/openwechat): golang微信SDK |
 | [kx-Huang](https://github.com/kx-Huang)/[ChatGPT-on-WeChat](https://github.com/kx-Huang/ChatGPT-on-WeChat): 🤖️ Deploy your WeChat AI chatbot within 2 steps! 两步部署你的微信人工智能聊天机器人！🤖️ |
@@ -437,12 +439,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 Who I Follow. 👇<strong> (160)
+    <strong>👆 👉 Who I Follow. 👇<strong> (161)
   </summary>
   <br>
 
 | Following  |
 | --- | 
+| [wangrongding](https://github.com/wangrongding)<ul><li>[wechat-bot](https://github.com/wangrongding/wechat-bot): 🤖一个基于OpenAi  ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...</li><li>[frontend-park](https://github.com/wangrongding/frontend-park): 🌸这是一个有趣的前端趣味知识公园~该项目是我平时捣鼓前端相关技术的一些案例集合。【涵盖：（Tensorflow.js-姿态识别，人脸识别），(WebRTC-音视频通话，录屏，虚拟背景，信令服务器)，（Threejs-太阳系，3D 动画），（图片处理-千图成像，图片压缩，画板），（隐写术-文本隐写加密，图片隐写加密）等等...】</li><li>[wallpaper-box](https://github.com/wangrongding/wallpaper-box): 🏞️ 一个桌面壁纸客户端，可以设置静态 / 动态壁纸，集成了 RunCat 的功能。(A desktop wallpaper client to set static / dynamic wallpapers, integrated with RunCat&#39;s features.)</li><li>[dev-go](https://github.com/fedtop/dev-go): 🤖 一个专属于开发者的超级无敌浏览器扩展插件。(A super unbeatable browser extension plugin for developers.)💪</li><li>[prm-cli](https://github.com/wangrongding/prm-cli): 🧩 快速切换包管理工具的镜像源。(Quickly switch the registry of the package management tool.)</li><li>[dev-boy](https://github.com/wangrongding/dev-boy): 🛠️ 小而美的 cli 工具包。(An awesome terminal cli toolkit.)🧰</li><ul>|
 | [521xueweihan](https://github.com/521xueweihan)<ul><li>[OneFile](https://github.com/521xueweihan/OneFile): 只有一个文件！</li><li>[HelloGitHub](https://github.com/521xueweihan/HelloGitHub): :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.</li><li>[GitHub520](https://github.com/521xueweihan/GitHub520): :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）</li><li>[git-tips](https://github.com/521xueweihan/git-tips): :trollface:Git的奇技淫巧</li><li>[Hydra](https://github.com/HelloGitHub-Team/Hydra): 简单但绝不简陋的 Python3 爬虫项目，集合 HelloGitHub 所有平台的账号信息。会基础的 Python 语法就能看懂！</li><li>[python](https://github.com/521xueweihan/python): 《笨方法学 Python》（Learn Python the Hard Way）学习笔记</li><ul>|
 | [lvwzhen](https://github.com/lvwzhen)<ul><li>[sailboatui](https://github.com/sailboatui/sailboatui): Sailboat UI is a modern UI component library for Tailwind CSS </li><li>[ChatGPT-Matrix-Style](https://github.com/lvwzhen/ChatGPT-Matrix-Style): Make ChatGPT like the Matrix.</li><li>[tools](https://github.com/lvwzhen/tools): Tools Online</li><li>[foodie-ex](https://github.com/lvwzhen/foodie-ex): 🍜「吃货制霸生成器」</li><li>[iconpark](https://github.com/lvwzhen/iconpark): Collection of iconfonts</li><li>[f2e-hub](https://github.com/lvwzhen/f2e-hub): F2E hub</li><ul>|
 | [boxizen](https://github.com/boxizen)<ul><li>[component-compiler-utils](https://github.com/vuejs/component-compiler-utils): Lower level utilities for compiling Vue single file components</li><li>[element](https://github.com/ElemeFE/element): A Vue.js 2.0 UI Toolkit for Web</li><li>[Hippy](https://github.com/boxizen/Hippy): A cross platform framework designed for Web developer. Introduction video - https://v.qq.com/x/page/i3038urj2mt.html</li><ul>|

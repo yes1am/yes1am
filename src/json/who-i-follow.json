@@ -1,6 +1,55 @@
 {
-  "total": 160,
+  "total": 161,
   "users": [
+    {
+      "bio": "在键帽与字符上横跳，于代码和程序中穿梭。  \r\n公众号:【前端超人】",
+      "name": "荣顶",
+      "login": "wangrongding",
+      "url": "https://github.com/wangrongding",
+      "itemShowcase": {
+        "items": {
+          "totalCount": 6,
+          "nodes": [
+            {
+              "description": "🤖一个基于OpenAi  ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...",
+              "name": "wechat-bot",
+              "url": "https://github.com/wangrongding/wechat-bot",
+              "stargazerCount": 1623
+            },
+            {
+              "description": "🌸这是一个有趣的前端趣味知识公园~该项目是我平时捣鼓前端相关技术的一些案例集合。【涵盖：（Tensorflow.js-姿态识别，人脸识别），(WebRTC-音视频通话，录屏，虚拟背景，信令服务器)，（Threejs-太阳系，3D 动画），（图片处理-千图成像，图片压缩，画板），（隐写术-文本隐写加密，图片隐写加密）等等...】",
+              "name": "frontend-park",
+              "url": "https://github.com/wangrongding/frontend-park",
+              "stargazerCount": 219
+            },
+            {
+              "description": "🏞️ 一个桌面壁纸客户端，可以设置静态 / 动态壁纸，集成了 RunCat 的功能。(A desktop wallpaper client to set static / dynamic wallpapers, integrated with RunCat's features.)",
+              "name": "wallpaper-box",
+              "url": "https://github.com/wangrongding/wallpaper-box",
+              "stargazerCount": 116
+            },
+            {
+              "description": "🤖 一个专属于开发者的超级无敌浏览器扩展插件。(A super unbeatable browser extension plugin for developers.)💪",
+              "name": "dev-go",
+              "url": "https://github.com/fedtop/dev-go",
+              "stargazerCount": 42
+            },
+            {
+              "description": "🧩 快速切换包管理工具的镜像源。(Quickly switch the registry of the package management tool.)",
+              "name": "prm-cli",
+              "url": "https://github.com/wangrongding/prm-cli",
+              "stargazerCount": 29
+            },
+            {
+              "description": "🛠️ 小而美的 cli 工具包。(An awesome terminal cli toolkit.)🧰",
+              "name": "dev-boy",
+              "url": "https://github.com/wangrongding/dev-boy",
+              "stargazerCount": 6
+            }
+          ]
+        }
+      }
+    },
     {
       "bio": "时间会让「平凡的事」变得「与众不同」",
       "name": "削微寒",

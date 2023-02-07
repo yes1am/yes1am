@@ -1,6 +1,6 @@
 {
   "realTotal": 67,
-  "visibleTotal": 52,
+  "visibleTotal": 51,
   "repos": [
     {
       "name": "blog",
@@ -460,15 +460,6 @@
       "stargazerCount": 0,
       "url": "https://github.com/yes1am/webpack-spritesmith-demo",
       "createdAt": "2022-12-15T13:21:32Z"
-    },
-    {
-      "name": "youzhiyouxing",
-      "description": "有知有行-投资第一课",
-      "isPrivate": false,
-      "isFork": false,
-      "stargazerCount": 0,
-      "url": "https://github.com/yes1am/youzhiyouxing",
-      "createdAt": "2023-02-05T13:11:12Z"
     }
   ]
 }
