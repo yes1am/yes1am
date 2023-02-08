@@ -30,7 +30,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (51)
-		&nbsp;Update At 2/7/2023, 12:37:20 AM 
+		&nbsp;Update At 2/8/2023, 12:37:01 AM 
   </summary>
   <br>
 
@@ -91,12 +91,14 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (334)
+    <strong>👆 👉 What I Star. 👇<strong> (336)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [benhowdle89](https://github.com/benhowdle89)/[grade](https://github.com/benhowdle89/grade): This JavaScript library produces complementary gradients generated from the top 2 dominant colours in supplied images. |
+| [meltingice](https://github.com/meltingice)/[CamanJS](https://github.com/meltingice/CamanJS): Javascript HTML5 (Ca)nvas (Man)ipulation |
 | [YaoKaiLun](https://github.com/YaoKaiLun)/[react-img-editor](https://github.com/YaoKaiLun/react-img-editor): image editor |
 | [ailon](https://github.com/ailon)/[markerjs2](https://github.com/ailon/markerjs2): Add image annotation to your web apps. |
 | [fedtop](https://github.com/fedtop)/[dev-go](https://github.com/fedtop/dev-go): 🤖 一个专属于开发者的超级无敌浏览器扩展插件。(A super unbeatable browser extension plugin for developers.)💪 |
