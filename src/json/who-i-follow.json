@@ -1,6 +1,55 @@
 {
-  "total": 161,
+  "total": 162,
   "users": [
+    {
+      "bio": "Product engineer at @iftechio. Previously @douban @renren",
+      "name": "Wang Dàpéng",
+      "login": "wong2",
+      "url": "https://github.com/wong2",
+      "itemShowcase": {
+        "items": {
+          "totalCount": 6,
+          "nodes": [
+            {
+              "description": "A browser extension that enhance search engines with ChatGPT",
+              "name": "chatgpt-google-extension",
+              "url": "https://github.com/wong2/chatgpt-google-extension",
+              "stargazerCount": 10337
+            },
+            {
+              "description": "create curses based interactive selection list in the terminal",
+              "name": "pick",
+              "url": "https://github.com/wong2/pick",
+              "stargazerCount": 581
+            },
+            {
+              "description": "人人网小黄鸡 (deprecated)",
+              "name": "xiaohuangji",
+              "url": "https://github.com/wong2/xiaohuangji",
+              "stargazerCount": 520
+            },
+            {
+              "description": "北京实时公交 for Python",
+              "name": "beijing_bus",
+              "url": "https://github.com/wong2/beijing_bus",
+              "stargazerCount": 361
+            },
+            {
+              "description": "(deprecated) a service to find the first commit of a repo, built with koa.js",
+              "name": "first-commit",
+              "url": "https://github.com/wong2/first-commit",
+              "stargazerCount": 68
+            },
+            {
+              "description": "(deprecated) IFTTJ = IFTTT + 即刻",
+              "name": "ifttj",
+              "url": "https://github.com/wong2/ifttj",
+              "stargazerCount": 41
+            }
+          ]
+        }
+      }
+    },
     {
       "bio": "在键帽与字符上横跳，于代码和程序中穿梭。  \r\n公众号:【前端超人】",
       "name": "荣顶",

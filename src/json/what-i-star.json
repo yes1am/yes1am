@@ -1,5 +1,5 @@
 {
-  "total": 336,
+  "total": 337,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3740,7 +3740,18 @@
       },
       "starredAt": "2023-02-07T04:08:28Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMi0wN1QxMjowODoyOCswODowMM4W-adl"
+    },
+    {
+      "name": "wechat4u",
+      "url": "https://github.com/nodeWechat/wechat4u",
+      "description": "微信 wechat web 网页版接口的 JavaScript 实现，兼容Node和浏览器，微信机器人",
+      "owner": {
+        "login": "nodeWechat",
+        "url": "https://github.com/nodeWechat"
+      },
+      "starredAt": "2023-02-16T04:59:51Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMi0xNlQxMjo1OTo1MSswODowMM4XHc7g"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMi0wN1QxMjowODoyOCswODowMM4W-adl"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMi0xNlQxMjo1OTo1MSswODowMM4XHc7g"
 }
