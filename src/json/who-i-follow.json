@@ -1,6 +1,104 @@
 {
-  "total": 162,
+  "total": 164,
   "users": [
+    {
+      "bio": "Founder of Mudlab",
+      "name": "LiuShaonan",
+      "login": "plidezus",
+      "url": "https://github.com/plidezus",
+      "itemShowcase": {
+        "items": {
+          "totalCount": 10,
+          "nodes": [
+            {
+              "description": "艾默镇",
+              "name": "aimozhen",
+              "url": "https://github.com/plidezus/aimozhen",
+              "stargazerCount": 39
+            },
+            {
+              "description": "HTML, CSS, and JS toolkit from Twitter",
+              "name": "bootstrap",
+              "url": "https://github.com/plidezus/bootstrap",
+              "stargazerCount": 2
+            },
+            {
+              "description": "Community running on Google App Engine",
+              "name": "v2ex",
+              "url": "https://github.com/plidezus/v2ex",
+              "stargazerCount": 1
+            },
+            {
+              "description": null,
+              "name": "olivida-start",
+              "url": "https://github.com/plidezus/olivida-start",
+              "stargazerCount": 0
+            },
+            {
+              "description": "游戏王卡片查询器 for 微信",
+              "name": "YuGiOh_Card_for_Wechat",
+              "url": "https://github.com/plidezus/YuGiOh_Card_for_Wechat",
+              "stargazerCount": 0
+            },
+            {
+              "description": "中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版",
+              "name": "typo.css",
+              "url": "https://github.com/plidezus/typo.css",
+              "stargazerCount": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bio": "Engineer, Entrepreneur, Investor.",
+      "name": "LIGHT",
+      "login": "lightory",
+      "url": "https://github.com/lightory",
+      "itemShowcase": {
+        "items": {
+          "totalCount": 6,
+          "nodes": [
+            {
+              "description": "Yet another URL Router for iOS.",
+              "name": "HHRouter",
+              "url": "https://github.com/lightory/HHRouter",
+              "stargazerCount": 1607
+            },
+            {
+              "description": "Detect new version from App Store, and notify user with local notifications.",
+              "name": "Pigeon",
+              "url": "https://github.com/lightory/Pigeon",
+              "stargazerCount": 199
+            },
+            {
+              "description": "Simple Douban Android Client.",
+              "name": "Doubanjiang",
+              "url": "https://github.com/lightory/Doubanjiang",
+              "stargazerCount": 17
+            },
+            {
+              "description": "Add scrolling direction observing for UIScrollView.",
+              "name": "UIScrollView-Direction",
+              "url": "https://github.com/lightory/UIScrollView-Direction",
+              "stargazerCount": 11
+            },
+            {
+              "description": "用于统计每年在豆瓣上看过或听过多少书，电影或音乐",
+              "name": "doubanlet",
+              "url": "https://github.com/lightory/doubanlet",
+              "stargazerCount": 5
+            },
+            {
+              "description": "2011 年的摆摆书架",
+              "name": "Baibai-2011",
+              "url": "https://github.com/lightory/Baibai-2011",
+              "stargazerCount": 2
+            }
+          ]
+        }
+      }
+    },
     {
       "bio": "Product engineer at @iftechio. Previously @douban @renren",
       "name": "Wang Dàpéng",

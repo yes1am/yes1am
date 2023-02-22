@@ -30,7 +30,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (51)
-		&nbsp;Update At 2/21/2023, 12:40:15 AM 
+		&nbsp;Update At 2/22/2023, 12:35:34 AM 
   </summary>
   <br>
 
@@ -91,12 +91,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (337)
+    <strong>👆 👉 What I Star. 👇<strong> (338)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [flomoapp](https://github.com/flomoapp)/[3rd-party-tools](https://github.com/flomoapp/3rd-party-tools):  |
 | [nodeWechat](https://github.com/nodeWechat)/[wechat4u](https://github.com/nodeWechat/wechat4u): 微信 wechat web 网页版接口的 JavaScript 实现，兼容Node和浏览器，微信机器人 |
 | [benhowdle89](https://github.com/benhowdle89)/[grade](https://github.com/benhowdle89/grade): This JavaScript library produces complementary gradients generated from the top 2 dominant colours in supplied images. |
 | [meltingice](https://github.com/meltingice)/[CamanJS](https://github.com/meltingice/CamanJS): Javascript HTML5 (Ca)nvas (Man)ipulation |
@@ -442,12 +443,14 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 Who I Follow. 👇<strong> (162)
+    <strong>👆 👉 Who I Follow. 👇<strong> (164)
   </summary>
   <br>
 
 | Following  |
 | --- | 
+| [plidezus](https://github.com/plidezus)<ul><li>[aimozhen](https://github.com/plidezus/aimozhen): 艾默镇</li><li>[bootstrap](https://github.com/plidezus/bootstrap): HTML, CSS, and JS toolkit from Twitter</li><li>[v2ex](https://github.com/plidezus/v2ex): Community running on Google App Engine</li><li>[olivida-start](https://github.com/plidezus/olivida-start): </li><li>[YuGiOh_Card_for_Wechat](https://github.com/plidezus/YuGiOh_Card_for_Wechat): 游戏王卡片查询器 for 微信</li><li>[typo.css](https://github.com/plidezus/typo.css): 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版</li><ul>|
+| [lightory](https://github.com/lightory)<ul><li>[HHRouter](https://github.com/lightory/HHRouter): Yet another URL Router for iOS.</li><li>[Pigeon](https://github.com/lightory/Pigeon): Detect new version from App Store, and notify user with local notifications.</li><li>[Doubanjiang](https://github.com/lightory/Doubanjiang): Simple Douban Android Client.</li><li>[UIScrollView-Direction](https://github.com/lightory/UIScrollView-Direction): Add scrolling direction observing for UIScrollView.</li><li>[doubanlet](https://github.com/lightory/doubanlet): 用于统计每年在豆瓣上看过或听过多少书，电影或音乐</li><li>[Baibai-2011](https://github.com/lightory/Baibai-2011): 2011 年的摆摆书架</li><ul>|
 | [wong2](https://github.com/wong2)<ul><li>[chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension): A browser extension that enhance search engines with ChatGPT</li><li>[pick](https://github.com/wong2/pick): create curses based interactive selection list in the terminal</li><li>[xiaohuangji](https://github.com/wong2/xiaohuangji): 人人网小黄鸡 (deprecated)</li><li>[beijing_bus](https://github.com/wong2/beijing_bus): 北京实时公交 for Python</li><li>[first-commit](https://github.com/wong2/first-commit): (deprecated) a service to find the first commit of a repo, built with koa.js</li><li>[ifttj](https://github.com/wong2/ifttj): (deprecated) IFTTJ = IFTTT + 即刻</li><ul>|
 | [wangrongding](https://github.com/wangrongding)<ul><li>[wechat-bot](https://github.com/wangrongding/wechat-bot): 🤖一个基于OpenAi  ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...</li><li>[frontend-park](https://github.com/wangrongding/frontend-park): 🌸这是一个有趣的前端趣味知识公园~该项目是我平时捣鼓前端相关技术的一些案例集合。【涵盖：（Tensorflow.js-姿态识别，人脸识别），(WebRTC-音视频通话，录屏，虚拟背景，信令服务器)，（Threejs-太阳系，3D 动画），（图片处理-千图成像，图片压缩，画板），（隐写术-文本隐写加密，图片隐写加密）等等...】</li><li>[wallpaper-box](https://github.com/wangrongding/wallpaper-box): 🏞️ 一个桌面壁纸客户端，可以设置静态 / 动态壁纸，集成了 RunCat 的功能。(A desktop wallpaper client to set static / dynamic wallpapers, integrated with RunCat&#39;s features.)</li><li>[dev-go](https://github.com/fedtop/dev-go): 🤖 一个专属于开发者的超级无敌浏览器扩展插件。(A super unbeatable browser extension plugin for developers.)💪</li><li>[prm-cli](https://github.com/wangrongding/prm-cli): 🧩 快速切换包管理工具的镜像源。(Quickly switch the registry of the package management tool.)</li><li>[dev-boy](https://github.com/wangrongding/dev-boy): 🛠️ 小而美的 cli 工具包。(An awesome terminal cli toolkit.)🧰</li><ul>|
 | [521xueweihan](https://github.com/521xueweihan)<ul><li>[OneFile](https://github.com/521xueweihan/OneFile): 只有一个文件！</li><li>[HelloGitHub](https://github.com/521xueweihan/HelloGitHub): :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.</li><li>[GitHub520](https://github.com/521xueweihan/GitHub520): :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）</li><li>[git-tips](https://github.com/521xueweihan/git-tips): :trollface:Git的奇技淫巧</li><li>[Hydra](https://github.com/HelloGitHub-Team/Hydra): 简单但绝不简陋的 Python3 爬虫项目，集合 HelloGitHub 所有平台的账号信息。会基础的 Python 语法就能看懂！</li><li>[python](https://github.com/521xueweihan/python): 《笨方法学 Python》（Learn Python the Hard Way）学习笔记</li><ul>|
