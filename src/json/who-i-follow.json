@@ -1,6 +1,25 @@
 {
-  "total": 164,
+  "total": 165,
   "users": [
+    {
+      "bio": "follow me at superzheng.com",
+      "name": "Super Zheng",
+      "login": "medns",
+      "url": "https://github.com/medns",
+      "itemShowcase": {
+        "items": {
+          "totalCount": 1,
+          "nodes": [
+            {
+              "description": "Hippy is designed to easily build cross-platform dynamic apps. 👏",
+              "name": "Hippy",
+              "url": "https://github.com/Tencent/Hippy",
+              "stargazerCount": 7313
+            }
+          ]
+        }
+      }
+    },
     {
       "bio": "Founder of Mudlab",
       "name": "LiuShaonan",
