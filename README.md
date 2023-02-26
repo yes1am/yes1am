@@ -30,14 +30,14 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (51)
-		&nbsp;Update At 2/25/2023, 12:38:34 AM 
+		&nbsp;Update At 2/26/2023, 12:44:06 AM 
   </summary>
   <br>
 
 | repository | description | stars |
 | --- | --- | --- |
 | [logo-hub](https://github.com/yes1am/logo-hub) | Logo Generator | 58 |
-| [stand-up-comedy](https://github.com/yes1am/stand-up-comedy) | 单口喜剧表演手册 | 23 |
+| [stand-up-comedy](https://github.com/yes1am/stand-up-comedy) | 单口喜剧表演手册 | 24 |
 | [Outline](https://github.com/yes1am/Outline) | Generate outline for website | 12 |
 | [blog](https://github.com/yes1am/blog) | :camera: 个人博客 | 10 |
 | [dadao](https://github.com/yes1am/dadao) | 豆瓣大島 | 3 |
