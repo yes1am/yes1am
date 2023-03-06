@@ -30,7 +30,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (51)
-		&nbsp;Update At 3/5/2023, 12:43:03 AM 
+		&nbsp;Update At 3/6/2023, 12:39:34 AM 
   </summary>
   <br>
 
@@ -91,12 +91,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (338)
+    <strong>👆 👉 What I Star. 👇<strong> (339)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [lit](https://github.com/lit)/[lit](https://github.com/lit/lit): Lit is a simple library for building fast, lightweight web components. |
 | [flomoapp](https://github.com/flomoapp)/[3rd-party-tools](https://github.com/flomoapp/3rd-party-tools):  |
 | [nodeWechat](https://github.com/nodeWechat)/[wechat4u](https://github.com/nodeWechat/wechat4u): 微信 wechat web 网页版接口的 JavaScript 实现，兼容Node和浏览器，微信机器人 |
 | [benhowdle89](https://github.com/benhowdle89)/[grade](https://github.com/benhowdle89/grade): This JavaScript library produces complementary gradients generated from the top 2 dominant colours in supplied images. |
