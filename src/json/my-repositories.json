@@ -7,7 +7,7 @@
       "description": ":camera: 个人博客",
       "isPrivate": false,
       "isFork": false,
-      "stargazerCount": 10,
+      "stargazerCount": 11,
       "url": "https://github.com/yes1am/blog",
       "createdAt": "2019-03-31T09:22:24Z"
     },
@@ -43,7 +43,7 @@
       "description": "React 组件库",
       "isPrivate": false,
       "isFork": false,
-      "stargazerCount": 0,
+      "stargazerCount": 1,
       "url": "https://github.com/yes1am/react-story-book",
       "createdAt": "2019-08-27T08:05:32Z"
     },
@@ -70,7 +70,7 @@
       "description": "Generate outline for website",
       "isPrivate": false,
       "isFork": false,
-      "stargazerCount": 12,
+      "stargazerCount": 13,
       "url": "https://github.com/yes1am/Outline",
       "createdAt": "2019-12-22T03:49:06Z"
     },
@@ -88,7 +88,7 @@
       "description": "PicGo Github 图床",
       "isPrivate": false,
       "isFork": false,
-      "stargazerCount": 0,
+      "stargazerCount": 1,
       "url": "https://github.com/yes1am/PicBed",
       "createdAt": "2020-01-03T11:57:02Z"
     },
@@ -115,7 +115,7 @@
       "description": "单口喜剧表演手册",
       "isPrivate": false,
       "isFork": false,
-      "stargazerCount": 24,
+      "stargazerCount": 25,
       "url": "https://github.com/yes1am/stand-up-comedy",
       "createdAt": "2020-02-02T12:23:37Z"
     },
@@ -124,7 +124,7 @@
       "description": "A React Native app, which tries to fulfill all my needs on mobile.",
       "isPrivate": false,
       "isFork": false,
-      "stargazerCount": 0,
+      "stargazerCount": 1,
       "url": "https://github.com/yes1am/sheldon",
       "createdAt": "2020-02-05T09:07:34Z"
     },
@@ -160,7 +160,7 @@
       "description": "Do something automatically with puppeteer",
       "isPrivate": false,
       "isFork": false,
-      "stargazerCount": 0,
+      "stargazerCount": 1,
       "url": "https://github.com/yes1am/automator",
       "createdAt": "2020-02-23T08:40:33Z"
     },
@@ -178,7 +178,7 @@
       "description": "基于 create-react-native-app 的 RN 开发环境，用于本地调试 RN 组件",
       "isPrivate": false,
       "isFork": false,
-      "stargazerCount": 0,
+      "stargazerCount": 1,
       "url": "https://github.com/yes1am/RNworkshop",
       "createdAt": "2020-03-21T06:54:31Z"
     },
@@ -205,7 +205,7 @@
       "description": "豆瓣大島",
       "isPrivate": false,
       "isFork": false,
-      "stargazerCount": 3,
+      "stargazerCount": 4,
       "url": "https://github.com/yes1am/dadao",
       "createdAt": "2020-06-24T07:35:48Z"
     },
@@ -214,7 +214,7 @@
       "description": null,
       "isPrivate": false,
       "isFork": false,
-      "stargazerCount": 3,
+      "stargazerCount": 4,
       "url": "https://github.com/yes1am/yes1am",
       "createdAt": "2020-07-18T05:57:43Z"
     },
@@ -286,7 +286,7 @@
       "description": "豆瓣电影日历",
       "isPrivate": false,
       "isFork": false,
-      "stargazerCount": 4,
+      "stargazerCount": 5,
       "url": "https://github.com/yes1am/douban-movie-calendar",
       "createdAt": "2020-10-24T07:00:46Z"
     },
@@ -313,7 +313,7 @@
       "description": "Don't Repeat Yourself",
       "isPrivate": false,
       "isFork": false,
-      "stargazerCount": 3,
+      "stargazerCount": 4,
       "url": "https://github.com/yes1am/dry",
       "createdAt": "2021-04-12T13:02:08Z"
     },
@@ -331,7 +331,7 @@
       "description": "一个用来写 demo 和学习各种技术的地方, 拥有诸多的技术栈开发环境，不用操心繁琐的配置，随时可用.",
       "isPrivate": false,
       "isFork": false,
-      "stargazerCount": 0,
+      "stargazerCount": 1,
       "url": "https://github.com/yes1am/workshop",
       "createdAt": "2021-04-28T06:25:25Z"
     },
@@ -349,7 +349,7 @@
       "description": "前端知识库",
       "isPrivate": false,
       "isFork": false,
-      "stargazerCount": 1,
+      "stargazerCount": 2,
       "url": "https://github.com/yes1am/fe-knowledge",
       "createdAt": "2021-05-09T05:28:41Z"
     },
@@ -358,7 +358,7 @@
       "description": null,
       "isPrivate": false,
       "isFork": false,
-      "stargazerCount": 0,
+      "stargazerCount": 1,
       "url": "https://github.com/yes1am/chat-now",
       "createdAt": "2021-05-13T12:15:22Z"
     },
@@ -367,7 +367,7 @@
       "description": "Logo Generator",
       "isPrivate": false,
       "isFork": false,
-      "stargazerCount": 58,
+      "stargazerCount": 59,
       "url": "https://github.com/yes1am/logo-hub",
       "createdAt": "2021-06-13T11:23:09Z"
     },
@@ -376,7 +376,7 @@
       "description": "喂 三點幾啦 做 做撚咩 做",
       "isPrivate": false,
       "isFork": false,
-      "stargazerCount": 0,
+      "stargazerCount": 1,
       "url": "https://github.com/yes1am/yin-cha-xian",
       "createdAt": "2021-06-22T03:07:43Z"
     },
@@ -385,7 +385,7 @@
       "description": null,
       "isPrivate": false,
       "isFork": false,
-      "stargazerCount": 0,
+      "stargazerCount": 1,
       "url": "https://github.com/yes1am/cronhub",
       "createdAt": "2021-10-25T09:25:24Z"
     },
@@ -394,7 +394,7 @@
       "description": "交换信息",
       "isPrivate": false,
       "isFork": false,
-      "stargazerCount": 0,
+      "stargazerCount": 1,
       "url": "https://github.com/yes1am/exchange",
       "createdAt": "2022-01-08T06:14:14Z"
     },
@@ -403,7 +403,7 @@
       "description": "小程序学习",
       "isPrivate": false,
       "isFork": false,
-      "stargazerCount": 0,
+      "stargazerCount": 1,
       "url": "https://github.com/yes1am/miniprogram-with-nodejs",
       "createdAt": "2022-02-15T14:17:00Z"
     },
@@ -412,7 +412,7 @@
       "description": null,
       "isPrivate": false,
       "isFork": false,
-      "stargazerCount": 0,
+      "stargazerCount": 1,
       "url": "https://github.com/yes1am/okjike.online",
       "createdAt": "2022-03-27T03:39:38Z"
     },
@@ -421,7 +421,7 @@
       "description": "Vue version of https://github.com/anup-a/svgwave",
       "isPrivate": false,
       "isFork": false,
-      "stargazerCount": 0,
+      "stargazerCount": 1,
       "url": "https://github.com/yes1am/vue-svgwave",
       "createdAt": "2022-09-16T06:21:13Z"
     },
@@ -430,7 +430,7 @@
       "description": "微信小程序-小书架",
       "isPrivate": false,
       "isFork": false,
-      "stargazerCount": 0,
+      "stargazerCount": 1,
       "url": "https://github.com/yes1am/little-shelf",
       "createdAt": "2022-10-05T10:09:27Z"
     },
@@ -439,7 +439,7 @@
       "description": "一款聊天机器人，名称灵感来源于 Better Call Saul",
       "isPrivate": false,
       "isFork": false,
-      "stargazerCount": 0,
+      "stargazerCount": 1,
       "url": "https://github.com/yes1am/Saul-Goodman",
       "createdAt": "2022-10-07T12:18:40Z"
     },
@@ -448,7 +448,7 @@
       "description": "代理服务",
       "isPrivate": false,
       "isFork": false,
-      "stargazerCount": 0,
+      "stargazerCount": 1,
       "url": "https://github.com/yes1am/express-proxy",
       "createdAt": "2022-11-14T12:43:05Z"
     },
@@ -457,7 +457,7 @@
       "description": null,
       "isPrivate": false,
       "isFork": false,
-      "stargazerCount": 0,
+      "stargazerCount": 1,
       "url": "https://github.com/yes1am/webpack-spritesmith-demo",
       "createdAt": "2022-12-15T13:21:32Z"
     }
