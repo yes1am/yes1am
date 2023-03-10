@@ -1,5 +1,5 @@
 {
-  "total": 340,
+  "total": 341,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3784,7 +3784,18 @@
       },
       "starredAt": "2023-03-08T03:49:38Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0wOFQxMTo0OTozOCswODowMM4Xldlz"
+    },
+    {
+      "name": "badjs-report",
+      "url": "https://github.com/BetterJS/badjs-report",
+      "description": "monitor error and report ",
+      "owner": {
+        "login": "BetterJS",
+        "url": "https://github.com/BetterJS"
+      },
+      "starredAt": "2023-03-09T12:03:58Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0wOVQyMDowMzo1OCswODowMM4Xpyxu"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0wOFQxMTo0OTozOCswODowMM4Xldlz"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0wOVQyMDowMzo1OCswODowMM4Xpyxu"
 }

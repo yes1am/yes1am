@@ -30,7 +30,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (51)
-		&nbsp;Update At 3/9/2023, 12:39:46 AM 
+		&nbsp;Update At 3/10/2023, 12:39:17 AM 
   </summary>
   <br>
 
@@ -91,12 +91,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (340)
+    <strong>👆 👉 What I Star. 👇<strong> (341)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [BetterJS](https://github.com/BetterJS)/[badjs-report](https://github.com/BetterJS/badjs-report): monitor error and report  |
 | [Tencent](https://github.com/Tencent)/[tdesign-vue](https://github.com/Tencent/tdesign-vue): A Vue.js UI components lib for TDesign. |
 | [lit](https://github.com/lit)/[lit](https://github.com/lit/lit): Lit is a simple library for building fast, lightweight web components. |
 | [flomoapp](https://github.com/flomoapp)/[3rd-party-tools](https://github.com/flomoapp/3rd-party-tools):  |
