@@ -1,6 +1,6 @@
 {
-  "realTotal": 67,
-  "visibleTotal": 51,
+  "realTotal": 68,
+  "visibleTotal": 52,
   "repos": [
     {
       "name": "blog",
@@ -367,7 +367,7 @@
       "description": "Logo Generator",
       "isPrivate": false,
       "isFork": false,
-      "stargazerCount": 59,
+      "stargazerCount": 60,
       "url": "https://github.com/yes1am/logo-hub",
       "createdAt": "2021-06-13T11:23:09Z"
     },
@@ -460,6 +460,15 @@
       "stargazerCount": 1,
       "url": "https://github.com/yes1am/webpack-spritesmith-demo",
       "createdAt": "2022-12-15T13:21:32Z"
+    },
+    {
+      "name": "hi",
+      "description": null,
+      "isPrivate": false,
+      "isFork": false,
+      "stargazerCount": 0,
+      "url": "https://github.com/yes1am/hi",
+      "createdAt": "2023-03-10T12:46:35Z"
     }
   ]
 }
