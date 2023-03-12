@@ -1,5 +1,5 @@
 {
-  "total": 342,
+  "total": 343,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3806,7 +3806,18 @@
       },
       "starredAt": "2023-03-10T12:58:49Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0xMFQyMDo1ODo0OSswODowMM4XrjbY"
+    },
+    {
+      "name": "memos",
+      "url": "https://github.com/usememos/memos",
+      "description": "An open-source, self-hosted memo hub with knowledge management and social networking.",
+      "owner": {
+        "login": "usememos",
+        "url": "https://github.com/usememos"
+      },
+      "starredAt": "2023-03-11T11:37:22Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0xMVQxOTozNzoyMiswODowMM4XtAYB"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0xMFQyMDo1ODo0OSswODowMM4XrjbY"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0xMVQxOTozNzoyMiswODowMM4XtAYB"
 }

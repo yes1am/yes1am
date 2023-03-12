@@ -30,7 +30,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (52)
-		&nbsp;Update At 3/11/2023, 12:33:34 AM 
+		&nbsp;Update At 3/12/2023, 12:39:25 AM 
   </summary>
   <br>
 
@@ -92,12 +92,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (342)
+    <strong>👆 👉 What I Star. 👇<strong> (343)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [usememos](https://github.com/usememos)/[memos](https://github.com/usememos/memos): An open-source, self-hosted memo hub with knowledge management and social networking. |
 | [youzan](https://github.com/youzan)/[vant](https://github.com/youzan/vant): A lightweight, customizable Vue UI library for mobile web apps. |
 | [BetterJS](https://github.com/BetterJS)/[badjs-report](https://github.com/BetterJS/badjs-report): monitor error and report  |
 | [Tencent](https://github.com/Tencent)/[tdesign-vue](https://github.com/Tencent/tdesign-vue): A Vue.js UI components lib for TDesign. |
