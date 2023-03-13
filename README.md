@@ -30,7 +30,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (52)
-		&nbsp;Update At 3/12/2023, 12:39:25 AM 
+		&nbsp;Update At 3/13/2023, 12:38:00 AM 
   </summary>
   <br>
 
@@ -38,7 +38,7 @@ Code For Fun
 | --- | --- | --- |
 | [logo-hub](https://github.com/yes1am/logo-hub) | Logo Generator | 60 |
 | [stand-up-comedy](https://github.com/yes1am/stand-up-comedy) | 单口喜剧表演手册 | 25 |
-| [Outline](https://github.com/yes1am/Outline) | Generate outline for website | 13 |
+| [Outline](https://github.com/yes1am/Outline) | Generate outline for website | 12 |
 | [blog](https://github.com/yes1am/blog) | :camera: 个人博客 | 11 |
 | [douban-movie-calendar](https://github.com/yes1am/douban-movie-calendar) | 豆瓣电影日历 | 5 |
 | [dry](https://github.com/yes1am/dry) | Don&#39;t Repeat Yourself | 4 |
