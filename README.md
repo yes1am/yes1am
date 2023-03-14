@@ -30,7 +30,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (52)
-		&nbsp;Update At 3/13/2023, 12:38:00 AM 
+		&nbsp;Update At 3/14/2023, 12:33:30 AM 
   </summary>
   <br>
 
@@ -92,12 +92,14 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (343)
+    <strong>👆 👉 What I Star. 👇<strong> (345)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [openai](https://github.com/openai)/[whisper](https://github.com/openai/whisper): Robust Speech Recognition via Large-Scale Weak Supervision |
+| [immersive-translate](https://github.com/immersive-translate)/[immersive-translate](https://github.com/immersive-translate/immersive-translate): Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展  |
 | [usememos](https://github.com/usememos)/[memos](https://github.com/usememos/memos): An open-source, self-hosted memo hub with knowledge management and social networking. |
 | [youzan](https://github.com/youzan)/[vant](https://github.com/youzan/vant): A lightweight, customizable Vue UI library for mobile web apps. |
 | [BetterJS](https://github.com/BetterJS)/[badjs-report](https://github.com/BetterJS/badjs-report): monitor error and report  |

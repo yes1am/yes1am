@@ -1,5 +1,5 @@
 {
-  "total": 343,
+  "total": 345,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3817,7 +3817,29 @@
       },
       "starredAt": "2023-03-11T11:37:22Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0xMVQxOTozNzoyMiswODowMM4XtAYB"
+    },
+    {
+      "name": "immersive-translate",
+      "url": "https://github.com/immersive-translate/immersive-translate",
+      "description": "Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展 ",
+      "owner": {
+        "login": "immersive-translate",
+        "url": "https://github.com/immersive-translate"
+      },
+      "starredAt": "2023-03-13T13:56:27Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0xM1QyMTo1NjoyNyswODowMM4Xv-Gp"
+    },
+    {
+      "name": "whisper",
+      "url": "https://github.com/openai/whisper",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "owner": {
+        "login": "openai",
+        "url": "https://github.com/openai"
+      },
+      "starredAt": "2023-03-13T14:00:05Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0xM1QyMjowMDowNSswODowMM4Xv-cP"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0xMVQxOTozNzoyMiswODowMM4XtAYB"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0xM1QyMjowMDowNSswODowMM4Xv-cP"
 }
