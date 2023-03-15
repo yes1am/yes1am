@@ -1,6 +1,55 @@
 {
-  "total": 165,
+  "total": 166,
   "users": [
+    {
+      "bio": "Shoot for the moon, even if you miss you'll land among the stars.",
+      "name": "Jehoshaphat Tse",
+      "login": "tsejx",
+      "url": "https://github.com/tsejx",
+      "itemShowcase": {
+        "items": {
+          "totalCount": 6,
+          "nodes": [
+            {
+              "description": ":books:JavaScript 前端知识图谱 A guidebook for the convenience of the front-end developers",
+              "name": "javascript-guidebook",
+              "url": "https://github.com/tsejx/javascript-guidebook",
+              "stargazerCount": 646
+            },
+            {
+              "description": "🧗🏻‍♂️技术需要沉淀",
+              "name": "blog",
+              "url": "https://github.com/tsejx/blog",
+              "stargazerCount": 11
+            },
+            {
+              "description": "📚 Webpack 知识图谱：模块化、基础概念、工作原理、实战应用",
+              "name": "webpack-guidebook",
+              "url": "https://github.com/tsejx/webpack-guidebook",
+              "stargazerCount": 188
+            },
+            {
+              "description": "📚 DevOps 知识图谱 关于Linux、服务器、数据库、部署等相关体系",
+              "name": "devops-guidebook",
+              "url": "https://github.com/tsejx/devops-guidebook",
+              "stargazerCount": 63
+            },
+            {
+              "description": "📚 跨平台开发知识图谱：HybridApp、小程序、ReactNative、Flutter、Electron",
+              "name": "cross-platform-guidebook",
+              "url": "https://github.com/tsejx/cross-platform-guidebook",
+              "stargazerCount": 17
+            },
+            {
+              "description": "📚 React 知识图谱 关于概念、技巧、生态、前沿、源码核心",
+              "name": "react-guidebook",
+              "url": "https://github.com/tsejx/react-guidebook",
+              "stargazerCount": 36
+            }
+          ]
+        }
+      }
+    },
     {
       "bio": "follow me at superzheng.com",
       "name": "Super Zheng",
