@@ -1,5 +1,5 @@
 {
-  "total": 345,
+  "total": 347,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3839,7 +3839,29 @@
       },
       "starredAt": "2023-03-13T14:00:05Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0xM1QyMjowMDowNSswODowMM4Xv-cP"
+    },
+    {
+      "name": "cursor",
+      "url": "https://github.com/getcursor/cursor",
+      "description": "An editor built for programming with AI 🤖",
+      "owner": {
+        "login": "getcursor",
+        "url": "https://github.com/getcursor"
+      },
+      "starredAt": "2023-03-17T08:15:43Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0xN1QxNjoxNTo0MyswODowMM4X19R0"
+    },
+    {
+      "name": "chatgpt-next",
+      "url": "https://github.com/xcatliu/chatgpt-next",
+      "description": null,
+      "owner": {
+        "login": "xcatliu",
+        "url": "https://github.com/xcatliu"
+      },
+      "starredAt": "2023-03-17T23:47:13Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0xOFQwNzo0NzoxMyswODowMM4X27-w"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0xM1QyMjowMDowNSswODowMM4Xv-cP"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0xOFQwNzo0NzoxMyswODowMM4X27-w"
 }

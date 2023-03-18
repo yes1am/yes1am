@@ -30,7 +30,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (52)
-		&nbsp;Update At 3/17/2023, 12:37:26 AM 
+		&nbsp;Update At 3/18/2023, 12:36:14 AM 
   </summary>
   <br>
 
@@ -92,12 +92,14 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (345)
+    <strong>👆 👉 What I Star. 👇<strong> (347)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [xcatliu](https://github.com/xcatliu)/[chatgpt-next](https://github.com/xcatliu/chatgpt-next):  |
+| [getcursor](https://github.com/getcursor)/[cursor](https://github.com/getcursor/cursor): An editor built for programming with AI 🤖 |
 | [openai](https://github.com/openai)/[whisper](https://github.com/openai/whisper): Robust Speech Recognition via Large-Scale Weak Supervision |
 | [immersive-translate](https://github.com/immersive-translate)/[immersive-translate](https://github.com/immersive-translate/immersive-translate): Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展  |
 | [usememos](https://github.com/usememos)/[memos](https://github.com/usememos/memos): An open-source, self-hosted memo hub with knowledge management and social networking. |
