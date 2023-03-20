@@ -6,7 +6,6 @@ Code For Fun
 - Outline: https://github.com/yes1am/Outline
 - 豆瓣大島: https://yes1am.github.io/dadao/
 - stand-up-comedy: https://yes1am.github.io/stand-up-comedy/
-- 个人站点: https://songjp.online/
 - 豆瓣日历: https://yes1am.github.io/douban-movie-calendar/
 
 ### Stack Overflow
@@ -30,7 +29,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (52)
-		&nbsp;Update At 3/19/2023, 12:40:32 AM 
+		&nbsp;Update At 3/20/2023, 12:38:27 AM 
   </summary>
   <br>
 
@@ -92,12 +91,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (347)
+    <strong>👆 👉 What I Star. 👇<strong> (348)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [AUTOMATIC1111](https://github.com/AUTOMATIC1111)/[stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI |
 | [xcatliu](https://github.com/xcatliu)/[chatgpt-next](https://github.com/xcatliu/chatgpt-next):  |
 | [getcursor](https://github.com/getcursor)/[cursor](https://github.com/getcursor/cursor): An editor built for programming with AI 🤖 |
 | [openai](https://github.com/openai)/[whisper](https://github.com/openai/whisper): Robust Speech Recognition via Large-Scale Weak Supervision |

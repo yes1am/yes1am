@@ -1,5 +1,5 @@
 {
-  "total": 347,
+  "total": 348,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3861,7 +3861,18 @@
       },
       "starredAt": "2023-03-17T23:47:13Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0xOFQwNzo0NzoxMyswODowMM4X27-w"
+    },
+    {
+      "name": "stable-diffusion-webui",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "description": "Stable Diffusion web UI",
+      "owner": {
+        "login": "AUTOMATIC1111",
+        "url": "https://github.com/AUTOMATIC1111"
+      },
+      "starredAt": "2023-03-19T01:21:38Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0xOVQwOToyMTozOCswODowMM4X4Mg2"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0xOFQwNzo0NzoxMyswODowMM4X27-w"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0xOVQwOToyMTozOCswODowMM4X4Mg2"
 }
