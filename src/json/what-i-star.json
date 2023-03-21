@@ -1,5 +1,5 @@
 {
-  "total": 348,
+  "total": 349,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3872,7 +3872,18 @@
       },
       "starredAt": "2023-03-19T01:21:38Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0xOVQwOToyMTozOCswODowMM4X4Mg2"
+    },
+    {
+      "name": "vue-vmarker",
+      "url": "https://github.com/sunshengfei/vue-vmarker",
+      "description": "关于ui-picture-bd-marker插件的Vue封装, 文档地址: ",
+      "owner": {
+        "login": "sunshengfei",
+        "url": "https://github.com/sunshengfei"
+      },
+      "starredAt": "2023-03-20T13:05:43Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0yMFQyMTowNTo0MyswODowMM4X6bD-"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0xOVQwOToyMTozOCswODowMM4X4Mg2"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0yMFQyMTowNTo0MyswODowMM4X6bD-"
 }

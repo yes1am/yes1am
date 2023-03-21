@@ -29,7 +29,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (52)
-		&nbsp;Update At 3/20/2023, 12:38:27 AM 
+		&nbsp;Update At 3/21/2023, 12:35:19 AM 
   </summary>
   <br>
 
@@ -91,12 +91,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (348)
+    <strong>👆 👉 What I Star. 👇<strong> (349)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [sunshengfei](https://github.com/sunshengfei)/[vue-vmarker](https://github.com/sunshengfei/vue-vmarker): 关于ui-picture-bd-marker插件的Vue封装, 文档地址:  |
 | [AUTOMATIC1111](https://github.com/AUTOMATIC1111)/[stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI |
 | [xcatliu](https://github.com/xcatliu)/[chatgpt-next](https://github.com/xcatliu/chatgpt-next):  |
 | [getcursor](https://github.com/getcursor)/[cursor](https://github.com/getcursor/cursor): An editor built for programming with AI 🤖 |
