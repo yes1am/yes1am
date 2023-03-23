@@ -29,7 +29,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (52)
-		&nbsp;Update At 3/22/2023, 12:34:14 AM 
+		&nbsp;Update At 3/23/2023, 12:36:04 AM 
   </summary>
   <br>
 
@@ -37,8 +37,8 @@ Code For Fun
 | --- | --- | --- |
 | [logo-hub](https://github.com/yes1am/logo-hub) | Logo Generator | 60 |
 | [stand-up-comedy](https://github.com/yes1am/stand-up-comedy) | 单口喜剧表演手册 | 25 |
+| [Outline](https://github.com/yes1am/Outline) | Generate outline for website | 13 |
 | [blog](https://github.com/yes1am/blog) | :camera: 个人博客 | 12 |
-| [Outline](https://github.com/yes1am/Outline) | Generate outline for website | 12 |
 | [douban-movie-calendar](https://github.com/yes1am/douban-movie-calendar) | 豆瓣电影日历 | 5 |
 | [dry](https://github.com/yes1am/dry) | Don&#39;t Repeat Yourself | 4 |
 | [yes1am](https://github.com/yes1am/yes1am) |  | 4 |
@@ -91,12 +91,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (349)
+    <strong>👆 👉 What I Star. 👇<strong> (350)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [dqbd](https://github.com/dqbd)/[tiktoken](https://github.com/dqbd/tiktoken):  |
 | [sunshengfei](https://github.com/sunshengfei)/[vue-vmarker](https://github.com/sunshengfei/vue-vmarker): 关于ui-picture-bd-marker插件的Vue封装, 文档地址:  |
 | [AUTOMATIC1111](https://github.com/AUTOMATIC1111)/[stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI |
 | [xcatliu](https://github.com/xcatliu)/[chatgpt-next](https://github.com/xcatliu/chatgpt-next):  |
