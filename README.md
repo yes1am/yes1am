@@ -29,7 +29,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (52)
-		&nbsp;Update At 3/23/2023, 12:36:04 AM 
+		&nbsp;Update At 3/24/2023, 12:34:54 AM 
   </summary>
   <br>
 
@@ -91,12 +91,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (350)
+    <strong>👆 👉 What I Star. 👇<strong> (351)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [xx025](https://github.com/xx025)/[carrot](https://github.com/xx025/carrot): 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点 |
 | [dqbd](https://github.com/dqbd)/[tiktoken](https://github.com/dqbd/tiktoken):  |
 | [sunshengfei](https://github.com/sunshengfei)/[vue-vmarker](https://github.com/sunshengfei/vue-vmarker): 关于ui-picture-bd-marker插件的Vue封装, 文档地址:  |
 | [AUTOMATIC1111](https://github.com/AUTOMATIC1111)/[stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI |

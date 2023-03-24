@@ -1,5 +1,5 @@
 {
-  "total": 350,
+  "total": 351,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3894,7 +3894,18 @@
       },
       "starredAt": "2023-03-22T06:52:02Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0yMlQxNDo1MjowMiswODowMM4X-P6V"
+    },
+    {
+      "name": "carrot",
+      "url": "https://github.com/xx025/carrot",
+      "description": "这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点",
+      "owner": {
+        "login": "xx025",
+        "url": "https://github.com/xx025"
+      },
+      "starredAt": "2023-03-23T11:01:20Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0yM1QxOTowMToyMCswODowMM4YA0aF"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0yMlQxNDo1MjowMiswODowMM4X-P6V"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0yM1QxOTowMToyMCswODowMM4YA0aF"
 }
