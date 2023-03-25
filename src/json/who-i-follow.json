@@ -1,6 +1,43 @@
 {
-  "total": 166,
+  "total": 167,
   "users": [
+    {
+      "bio": "Simple forum software for building great communities.",
+      "name": "Flarum",
+      "login": "flarum",
+      "url": "https://github.com/flarum",
+      "itemShowcase": {
+        "items": {
+          "totalCount": 4,
+          "nodes": [
+            {
+              "description": "Simple forum software for building great communities.",
+              "name": "flarum",
+              "url": "https://github.com/flarum/flarum",
+              "stargazerCount": 13834
+            },
+            {
+              "description": "Simple forum software for building great communities.",
+              "name": "framework",
+              "url": "https://github.com/flarum/framework",
+              "stargazerCount": 5886
+            },
+            {
+              "description": "Flarum documentation.",
+              "name": "docs",
+              "url": "https://github.com/flarum/docs",
+              "stargazerCount": 59
+            },
+            {
+              "description": "A CLI helper for developing Flarum extensions.",
+              "name": "cli",
+              "url": "https://github.com/flarum/cli",
+              "stargazerCount": 31
+            }
+          ]
+        }
+      }
+    },
     {
       "bio": "Shoot for the moon, even if you miss you'll land among the stars.",
       "name": "Jehoshaphat Tse",

@@ -29,7 +29,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (52)
-		&nbsp;Update At 3/24/2023, 12:34:54 AM 
+		&nbsp;Update At 3/25/2023, 12:34:51 AM 
   </summary>
   <br>
 
@@ -456,12 +456,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 Who I Follow. 👇<strong> (166)
+    <strong>👆 👉 Who I Follow. 👇<strong> (167)
   </summary>
   <br>
 
 | Following  |
 | --- | 
+| [flarum](https://github.com/flarum)<ul><li>[flarum](https://github.com/flarum/flarum): Simple forum software for building great communities.</li><li>[framework](https://github.com/flarum/framework): Simple forum software for building great communities.</li><li>[docs](https://github.com/flarum/docs): Flarum documentation.</li><li>[cli](https://github.com/flarum/cli): A CLI helper for developing Flarum extensions.</li><ul>|
 | [tsejx](https://github.com/tsejx)<ul><li>[javascript-guidebook](https://github.com/tsejx/javascript-guidebook): :books:JavaScript 前端知识图谱 A guidebook for the convenience of the front-end developers</li><li>[blog](https://github.com/tsejx/blog): 🧗🏻‍♂️技术需要沉淀</li><li>[webpack-guidebook](https://github.com/tsejx/webpack-guidebook): 📚 Webpack 知识图谱：模块化、基础概念、工作原理、实战应用</li><li>[devops-guidebook](https://github.com/tsejx/devops-guidebook): 📚 DevOps 知识图谱 关于Linux、服务器、数据库、部署等相关体系</li><li>[cross-platform-guidebook](https://github.com/tsejx/cross-platform-guidebook): 📚 跨平台开发知识图谱：HybridApp、小程序、ReactNative、Flutter、Electron</li><li>[react-guidebook](https://github.com/tsejx/react-guidebook): 📚 React 知识图谱 关于概念、技巧、生态、前沿、源码核心</li><ul>|
 | [medns](https://github.com/medns)<ul><li>[Hippy](https://github.com/Tencent/Hippy): Hippy is designed to easily build cross-platform dynamic apps. 👏</li><ul>|
 | [plidezus](https://github.com/plidezus)<ul><li>[aimozhen](https://github.com/plidezus/aimozhen): 艾默镇</li><li>[bootstrap](https://github.com/plidezus/bootstrap): HTML, CSS, and JS toolkit from Twitter</li><li>[v2ex](https://github.com/plidezus/v2ex): Community running on Google App Engine</li><li>[olivida-start](https://github.com/plidezus/olivida-start): </li><li>[YuGiOh_Card_for_Wechat](https://github.com/plidezus/YuGiOh_Card_for_Wechat): 游戏王卡片查询器 for 微信</li><li>[typo.css](https://github.com/plidezus/typo.css): 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版</li><ul>|
