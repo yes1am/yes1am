@@ -1,5 +1,5 @@
 {
-  "total": 351,
+  "total": 353,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3905,7 +3905,29 @@
       },
       "starredAt": "2023-03-23T11:01:20Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0yM1QxOTowMToyMCswODowMM4YA0aF"
+    },
+    {
+      "name": "chathub",
+      "url": "https://github.com/chathub-dev/chathub",
+      "description": "All-in-one chatbot client",
+      "owner": {
+        "login": "chathub-dev",
+        "url": "https://github.com/chathub-dev"
+      },
+      "starredAt": "2023-03-25T02:08:50Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0yNVQxMDowODo1MCswODowMM4YDItx"
+    },
+    {
+      "name": "i",
+      "url": "https://github.com/i2ii/i",
+      "description": null,
+      "owner": {
+        "login": "i2ii",
+        "url": "https://github.com/i2ii"
+      },
+      "starredAt": "2023-03-25T03:37:01Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0yNVQxMTozNzowMSswODowMM4YDLcY"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0yM1QxOTowMToyMCswODowMM4YA0aF"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0yNVQxMTozNzowMSswODowMM4YDLcY"
 }

@@ -28,8 +28,8 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 GitHub repositories. 👇<strong> (52)
-		&nbsp;Update At 3/25/2023, 12:34:51 AM 
+    <strong>👆 👉 GitHub repositories. 👇<strong> (53)
+		&nbsp;Update At 3/26/2023, 12:38:32 AM 
   </summary>
   <br>
 
@@ -75,7 +75,7 @@ Code For Fun
 | [react-ui-webpack](https://github.com/yes1am/react-ui-webpack) | React ui library, bundled by webpack | - |
 | [vue-assistive-touch](https://github.com/yes1am/vue-assistive-touch) | Vue version of Assistive Touch, Inspired by and copy code from https://github.com/abhishekkhandait/react-assistivetouch-menu | - |
 | [oh-my-github](https://github.com/yes1am/oh-my-github) | do some interesting things by using github api | - |
-| [hi](https://github.com/yes1am/hi) |  | - |
+| [xiaoyuzhou](https://github.com/yes1am/xiaoyuzhou) | 小宇宙播客相关 | - |
 | [learn-typescript](https://github.com/yes1am/learn-typescript) | 学习 TypeScript | - |
 | [express-vue-boilerplate](https://github.com/yes1am/express-vue-boilerplate) | 基于 express 的 Vue 开发环境 | - |
 | [fe-lib](https://github.com/yes1am/fe-lib) | fe-lib | - |
@@ -86,17 +86,20 @@ Code For Fun
 | [oauth-demo](https://github.com/yes1am/oauth-demo) | github-oauth-demo | - |
 | [wechat-dev](https://github.com/yes1am/wechat-dev) | 微信公众号开发, Node 示例 | - |
 | [js-leetcode](https://github.com/yes1am/js-leetcode) | solve and analyze leetcode | - |
+| [hi](https://github.com/yes1am/hi) |  | - |
 | [mobile-workshop](https://github.com/yes1am/mobile-workshop) | 移动端开发 工作坊 | - |
 </details>
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (351)
+    <strong>👆 👉 What I Star. 👇<strong> (353)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [i2ii](https://github.com/i2ii)/[i](https://github.com/i2ii/i):  |
+| [chathub-dev](https://github.com/chathub-dev)/[chathub](https://github.com/chathub-dev/chathub): All-in-one chatbot client |
 | [xx025](https://github.com/xx025)/[carrot](https://github.com/xx025/carrot): 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点 |
 | [dqbd](https://github.com/dqbd)/[tiktoken](https://github.com/dqbd/tiktoken):  |
 | [sunshengfei](https://github.com/sunshengfei)/[vue-vmarker](https://github.com/sunshengfei/vue-vmarker): 关于ui-picture-bd-marker插件的Vue封装, 文档地址:  |
