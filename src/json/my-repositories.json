@@ -1,6 +1,6 @@
 {
   "realTotal": 68,
-  "visibleTotal": 53,
+  "visibleTotal": 52,
   "repos": [
     {
       "name": "blog",
@@ -469,15 +469,6 @@
       "stargazerCount": 0,
       "url": "https://github.com/yes1am/hi",
       "createdAt": "2023-03-10T12:46:35Z"
-    },
-    {
-      "name": "xiaoyuzhou",
-      "description": "小宇宙播客相关",
-      "isPrivate": false,
-      "isFork": false,
-      "stargazerCount": 0,
-      "url": "https://github.com/yes1am/xiaoyuzhou",
-      "createdAt": "2023-03-25T13:58:25Z"
     }
   ]
 }

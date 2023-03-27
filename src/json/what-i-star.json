@@ -1,5 +1,5 @@
 {
-  "total": 353,
+  "total": 354,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3927,7 +3927,18 @@
       },
       "starredAt": "2023-03-25T03:37:01Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0yNVQxMTozNzowMSswODowMM4YDLcY"
+    },
+    {
+      "name": "chatgpt-wechat",
+      "url": "https://github.com/whyiyhw/chatgpt-wechat",
+      "description": "可在微信 安全使用的 ChatGPT 个人助手应用",
+      "owner": {
+        "login": "whyiyhw",
+        "url": "https://github.com/whyiyhw"
+      },
+      "starredAt": "2023-03-26T08:43:33Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0yNlQxNjo0MzozMyswODowMM4YEMFF"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0yNVQxMTozNzowMSswODowMM4YDLcY"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0yNlQxNjo0MzozMyswODowMM4YEMFF"
 }
