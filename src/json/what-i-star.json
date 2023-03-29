@@ -1,5 +1,5 @@
 {
-  "total": 354,
+  "total": 355,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3938,7 +3938,18 @@
       },
       "starredAt": "2023-03-26T08:43:33Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0yNlQxNjo0MzozMyswODowMM4YEMFF"
+    },
+    {
+      "name": "ui-picture-bd-marker",
+      "url": "https://github.com/sunshengfei/ui-picture-bd-marker",
+      "description": "npm 高仿百度AI图像物体检测标注控件,文档地址：",
+      "owner": {
+        "login": "sunshengfei",
+        "url": "https://github.com/sunshengfei"
+      },
+      "starredAt": "2023-03-28T04:58:52Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0yOFQxMjo1ODo1MiswODowMM4YG47K"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0yNlQxNjo0MzozMyswODowMM4YEMFF"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0yOFQxMjo1ODo1MiswODowMM4YG47K"
 }

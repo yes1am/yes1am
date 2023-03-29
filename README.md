@@ -29,7 +29,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (52)
-		&nbsp;Update At 3/28/2023, 12:36:49 AM 
+		&nbsp;Update At 3/29/2023, 12:39:58 AM 
   </summary>
   <br>
 
@@ -91,12 +91,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (354)
+    <strong>👆 👉 What I Star. 👇<strong> (355)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [sunshengfei](https://github.com/sunshengfei)/[ui-picture-bd-marker](https://github.com/sunshengfei/ui-picture-bd-marker): npm 高仿百度AI图像物体检测标注控件,文档地址： |
 | [whyiyhw](https://github.com/whyiyhw)/[chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat): 可在微信 安全使用的 ChatGPT 个人助手应用 |
 | [i2ii](https://github.com/i2ii)/[i](https://github.com/i2ii/i):  |
 | [chathub-dev](https://github.com/chathub-dev)/[chathub](https://github.com/chathub-dev/chathub): All-in-one chatbot client |
