@@ -29,7 +29,7 @@ Code For Fun
 <details>
   <summary>
     <strong>👆 👉 GitHub repositories. 👇<strong> (52)
-		&nbsp;Update At 3/29/2023, 12:39:58 AM 
+		&nbsp;Update At 3/30/2023, 12:36:23 AM 
   </summary>
   <br>
 
@@ -39,7 +39,7 @@ Code For Fun
 | [stand-up-comedy](https://github.com/yes1am/stand-up-comedy) | 单口喜剧表演手册 | 25 |
 | [Outline](https://github.com/yes1am/Outline) | Generate outline for website | 13 |
 | [blog](https://github.com/yes1am/blog) | :camera: 个人博客 | 12 |
-| [douban-movie-calendar](https://github.com/yes1am/douban-movie-calendar) | 豆瓣电影日历 | 5 |
+| [douban-movie-calendar](https://github.com/yes1am/douban-movie-calendar) | 豆瓣电影日历 | 6 |
 | [dry](https://github.com/yes1am/dry) | Don&#39;t Repeat Yourself | 4 |
 | [yes1am](https://github.com/yes1am/yes1am) |  | 4 |
 | [dadao](https://github.com/yes1am/dadao) | 豆瓣大島 | 4 |
@@ -91,12 +91,13 @@ Code For Fun
 
 <details>
   <summary>
-    <strong>👆 👉 What I Star. 👇<strong> (355)
+    <strong>👆 👉 What I Star. 👇<strong> (356)
   </summary>
   <br>
 
 | repository  |
 | --- | 
+| [chidiwilliams](https://github.com/chidiwilliams)/[buzz](https://github.com/chidiwilliams/buzz): Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI&#39;s Whisper. |
 | [sunshengfei](https://github.com/sunshengfei)/[ui-picture-bd-marker](https://github.com/sunshengfei/ui-picture-bd-marker): npm 高仿百度AI图像物体检测标注控件,文档地址： |
 | [whyiyhw](https://github.com/whyiyhw)/[chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat): 可在微信 安全使用的 ChatGPT 个人助手应用 |
 | [i2ii](https://github.com/i2ii)/[i](https://github.com/i2ii/i):  |

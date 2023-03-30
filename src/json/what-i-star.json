@@ -1,5 +1,5 @@
 {
-  "total": 355,
+  "total": 356,
   "repos": [
     {
       "name": "canvasfilters",
@@ -3949,7 +3949,18 @@
       },
       "starredAt": "2023-03-28T04:58:52Z",
       "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0yOFQxMjo1ODo1MiswODowMM4YG47K"
+    },
+    {
+      "name": "buzz",
+      "url": "https://github.com/chidiwilliams/buzz",
+      "description": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
+      "owner": {
+        "login": "chidiwilliams",
+        "url": "https://github.com/chidiwilliams"
+      },
+      "starredAt": "2023-03-29T05:11:24Z",
+      "cursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0yOVQxMzoxMToyNCswODowMM4YIDVm"
     }
   ],
-  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0yOFQxMjo1ODo1MiswODowMM4YG47K"
+  "lastCursor": "Y3Vyc29yOnYyOpK5MjAyMy0wMy0yOVQxMzoxMToyNCswODowMM4YIDVm"
 }
